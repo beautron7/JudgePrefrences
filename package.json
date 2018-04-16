@@ -1,0 +1,17 @@
+{
+  "name": "judgephilosophies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "downlaodWikis.js",
+  "scripts": {
+    "start": "node downlaodWikis.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "artoo-js": "^0.4.0",
+    "basic-csv": "0.0.2",
+    "mz": "^2.7.0"
+  }
+}
