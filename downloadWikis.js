@@ -1,48 +1,76 @@
-const artoo = require("artoo-js");
 const cheerio = require('cheerio');
 const {readCSV} = require("./CSV");
-const request = require('request-promise-native');
 const http = require('http');
+const request = require('request');
+const rq = require('request-promise-native');
 const fs = require('promisify-fs');
 const sanitizeFilename = require('sanitize-filename');
-artoo.bootstrap(cheerio);
-// const fs = require('mz');
+const wait = require('./wait').default;
 
-async function main() {
-  //judges.csv can be downloaded off of the main page of the wiki. it's a list of all pages.
-  sitemapCSV = await readCSV("judges.csv")
-  //get a list of page names
-  let pages = sitemapCSV.map(el=>el[1])
+let errors = 0,
+    defaultRequestOptions,
+    pages;
 
-  //remove any pages that are attachments
-  pages = pages.filter(item=>!~(//blacklisted extensions:
-    ['.jpg','.gif','.png','.docx','.jpeg','.doc','.pdf','.xlsx','.pages','.webm']
-      .findIndex(extension=>~item.toLowerCase().indexOf(extension))
-  ))
+readCSV("judges.csv").then(sitemapCSV=>{
+  pages = sitemapCSV.map(el=>el[1])//get first col of each row
+  
+  
+  //remove pages that are files.
+  let blacklisted_extensions = ['.jpg','.gif','.png','.docx','.jpeg','.doc','.pdf','.xlsx','.pages','.webm']
+  pages = pages.filter(item=>!~(blacklisted_extensions.findIndex(extension=>~item.toLowerCase().indexOf(extension))))
+  
+  //set default options for requests
+  defaultRequestOptions = {
+    transform: cheerio.load,//when html is received, run cheerio.load(html), and pass to fcn.
+  };
 
-  //Get URLS for each judge's page
-  let judgeURLS = pages.map(name=>"https://judgephilosophies.wikispaces.com/"+encodeURIComponent(name.replace(" ","+")).replace("%2B","+"))
+  getJudge(0);//start the loop
+})
 
+function getNextJudge(i){
+  setTimeout(() => {//disassocaite with the callstack
+    getJudge(i+1)
+  }, 1000);//delay betwn. reqs.
+}
 
-  let errors = 0;
-
-  for (let i = 0; i < 10; i++) {
-    let progPrct = ~~(100*i/judgeURLS)
-    if(i % 10 == 0){
-      console.log(`Progress is at (${progPrct})%.\n# completed: ${i}\n# fails    : ${errors}\n# queued   : ${judgeURLS.length-i}`)
-    }
-
-    let url = judgeURLS[i];
-    request(url)
-      .then(html=>{
-        let $ = cheerio.load(html);
-        let data = $("#content_view").text();
-        return fs.writeFile(`./paradigms/${sanitizeFilename(pages[i])}.txt`,data,"utf8")
-      })
-      .catch(e=>{
-        errors++;
-        console.log("Failed to download or save "+url)
-      });
+function getJudge(i) {
+  if(i >= 4) {//TODO
+    return;
   }
-};main();
+
+  let progPrct = ~~(100*i/pages.length)
+  let judgeName = pages[i]
+  let judgeUrl = "https://judgephilosophies.wikispaces.com/"+encodeURIComponent(judgeName.replace(" ","+")).replace("%2B","+");
+  let requestOptions = Object.assign({
+    url:judgeUrl,
+  },defaultRequestOptions)
+  
+  console.log(`Progress is at (${progPrct})%.\n# attempted: ${i-errors}\n# fails    : ${errors}\n# queued   : ${judgeURLS.length-i}`)
+  
+  rq(requestOptions)
+    .then(function ($) {
+      let data = $("#content_view").text();
+      fs.writeFile(`./paradigms/${sanitizeFilename(judgeName)}.txt`,data,"utf8")
+        .then(()=>{
+          getNextJudge(i);//FIXED?
+        });
+    })
+    .catch(function (error) {
+      errors++;
+      console.log("Failed to download or save "+url)
+      console.log(error);
+      getNextJudge(i);
+    })
+}
+
+
+
+process.on('SIGINT', function() {//doesn't work.
+  console.log("Caught interrupt signal");
+  getNextJudge =(i)=>(false);
+  setTimeout(() => {
+    process.exit(1);
+  }, 1000);
+});
+
 
