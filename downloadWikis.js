@@ -34,7 +34,7 @@ function getNextJudge(i){
 }
 
 function getJudge(i) {
-  if(i >= 4) {//TODO
+  if(i >= pages.length) {//TODO
     return;
   }
 
@@ -45,32 +45,42 @@ function getJudge(i) {
     url:judgeUrl,
   },defaultRequestOptions)
   
-  console.log(`Progress is at (${progPrct})%.\n# attempted: ${i-errors}\n# fails    : ${errors}\n# queued   : ${judgeURLS.length-i}`)
+  console.log(`Progress is at (${progPrct})%.\n# attempted: ${i-errors}\n# fails    : ${errors}\n# queued   : ${pages.length-i}`)
   
   rq(requestOptions)
-    .then(function ($) {
+    .then(function ($) {    
       let data = $("#content_view").text();
       fs.writeFile(`./paradigms/${sanitizeFilename(judgeName)}.txt`,data,"utf8")
         .then(()=>{
           getNextJudge(i);//FIXED?
         });
     })
-    .catch(function (error) {
+    .catch(function (e) {
       errors++;
-      console.log("Failed to download or save "+url)
-      console.log(error);
+      console.log("Failed to download or save "+judgeName)
       getNextJudge(i);
+
+      e = JSON.stringify(e)
+      if(e.length > 100){
+        console.log(e.slice(0,50)+" ... "+e.slice(-50));
+      } else {
+        console.log(e)
+      }
     })
 }
 
 
 
 process.on('SIGINT', function() {//doesn't work.
-  console.log("Caught interrupt signal");
-  getNextJudge =(i)=>(false);
-  setTimeout(() => {
-    process.exit(1);
-  }, 1000);
+  console.log("Saving progress to ./paradigms/progress.txt");
+  getNextJudge =(i)=>{
+    fs.writeFile("./paradigms/progress.txt",i,"utf8").then(()=>{
+      setTimeout(() => {
+        process.exit(1);
+      }, 1000);
+    })
+  };
+  
 });
 
 
