@@ -11,7 +11,7 @@ let errors = 0,
     defaultRequestOptions,
     pages;
 
-readCSV("judges.csv").then(sitemapCSV=>{
+readCSV("wikipagelist.csv").then(sitemapCSV=>{
   pages = sitemapCSV.map(el=>el[1])//get first col of each row
   
   
@@ -77,38 +77,21 @@ function getJudge(i) {
 }
 
 
-let CtrlCFileTimeout = -1;
 
 process.on('SIGINT', function() {//doesn't work.
-  if(CtrlCFileTimeout == -1){
-    setTimeout(() => {
-      console.log("Saving progress to ./paradigms/progress.txt in ");
-    }, 100);
-    getNextJudge =(i)=>{//fix this later
-      CtrlCFileTimeout = setTimeout(() => {console.log("5");
-        CtrlCFileTimeout = setTimeout(() => {console.log("4");
-          CtrlCFileTimeout = setTimeout(() => {console.log("3");
-            CtrlCFileTimeout = setTimeout(() => {console.log("2");
-              CtrlCFileTimeout = setTimeout(() => {console.log("1");
-                fs.writeFile("./paradigms/progress.txt",i,"utf8").then(()=>{
-                  console.log("saved file to the thing");
-                  process.exit(0);
-                }).catch(()=>{
-                  console.log("failed to save progress");
-                  throw new Error("Exiting");
-                  process.exit(0)
-                })
-              }, 1000);
-            }, 1000);
-          }, 1000);
-        }, 1000);
-      }, 1000);
-    };
-  } else {
-    clearTimeout(CtrlCFileTimeout)
-    console.log("Quitting before saving");
-    process.exit(0)
-  }
+  setTimeout(() => {
+    console.log("Saving progress to ./paradigms/progress.txt");
+  }, 100);
+  getNextJudge =(i)=>{//fix this later
+    fs.writeFile("./paradigms/progress.txt",i,"utf8").then(()=>{
+      console.log("saved file to the thing");
+      process.exit(0);
+    }).catch(()=>{
+      console.log("failed to save progress");
+      throw new Error("Exiting");
+      process.exit(0)
+    })
+  };
 });
 
 
