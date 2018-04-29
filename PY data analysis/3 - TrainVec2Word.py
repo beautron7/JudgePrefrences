@@ -18,12 +18,12 @@ trainingData = np.identity(4096) #not a placeholder.
 model = Sequential()
 
 model.add(Dense(300,input_dim=4096,activation="sigmoid"))
-model.add(Dense(4096))
+model.add(Dense(4096,activation="sigmoid"))
 
 model.compile(
-  loss='mean_squared_logarithmic_error',
+  loss='logcosh',
   optimizer='adam',
-  metrics=['accuracy'],
+  metrics=['categorical-crossentropy','mean-squared-logarithmic-error','logcosh','mean-squared-error'],
 )
 
 plot_model(model, show_shapes=True, to_file='model.png')
@@ -33,18 +33,20 @@ initEPO = 0
 if inp != "":
   initEPO = int(inp[0:inp.index(".")])
   print("\n")
+  print("loading weights...\n(SYSTEM MAY FREEZE FOR ~30 SECONDS if using gpu)")
   model.load_weights("./3.1 - nn_checkpoints/weights."+str(inp))
   print("weights loaded!")
 else:
   print("\nok, lets start fresh!")
 time.sleep(2)
 print("LET THE TRAINING BEGIN!\n\n\n")
+
 model.fit(
   trainingData, targetData, 
   initial_epoch= initEPO,
   epochs=30000,
   verbose=2, 
-  batch_size=200,#save weights every 20 epochs
+  batch_size=128,#128 examples per epoch
   callbacks = [
     keras.callbacks.ModelCheckpoint(
       "./3.1 - nn_checkpoints/weights.{epoch:02d}.hdf5",
@@ -52,6 +54,7 @@ model.fit(
       save_best_only=False,
       save_weights_only=False,
       mode='auto',
-      period=20),
+      period=500 #save weights every 500 epochs
+    ),
   ],
 ) 
