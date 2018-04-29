@@ -29,15 +29,16 @@ def process_line(text):
 
 filelist = os.listdir("../paradigms")
 i = 0
+
 try:
   for file in filelist:
     i += 1
     with open("../paradigms/"+file, encoding="utf8") as fp:
-      print("Percent Progress: "+str(100*counter/len(filelist)))
+      print("Percent Progress: "+str(100*i/len(filelist)))
       for line in iter(fp.readline, ''):
         process_line(line)
 
-  pickleFile = open('./wordData.pkl','wb')
+  pickleFile = open('./wordFreqData.pkl','wb')
   pickle.dump({
     "allFoundWords":allFoundWords,
     "wordRefrences": wordRefrences,
@@ -53,3 +54,7 @@ except Exception as e:
 
 # for key in sorted(wordRefrenes, key=wordRefrenes.get,reverse=True)[0:1000]:
 # 	print(key + ' --- ' + str(wordRefrenes[key]))
+
+# NOTES TO SELF:
+# the top 3215  ( 6.78%) most used words make up 95% of words by volume
+# the top 14772 (31.17%) most used words make up 99% of words by volume
