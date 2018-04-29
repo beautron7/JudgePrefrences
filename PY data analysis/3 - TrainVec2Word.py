@@ -18,7 +18,7 @@ trainingData = np.identity(4096) #not a placeholder.
 model = Sequential()
 
 model.add(Dense(300,input_dim=4096,activation="sigmoid"))
-model.add(Dense(4096,activation="sigmoid"))
+model.add(Dense(4096,activation="linear"))
 
 model.compile(
   loss='logcosh',
