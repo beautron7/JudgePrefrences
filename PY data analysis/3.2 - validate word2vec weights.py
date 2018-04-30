@@ -25,7 +25,7 @@ sortedListOfWords = list(sorted(WR, key=WR.get, reverse=True)[0:numWords])
 
 model = Sequential()
 model.add(Dense(300,input_dim=4096,activation="sigmoid"))
-model.add(Dense(4096,activation="sigmoid"))
+model.add(Dense(4096,activation="linear"))
 
 # model.compile(
 #   loss='logcosh',
@@ -35,7 +35,7 @@ model.add(Dense(4096,activation="sigmoid"))
 
 inp = input("\n\n\nType in the name of the weights file:\n\n ./3.1 - nn_checkpoints/")
 model.load_weights("./3.1 - nn_checkpoints/"+str(inp))
-model.pop()
+# model.pop()
 print("weights loaded!")
 
 
@@ -66,8 +66,6 @@ while True:
   neighborIndexSorted = np.argsort(vectorOfNeighbors) #get indicies
 
   appearSTR = ""
-
-  print(sorted(vectorOfNeighbors))
   
   for i in range(1,10):
     index = neighborIndexSorted[-i]
@@ -87,12 +85,12 @@ while True:
     index = predictedNeighborIndexSorted[-i]
     predictionSTR += '{word}:({freq})  '.format(
       word=sortedListOfWords[index],
-      freq=vectorOfPredictedNeighbors[index],
+      freq=floor(vectorOfPredictedNeighbors[index]),
     )
 
   fingerprintSTR = ""
-  for number in vectorOfNeighbors:
-    fingerprintSTR += gradify(number)
+  # for number in vectorOfNeighbors:
+  #   fingerprintSTR += gradify(number)
   
   print(template.format(
     word=word,

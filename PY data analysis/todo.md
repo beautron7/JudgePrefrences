@@ -1,4 +1,6 @@
-## What I need to do
+## notes for word2vec
+* regularize the middle layer so the weights are not insane
+* maybye divide all of the Y values by x freqency to regularize it?
 
 #### word2vec
 
