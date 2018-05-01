@@ -31,7 +31,7 @@ model.compile(
 inp = input("\n\n\nWould you like to try and load a weights file?\nType the filename, or leave blank for no:\n\n$/3.1 - nn_checkpoints/weights.")
 initEPO = 0
 if inp != "":
-  initEPO = int(inp[0:inp.index(".")])
+  initEPO = input("Please type the epoch to resume at")
   print("\n")
   print("loading weights...\n(SYSTEM MAY FREEZE FOR ~30 SECONDS if using gpu)")
   model.load_weights("./3.1 - nn_checkpoints/weights."+str(inp))
@@ -42,25 +42,29 @@ time.sleep(2)
 print("LET THE TRAINING BEGIN!\n\n\n")
 
 model.fit(
-  trainingData, targetData, 
+  trainingData, targetData,
   initial_epoch= initEPO,
   epochs=300000,
-  verbose=2, 
+  verbose=2,
   batch_size=128,#128 examples per epoch
   callbacks = [
     keras.callbacks.ModelCheckpoint(
-      "./3.1 - nn_checkpoints/weights.{epoch:02d}.hdf5",
+      "./3.1 - nn_checkpoints/v5-weights.hdf5",
       verbose=0,
       save_best_only=False,
       save_weights_only=False,
       mode='auto',
-      period=500 #save weights every 500 epochs
+      period=500, #save weights every 500 epochs
     ),
     keras.callbacks.TensorBoard(
-      log_dir='./3.2 - Graph',
-      histogram_freq=0,
+      log_dir='./3.2 - Graph/v5 softmax',
       write_graph=True,
-      write_images=True
+      # write_grads=True,b
+      # histogram_freq=500,
+      # embeddings_metadata="./3.2 - Metadata",
+      # embeddings_freq=500,
+      # embeddings_layer_names=2,
+      # write_images=True,
     ),
   ],
 ) 

@@ -1,7 +1,7 @@
 from keras.layers.core import Activation, Dense
 from keras.models import Sequential
 from keras.utils import plot_model
-from math import floor
+from math import floor,sqrt
 import numpy as np
 import random
 import pickle
@@ -11,7 +11,6 @@ import sys
 import os
 
 
-sys.stdout.buffer.write(u'♠'.encode('utf8'))
 
 #https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781787128422/5/ch05lvl1sec37/exploring-glove
 
@@ -50,7 +49,7 @@ def gradify(number):
   min=0
   max=1
   
-  gradients = u" ░▒▓█"
+  gradients = u".░▒▓█"
   # gradients = "012345"
   if number <= min: 
     return gradients[0]
@@ -64,11 +63,58 @@ Word: {word}
   Appears around: {neighbors_actual}
   Prediction: {neighbors_pred}
   "Fingerprint":"""
+
+os.system("cls")
+response = ""
+prevResp = ""
+prevVec = [
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0] # is this lazy? yes. does it work? yes. does python have a good alternative? no.
+
 while True:
   neighborCT = 10
 
   wordIndex = random.randint(0,4096)
-  word = (sortedListOfWords)[wordIndex]
+  if response in sortedListOfWords:
+    wordIndex = sortedListOfWords.index(response)
+  elif response != "":
+    response = input("didn't work, try again?")
+    continue
+
+  word = sortedListOfWords[wordIndex]
   vectorOfNeighbors = list(originalData[wordIndex])
   neighborIndexSorted = np.argsort(vectorOfNeighbors) #get indicies
 
@@ -83,31 +129,46 @@ while True:
 
 
   predictionSTR = ""
-  vectorOfPredictedNeighbors = list(EarlyModel.predict(
+  word2vec300 = list(EarlyModel.predict(
     np.matrix(list(np.identity(4096)[wordIndex]))
   )[0])
-  predictedNeighborIndexSorted = np.argsort(vectorOfPredictedNeighbors) #get indicies
+  predictedNeighborIndexSorted = np.argsort(word2vec300) #get indicies
 
   for i in range(1,10):
     index = predictedNeighborIndexSorted[-i]
     predictionSTR += '{word}:({freq})  '.format(
       word=sortedListOfWords[index],
-      freq=floor(1000*vectorOfPredictedNeighbors[index]),
+      freq=floor(1000*word2vec300[index]),
     )
 
   fingerprintSTR = ""
   for i in range(200):
-    fingerprintSTR += gradify(vectorOfPredictedNeighbors[i])
+    if i is 20:
+      fingerprintSTR +="\n"
+    if i % 20 is 0:
+      fingerprintSTR += "\n"
+    fingerprintSTR += gradify(word2vec300[i])
   
   sys.stdout.buffer.write(template.format(
     word=word,
     neighbors_actual=appearSTR,
     neighbors_pred=predictionSTR,
   ).encode('utf8'))
-  sys.stdout.buffer.write(fingerprintSTR.encode('utf8'))
-  time.sleep(.5)
-  input('\npress enter for more')
+  
+  distance = 0
+  for i in range(300):
+    distance += (prevVec[i]-word2vec300[i])**2
+  distance = sqrt(distance)
 
+  sys.stdout.buffer.write(fingerprintSTR.encode('utf8'))
+
+  sys.stdout.buffer.write(("similarity to previous response: "+str(distance)).encode('utf8'))
+  time.sleep(.5)
+
+  prevVec = word2vec300
+  prevResp = response
+  
+
+  response = input('\nType in a word, or hit enter for random:\n> ')
 
   
-print(template.format())
