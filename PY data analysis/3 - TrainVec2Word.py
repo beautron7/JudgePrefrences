@@ -21,20 +21,19 @@ model.add(Dense(300,input_dim=4096,activation="sigmoid"))
 model.add(Dense(4096,activation="sigmoid"))
 
 model.compile(
-  loss='categorical_crossentropy',
+  loss='mean_squared_error',
   optimizer='adam',
   metrics=['accuracy','mean_squared_error','mean_squared_logarithmic_error','categorical_crossentropy','logcosh'],
 )
 
 # plot_model(model, show_shapes=True, to_file='model.png')
 
-inp = input("\n\n\nWould you like to try and load a weights file?\nType the filename, or leave blank for no:\n\n$/3.1 - nn_checkpoints/weights.")
+inp = input("\n\n\nWould you like to try and load a weights file?\nType the filename, or leave blank for no:\n\n$/3.1 - nn_checkpoints/")
 initEPO = 0
 if inp != "":
-  initEPO = input("Please type the epoch to resume at")
   print("\n")
   print("loading weights...\n(SYSTEM MAY FREEZE FOR ~30 SECONDS if using gpu)")
-  model.load_weights("./3.1 - nn_checkpoints/weights."+str(inp))
+  model.load_weights("./3.1 - nn_checkpoints/"+str(inp))
   print("weights loaded!")
 else:
   print("\nok, lets start fresh!")
@@ -49,7 +48,7 @@ model.fit(
   batch_size=128,#128 examples per epoch
   callbacks = [
     keras.callbacks.ModelCheckpoint(
-      "./3.1 - nn_checkpoints/v5-weights.hdf5",
+      "./3.1 - nn_checkpoints/v6-sigmoid-weights.hdf5",
       verbose=0,
       save_best_only=False,
       save_weights_only=False,
@@ -57,7 +56,7 @@ model.fit(
       period=500, #save weights every 500 epochs
     ),
     keras.callbacks.TensorBoard(
-      log_dir='./3.2 - Graph/v5 softmax',
+      log_dir='./3.2 - Graph/v6 sigmoid',
       write_graph=True,
       # write_grads=True,b
       # histogram_freq=500,

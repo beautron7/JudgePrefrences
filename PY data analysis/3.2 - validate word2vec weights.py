@@ -38,7 +38,7 @@ EarlyModel.add(Dense(4096,activation="sigmoid"))
 #   metrics=['categorical-crossentropy','mean-squared-logarithmic-error','logcosh','mean-squared-error'],
 # )
 
-inp = "word2vec v3 e1000.hdf5" #input("\n\n\nType in the name of the weights file:\n\n ./3.1 - nn_checkpoints/")
+inp = "word2vec v6.hdf5" #input("\n\n\nType in the name of the weights file:\n\n ./3.1 - nn_checkpoints/")
 model.load_weights("./3.1 - nn_checkpoints/"+str(inp))
 EarlyModel.load_weights("./3.1 - nn_checkpoints/"+str(inp))
 EarlyModel.pop()
@@ -120,32 +120,40 @@ while True:
 
   appearSTR = ""
   
+
   for i in range(1,10):
     index = neighborIndexSorted[-i]
-    appearSTR += '{word}:({freq})'.format(
+    appearSTR += '{word}:({freq})\n    '.format(
       word=(sortedListOfWords)[index],
       freq=floor(1000*vectorOfNeighbors[index]),
     )
-
+  appearSTR = '\n    '.join(sorted(appearSTR.split()))
 
   predictionSTR = ""
   word2vec300 = list(EarlyModel.predict(
     np.matrix(list(np.identity(4096)[wordIndex]))
   )[0])
-  predictedNeighborIndexSorted = np.argsort(word2vec300) #get indicies
+  prediction = list(model.predict(
+    np.matrix(list(np.identity(4096)[wordIndex]))
+  )[0])
+
+  predictedNeighborIndexSorted = np.argsort(prediction) #get indicies
 
   for i in range(1,10):
     index = predictedNeighborIndexSorted[-i]
-    predictionSTR += '{word}:({freq})  '.format(
+    predictionSTR += '{word}:({freq})\n    '.format(
       word=sortedListOfWords[index],
-      freq=floor(1000*word2vec300[index]),
+      freq=floor(1000*prediction[index]),
     )
+  predictionSTR = '\n    '.join(sorted(predictionSTR.split()))
+  
 
   fingerprintSTR = ""
-  for i in range(200):
-    if i is 20:
-      fingerprintSTR +="\n"
-    if i % 20 is 0:
+  for i in range(300):
+    if i is 30:
+      pass
+      # fingerprintSTR +="\n"
+    if i % 30 is 0:
       fingerprintSTR += "\n"
     fingerprintSTR += gradify(word2vec300[i])
   
