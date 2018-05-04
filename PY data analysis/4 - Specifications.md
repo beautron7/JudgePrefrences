@@ -8,7 +8,7 @@ When the end user starts the program, they can:
 3. rate a couple of paradigms so that the network can learn what the user likes and take over
 
 # What do you mean numerical preferences?
-Each team's specific desires for a debate judge comprise a number of factors, including a judge's attitude to particular arguments, their experience both in judging and in the debate community, school affiliation, and tolerance of speed
+Each team's specific desires for a debate judge are comprised of a number of factors, including a judge's attitude to particular arguments, their experience both in judging and in the debate community, school affiliation, and tolerance of speed
 
 Creating an accurate representation of exactly which "type" of judge a certain debater prefers would cause at least some psychological damage to us, so we approximate the result numerically. Essentially, for each category or attribute, we have a set number of categories (0,1,2..), each of which corresponds to a particular variant of that attribute. For example, a category like "views on reading Counterplans" could range from 0 (really hates counterplans) to 4 (can't go without them) or anywhere in between. 
 
