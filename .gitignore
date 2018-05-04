@@ -6,3 +6,5 @@ PY data analysis/model\.png
 PY data analysis/3\.1 - nn_checkpoints/weights*
 
 *.pkl
+*.hdf5
+3.2 - Graph
