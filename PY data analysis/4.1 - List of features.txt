@@ -1,0 +1,5 @@
+K on aff
+  + Is ok with any perormance
+  + Is ok with critical args, but must be toicalish
+  - K's are cheating!
+
