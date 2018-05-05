@@ -1,0 +1,72 @@
+
+  Jason Wright
+Lakeland HS, Cornell University
+
+Last updated February 2013.
+
+Background
+
+I debated at Cornell from 2008-2012 and at Lakeland HS from 2004-2008. I'm now a grad student at Cornell and help out with the team a little bit.
+
+General
+
+I don't really have any preferences regarding *strategy* -- you should always do what you are most comfortable with/prepared to debate.
+
+When judging debates, I view myself as a critic of argument. While I tend to form strong opinions on many arguments, there are very few arguments that I would immediately dismiss out of hand. I think debates are primarily decided by the strength (and presence) of arguments, and speaker points are decided by both debating ability and behavior in debates. I try not to punish teams for making "bad" arguments and instead seek to reward teams for making "good" ones.
+
+Here are a few smaller debate practices that are preferable to me:
+
+Risk analysis - make smart arguments. Do percentage estimates & mathematical calculations (risk = magnitude*probability) to compare the relative likelihood of impacts. That sort of comparison is generally persuasive to me when framing debates. One impact calculus argument that I find persuasive that other judges might not relates to how quantifiable an impact is (i.e. how easy is it to think about how the impact scenario would play out the real world, how discrete/defined is the scenario for the impact occurring). For example, the argument "federalism solves all wars" is much less quantifiable than the impact of "US-China war". This is often most applicable when weighing a disad vs a solvency deficit - especially if the solvency argument is something like "CP sends less of a signal" - while there might be some potential impact to sending less of a signal, it's virtually impossible to compare it to other factors and we don't know how that implicates the advantages the CP solves for.
+Timeframe implicates risk in three ways -- 1) it means in a world where both impacts are true, the faster one renders the slower one less important. 2) if both impacts cause, or "turn", eachother, the faster one takes precedence. 3) it implicates probability because the conditions that make the impact scenario likely in the status quo are more likely to change given a longer time interval.
+
+Evidence comparison - find points of the largest disparity and impact why the difference matters. Aside from qualifications, recency, conclusive/comparative, some other arguments to think of - 1) consensus - does the evidence reflect a majority viewpoint? 2) context - is their evidence one paragraph of a news brief about something else while your article is from a 100-page review that only deals with that subject? 3) source - even if the author is externally qualified, their personal blog goes through much less scrutiny than articles in peer-reviewed journals or those published by think-tanks or commissions. This is why Jeffrey Lewis' insane stuff goes on ArmsControlWonk and his sensible arguments are written for CDI. (N.B. This was an obscure reference that was also somewhat of a jab at a Dartmouth case from a few years ago and has probably faded into unintelligibility at this point.)
+
+Specifics
+
+Theory
+Although I'm very flow-oriented, I'm often persuaded by arguments that play to logic or common sense and tend to ultimately resolve big-picture questions first. I am somewhat idiosyncratic when resolving topicality debates. It is rare for me to decide that an unpredictable interpretation that defies a logical reading of the resolution should be preferred for subjective reasons, e.g. "ground". I am more interested in a debate over what the words in the resolution mean, which meanings make the most sense in the context of the resolution, and what constitutes a reasonable burden on the affirmative to prove topicality. I am unlikely to resolve these issues in your favor if the substance of your topicality argument is based on a generic theory whine about limits or not being able to "get links" to something. Ground topicality arguments, first and foremost, in a predictable reading of the resolution and be incisive & technical in arguing against affirmative evidence.
+
+Explain voting issues by describing would debate would look like if it were not a voting issue, e.g. severance is a voting issue because if not counterplans couldn't win debates, and without counterplans, affirmatives would have entirely non-intrinsic advantages and could avoid considering opportunity costs.
+
+I'd like to think I'm fairly neutral on most theory questions, but I lean towards the following preferences:
+-conditionality is alright, dispositionality is not really any better.
+-PICs, agent counterplans*, topical counterplans, etc are fine.
+-consult, condition, delay counterplans, and any other counterplan that competes based on "fiat" are unfair.
+
+*I think international fiat is illegitimate, and I'm disappointed that more teams don't pursue this seriously. Ask me why, or just look up old Ross Smith edebate posts.
+
+Most theory issues are a reason to reject the argument, but conditionality and topicality are reasons to reject the team. Topicality comes first, always. I don't think there is much of a distinction between potential and actual abuse. I think predictability is the golden standard for theory arguments-- Presenting an interpretation that makes debate marginally better than the alternatives is not really a voting issue unless you can also demonstrate that it is a predictable burden for the other team to meet. Again, these are defaults-- you can alter them with smart arguments.
+
+I do not "default to the status quo" if the 2NR extends a counterplan, unless successfully persuaded otherwise.
+
+I think saying things like "even if conditionality is not a voting issue, it justifies our severance perm" is a waste of breath. If it justifies an argument against which there is no recourse except to question its theoretical justifications, then it's the equivalent of a voting issue.
+
+Please call it "topicality", not "framework", unless you truly want to defend that debates should always be "framed" a certain way.
+
+Deep in my heart, I strongly believe the affirmative should be required to read a topical plan.
+
+Non-Theory
+I am willing to vote on "zero risk" if there are strong logical presumptions in your favor.
+
+In virtually all cases, you must provide evidence that at least hints at the possibility of a counterplan solving. I don't view this as a "theory" issue, but I will have a high threshold for counterplans that just don't have a sensible way of being implemented--- e.g. have the President amend a law, consult Russia over a Supreme Court decision, etc. Affirmatives should be able to argue these counterplans don't solve simply because there isn't a policymaking mechanism through which they could occur and that the counterplan (usually) doesn't explicitly set one up.
+
+I only see much of a difference between critiques and disads in cases where the critique argues that the ballot should answer a question that is fundamentally different than whether or not the "plan" is desirable. In most cases, you should err towards a critique that directly addresses this. You should combine your critique with specific arguments against the case/advantages in many cases -- extremely generic impacts that are really just like disads or solvency arguments with no evidence annoy me. I can't imagine a scenario where a 2NR that doesn't refute the aff's core case arguments can win by going for a critique.
+
+Yes, I like critiques, and am completely open to critiques of language, representations, ontology, etc.
+
+I have yet to be persuaded that a utilitarian/consequentialist method for evaluating competing claims should not be considered whatsoever. I think absolutist ethics don't make sense as a framework for evaluation without taking into considered the consequences that result from competing ethical claims. If you want to make arguments that stray from strict utilitarianism I would advise that you take a creative & nuanced position. I see some merit in things like "rule utilitarianism", and I could be convinced that purely utilitarian frameworks are often clouded by situational bias (e.g., the trolley problem)
+
+I see most performances in debate becoming more and more cliché. I've seen debaters stray from "conventional" debate norms and blow my mind -- by creating an emotional, personal connection to me. I've also seen debaters awkwardly look down while loud music plays from tiny laptop speakers for 90 seconds, then transition to sudden, jarring spreading for the rest of the debate, never mentioning or referencing their musical choice... this doesn't persuade (or entertain) me.
+
+Debating
+Make good use of cross-x time -- this generally means taking time to prepare and taking things seriously. These are the parts of debates where I alter speaker points the most. I loathe listening to cross-x where the questioner is clearly just wasting time by nitpicking or inserting their own arguments that are poorly rephrased as questions.
+
+I'm not very lenient about prep time. I keep my own time and will not stop prep until (a) you are ready to speak and need only to stand up/put your computer on the podium, and (b) the flash drive has left the computer (for paperless teams).
+
+I don't like reading a bunch of evidence, and will not call for cards unless I find myself unable to resolve the debate without doing so. That being said, I think uninformed decisions are a larger "threat" than interventionist ones, so I'll work hard to know what I'm talking about when I make a decision.
+
+I take judging seriously because I remember vividly how hard I worked as a debater and how disappointing it was to have judges that didn't seem to care much. More than anything else, I ask that you respect that and take debating in front of me seriously as well.
+
+
+TL;DR I'm somewhat old-school for a first-year-out judge. I think hard about debates, and I think most judges are too passive. I like good critiques. I really only get annoyed when debaters don't give the round 100% of their effort.
+  

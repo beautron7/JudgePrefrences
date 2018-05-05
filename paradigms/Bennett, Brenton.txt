@@ -1,0 +1,153 @@
+
+  "DISCLAIMERS:
+
+1: This is copied and pasted from Micheal Antonucci's wiki but is still 98% accurate for how I will judge debates
+
+2: Judging philosophies lie. This document is probably inaccurate in some parts, because judges’ self-perception can never perfectly correspond with their actual behavior.
+
+3: This document outlines some things I think about debate, but it isn’t a rulebook (except for the part conveniently labeled RULEBOOK.)
+
+4: For the most part, debaters should determine the curriculum.
+
+
+A. WHY I LIKE DEBATE:
+
+I value this activity as a means to develop wide and interdisciplinary student expertise about public policy through communicative interaction.*
+
+Most of my judging preferences can be derived by parsing this statement.
+
+--“Student expertise” –
+
+I care about which team actually knows their business better. I want to vote for the smartest people in the room, although I often don’t.
+
+Debate produces undergraduates who can meaningfully interact with policy analysts, critical race theorists, academics, dedicated community activists, lawyers, etc. about their specialized fields. I’m proud of my participation in that enterprise, and that pride determines my commitment to your activity.
+
+There’s an implied converse. I only care about your coaches’ expertise insofar as you’ve successfully internalized it. I care about your cards, but I view them as a means to an end. I care about your work ethic, but evidence quality isn’t automatically the best barometer of that ethic. If one team displays superior command of their materials and synthesizes that command with a deeper and more general expertise, I’m loath to vote against them because their cards aren’t quite as strongly conclusive.
+
+Of course, cards still matter. If you’re going for politics and your uniqueness cards are comparatively worse, I’m not going to vote for you because you said some smart historical stuff about the Carter administration.
+
+If, however, you seem incapable of or uninterested in explaining your arguments in the cross-examination, or if you rely entirely upon card lists and tag recycling in last rebuttals, I might not be your guy. Cards support arguments, but they don’t make arguments.
+
+People make arguments to other people.
+
+--“Wide and interdisciplinary” -
+
+Debate can’t rival the depth or intensity of entirely specialized programs. If you want to learn as much as possible about the law, for instance, you should go to law school. Most of you will.
+
+Debate’s better than mock trial, though, because it draws on a wider range of disciplines and creates the conditions for some interactions between them.
+
+This obviously matters most for debates between students with differing bodies of knowledge.
+
+It’s tough to win my ballot in those debates if you’re vehemently on the side of exclusion – in either direction. It’s much more compelling if you couch your arguments in terms of prioritization.
+
+It’s tough to persuade me that philosophy questions should be excluded entirely based on fairness concerns. It’s much easier to persuade me that topicality is a precondition to commensurability. That’s especially true if your vision of the topic still creates some real room for interdisciplinary discussions.
+
+I also find wholesale exclusion of a particular affirmative’s truth claims tough to swallow. If an affirmative ballot endorses a policy that prevents an imminent extinction, I find it hard to dismiss the impact as wholly irrelevant. Your negative criticism needs to meaningfully interact with the affirmative’s truth claims. Presuming no dropped arguments, my decisions in these rounds will tend to revolve around the relative merits of different methodologies far more often than they’ll revolve around arbitrarily a priori claims.
+
+Alternatives aren’t counterplans.
+
+--“about public policy” –
+
+‘Public policy’ is potentially a very expansive term, as is ‘about.’
+
+--“Interaction” –
+
+Clash is good. Clash can be embedded or technical or much more loosely associative, but you need to assemble the puzzle instead of simply throwing pieces at me and expecting me to assemble them in some implied 3AR/3NR. I’m not wedded to a linear flowing model, but I do think it helps to promote clash.
+
+--“Communicative” -
+
+I’ve previously shied away from vocally managing incomprehensibility. I’m going to give signals now, though. I’m raising my bar, so I owe you all some clarity in my expectations.
+
+I find debaters hard to understand when they slur, run all their words together or speak robotically. Intonation guides comprehension. When you read that crucial scripted overview like it’s a card, I’m getting very little down.
+
+If I say “clearer,” you’re slurring or mumbling or something. If I say “I don’t understand,” though, I’m telegraphing more gestalt incomprehension. You might want to slow down, but you probably just want to speak more like the “humans” you may have read about.
+
+There’s more to communication than comprehensibility, but you get the basic idea.
+
+You can parse the other phrases in that sentence if you’d like.
+
+B. SOME OTHER STUFF:
+
+1. THERE IS NO RIGHT TO POLITICS.
+
+The negative can win without a politics disad. I don’t feel obligated to assign some risk to a disad if the aff successfully finds a very compelling logical hole. Some weekends, politics disads just aren’t that good. Some weekends, they’re great.
+
+Thus, if your primary point of offense is a solid politics disad with a ton of cards, I’m probably pretty good for you. If your primary point of offense is a politics disad that derives its value from the absence of counterevidence (eg, terribly overunique, long-shot potential agenda item, long temporal gaps between link and internal link), I might not be your guy, because the aff might dramatically reduce risk even without much evidence.
+
+2. OVERHIGHLIGHTING IS DANGEROUS
+
+Over-highlighted evidence can be pretty silly. It’s reached the point of implicit footnoting. I prefer the K teams that just overtly footnote stuff – it achieves the same effect without brutalizing the language. Even better, though, is reading evidence that completes arguments instead of alluding to arguments through disconnected violent noun phrases.
+
+If your card:
+
+- Doesn’t form complete sentences
+- Only forms sentences through Phrase Legos
+- Otherwise makes me think of “word salad”
+
+I will probably discount it entirely.
+
+That is true even if I’m very familiar with a fuller version of your card.
+
+If your highlighting abbreviates words in new and exciting ways (representations -> reps, nuclear -> nuc), I will mock your “nuc rep…s” in my head, but I’ll let it go.
+
+I might read around highlighting to determine context, but this generally can only hurt you.
+
+3. THEORY BUSINESS
+
+I had too much stuff on this before. I’m pretty agnostic.
+
+I will say that I want you all to determine these debates by making arguments. Brief allusions to argument don’t constitute arguments. Yes, I can decipher Newspeak along the lines of “errneg, affsidebias, firstlastspeechinfiprep.” I don’t think that quite rises to the level of argument, though. I really prefer sentences to phrases. Hyper-efficient theory debate increasingly seems like a cry for intervention.
+
+C. THE RULEBOOK:
+
+Debate has some rules, like speech and decision times. I have some minimal rules too. I’m comfortable with that. They’re procedural efforts to stop abuses, not substantive restrictions on your curriculum.
+
+1. Be honest about what evidence you’ve read and what arguments you’ve made.
+
+You’re obliged to provide your opponents with a complete, accurate and legible record of evidence that you read.
+
+If you misrepresent what you’ve read, you may lose.
+
+Put more simply, I will pull the trigger on cross-reading and clipping.
+
+If you’re going to call someone out, though, it really helps to have a record. I must be certain. Instant replay is good here.
+
+2. Don’t filibuster cross-examination.
+
+Cross-examination is potentially very meaningful. Cross-examination is not very meaningful when one side won’t stop speaking.
+
+The cross-examiner controls the cross-examination. If I interrupt you and say “it’s her/his cross-x” – don’t freak out. Just shush and let them ask you their questions. Maybe it’s a long-winded question or they’re cutting you off. Get over it. You get a cross-x too.
+
+If one side insists on providing genuinely non sequitur responses, I won’t intervene, but I’ll probably look even more dyspeptic than I usually do.
+
+3. Paperless business
+
+a. Your obligations as a paperless team.
+
+You’re still obliged to provide your opponents with a complete, accurate and legible record of evidence that you read. You must have a viewing computer, as your opponents may not have laptops.
+
+If there are several technically feasible viewing options, your opponent can select their preferred viewing option. This is important.
+
+For example, if your opponents would prefer that you transfer the speeches to their computers via flash drives, you must do so. If you are afraid that they will backtrace everything when they do this, don’t use paperless.
+
+If they want to know what cards you actually read, as opposed to the cards you hoped to read, you have to tell them.
+
+b. Don’t read ahead. This isn’t a “protect your hand” situation. We don’t have the tech together to protect our hands just yet (soon, soon). That’s cheating – real, you-lose kind of cheating.
+
+c. Paperless prep
+
+Prep stops when you save the speech. There is “dead time” to transfer the speech to your opponent’s medium of choice.
+
+I’m not going to time “dead time.” If it lasts more than two minutes, though, I will glare and make increasingly snarky comments as you fumble.
+
+d. Giving me cards
+
+If you're swapping speeches via the Internet - I want in on that, in real time. When we're all doing this via personal area networks in the near future, I might start reading the cards as you speak. I'm not quite ready to go there yet, though.
+
+I will, however, read cards *during* the debate if:
+
+i. some card becomes a thing during the cross-ex and I feel sad and excluded
+ii. I wonder if you're clipping
+
+After the round, if you can just consolidate everything read into one document and hand it over via flash drive, I'd appreciate it, so I don't have to stay on a jump drive carousel. I hate using your crappy viewing computer. I'm not going to steal your datas, I promise."
+  

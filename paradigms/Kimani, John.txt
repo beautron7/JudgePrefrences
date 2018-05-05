@@ -1,0 +1,13 @@
+
+  Speed/Style:
+-reasonably fast cases are fine
+-enunciate please
+-slow down for taglines
+-signpost well
+
+Content:
+-High threshold for theory
+--if you use theory, justify it well, and only use it if there's clear abuse
+-Connect everything back to your framework, and justify your framework
+--normally I prefer V/VC frameworks, but I am ok with others if you justify them and explain why they are preferable
+  

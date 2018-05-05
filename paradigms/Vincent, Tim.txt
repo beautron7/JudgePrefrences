@@ -1,0 +1,54 @@
+
+  Background
+I am a sophomore at Indiana University who debated for four years at Chesterton High School in Indiana. Indiana's debate circuit is very traditional; kritiks, nontraditional affs, counterplans, and anything that approaches spreading are considered taboo. However, by my sophomore year of high school, I became very interested in national circuit-style debate, and through online resources like YouTube, I studied this type of debate extensively. My partner and I competed independently at a few nearby national circuit tournaments (Glenbrooks, New Trier) with a 50% win rate and competed at Nats 3 times, breaking our sophomore and senior years. I believe my experience is sufficient for me to judge any argument at any speed (as long as you're clear) fairly and adequately, but I still think you have the right to know my experience and draw your own conclusions.
+
+I have judged less than 10 debates on the education topic, and I did not help at any camp. My topic knowledge is basic, so make sure to explain any acronyms/names of laws that are not self-evident.
+
+General
+I am firmly tech over truth. I will try as hard as I can to judge exclusively off the flow and not introduce my own biases. Don't change your optimal debate style in an attempt to adapt to me; read whatever arguments you want, and I'll try to judge them as impartially as possible. This inherently means I am willing to vote on arguments widely regarded as bad (RVIs, SPEC args, etc.) if the team running them wins the line-by-line and gives a reason for me to vote on them, so make sure to respond sufficiently even to these types of arguments. An "argument" without a warrant is not an argument, so I won't consider conceded claims without a warrant to be necessarily true in the round. This means if you make blippy, unwarranted theory arguments in the block and the 1AR concedes them, I'll tend to give the 2AR significant flexibility to respond to these args. Make sure every argument in every speech (including the first speech you bring it up in) has some warrant.
+
+Unless new arguments are made in the 2ar, you must point out any new arguments in the rebuttals and give reasons why new arguments should be rejected, or I will consider these new arguments in my decision. Also, I'll try not to consider any unprecedented 2AR cross-applications, which means make sure to explicitly tie 2AR arguments to something in the 1AR to be safe. High speaker points will be given to those who consistently do quality evidence comparison and impact calc. Being aggressive in cross-x is great, but unnecessarily rude behavior may irritate me and deflate speaker points. If the round has a generally friendly and fun environment, I'll enjoy the round more and your speaks will likely improve. Open cross-x and prompting is fine, and flashing isn't prep. I will say "clear" or "slow" twice in a speech if needed, and if you haven't adjusted, it's on you if I give a bad RFD because I missed relevant arguments you tried to make.
+
+Questions? Feel free to email me: timvince@umail.iu,edu
+
+Case
+I default to an offense-defense paradigm and have never voted on presumption before, but I still think if you do enough theoretical work starting in the block, I can be convinced that there is such thing as 0% risk of an advantage and that presumption is justied. Smart internal link analytics from the neg will make me a happy judge. I will try hard not to ask for evidence at the end of the round unless there is a dispute about the text in a card. For this reason, make sure to extend warrants, not taglines, or you will be behind any evidence comparison.
+
+Disads
+This was the bread and butter of my high school career. Impact calc is obviously necessary, but explaining why your metric of impact calc (timeframe, magnitude, probability, etc) is relevant is just as important. I find that a lot of neg teams conflate "disad turns case" with "disad precludes solvency". Clearly explaining how these arguments implicate the round is key to them being an important part of my ballot.
+
+Topicality/Theory
+T was probably my favorite argument to read and, when done well, is my favorite argument to hear. I default to competing interpretations but can be convinced of reasonability. Case lists and concrete examples of ground loss are important to warranting limits and grounds arguments.
+
+I am willing to vote on or reject the argument on any theory. Make sure to have clear interpretations. I've seen too many rounds on T or theory where one team extends offense that links to both interps; make sure to avoid this and point it out when your opponents do this.
+
+Below is a representation of my current disposition on theory questions on a scale of 1 to 5. A lower score means that I tend to think such an argument is bad for debate, and a higher score means that I tend to think such an argument is fine. Three important things to note:
+A. This chart only measures my opinion on these arguments' theoretical legitimacy. Predispositions on questions of competitiveness are detailed under the counterplans and kritik subheadings below.
+B. Your predictability and education claims on neg on theory become much more convincing to me if you have a solvency advocate in the context of the aff.
+C. Just to reiterate, I will try my best to put my biases to the side when I judge, and I think I do a pretty good job of that most of the time. If you regularly run an argument that has a low score below and you can adequately defend the practice, then I'll still gladly give you good speaks and a win. Regardless, I still feel I have an obligation to be transparent about my personal beliefs on these issues.
+
+Logical policymaker can do both on politics: 1
+PICs: 5
+Advantage CPs: 5
+International fiat: 2.5
+50 states: 2.5
+Delay: 1
+Consult: 1.5
+1 conditional advocacy: 5
+2 conditional advocacies: 5
+More than 2 conditional advocacies: 3
+Framework: 2.5
+PIKs: 1.5 (goes down to a 1 if you're not clear that this is what the alt is before the 2nr)
+ASPEC: 1.5
+Other SPECs: 1
+Disclosure theory: 3 (goes down to a 2 if the neg has some coach waiting to work on strategy pre-round and the aff doesn't)
+
+Counterplans
+I lean pretty far aff on whether most process CPs/any counterplans that derive their competition from definitions of the word "should" compete but am totally willing to vote on one. Make sure to give a short explanation of how vague perms such as "Perm: do the CP" function when you first bring them up, or I may be sympathetic to the neg if it's poorly refuted in the block but has deeper related arguments in the 2nr. Unless the neg states in cross-x that the status quo is always an option and wins an argument for judge kick if theoretical objections are raised, I will only consider the single advocacy extended in the 2nr in my decision.
+
+Kritiks
+I have less exposure to kritiks than any other argument but believe I can adequately judge any K debate. I am not very well-read on K literature at all, so be sure to have detailed overviews in the block. A clear explanation of your alt in the block is also really important to me; I'll find it hard to vote for a vague advocacy that I don't really understand. 2AC should make sure not to drop any "Root cause", "Can't weigh case", "Value to life", "Floating PIKs", or other key arguments explicitly mentioned in the tags of the shell, or I will vote on them given the neg does the easy job of extending and impacting them. I will not vote for a floating PIK unless the possibility of this advocacy is clearly stated no later than the block. As I said above under the counterplans heading, make sure to give a short explanation of how vague perms such as "Perm: do the plan and all non-mutually exclusive parts of the alt" function when you first bring them up, or I may be sympathetic to the neg if it's poorly refuted in the block but has deeper related arguments in the 2nr.
+
+Nontraditional Affs
+I have not judged a nontraditional aff before, but after most rounds I've watched with nontraditional affs, I've ended up leaning aff, so you should feel pretty comfortable reading one if you want. I probably subconsciously hold a stricter line for what constitutes severance for an aff without a plan text.I
+  

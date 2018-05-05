@@ -1,0 +1,48 @@
+
+  Artem Raskin
+
+Background:
+4 years of high school parli, 3 years of circuit LD, 3 years of NPDA parli, 1 year of British parli
+B.A. in political science from UC Davis
+
+ Default paradigm:
+- I am a flow judge.
+- I don't vote on presumption unless you tell me to.
+- I default to comparative worlds and net benefits.
+
+ Flowing:
+- If I don't understand an argument the first time I hear it, I won't flow it / vote for it. I'll call for evidence, but only to make sure it wasn't misrepresented; I won't retroactively fill it into my flow.
+- If an argument intuitively answers some dropped subpoint, I'll do the cross-application myself.
+- I will flow new weighing in the 2AR.
+- CX is binding.
+- Voter issues are crucial.
+
+ Presentation:
+- Most LDers think they can spread, but very few can. Unless you are absolutely certain in your ability to remain crystal clear at high speeds, don’t go over 300 words per minute. Every time I yell “clear!” your speaker points suffer.
+- If your opponent is a novice or has a disability that prevents them from debating at high speeds, do not attempt to spread them out.
+- Slow down A LOT on argument taglines, author names, theory interpretations, case theses, K alternatives, plantexts, and CP texts. For the latter three, you should have copies of the text ready for your opponent and the judge.
+- I prefer cards to have author qualifications and year read aloud.
+- Eye contact doesn't matter, but voice modulation does.
+- Questions in prep are cool, but prep during CX is not.
+- I will listen carefully to CX.
+- If you said everything you needed to say, don't ramble to fill up speech time, just sit down.
+- Don't steal prep time.
+- Example of a bad NC roadmap: "First, I'll read my NC in which I argue that justice doesn't exist, then an off-case which will be a topicality on "ought", and finally I'll prove why the affirmative case is wrong."
+The function of a roadmap is to help me put the pages of my flow in order; any information that doesn't do that is superfluous. An off-case is anything that's not on the affirmative case. NC stands for "negative constructive," not "negative case."
+Example of a good NC roadmap: "2 off, AC."
+- I will typically give an oral RFD. If it's unclear, feel free to discuss it and don't be afraid to appear confrontational.
+
+ Argumentation preferences:
+- All arguments should have warrants. I will not vote on blips.
+- An empirical warrant can appeal to common knowledge, but cards trump common knowledge.
+- An analytical warrant does not require a card. A quote from a philosopher may contain a warrant, but simply the fact that some philosopher agrees with you does not constitute a warrant – that’s the “appeal to authority” fallacy. I hold up analytical warrants made by carded philosophers to the same level of scrutiny as analytical warrants made by debaters.
+- I like positional cases.
+- Weird stuff is great if you can pull it off.
+- If you are running a dense philosophical case but haven’t read the author behind it, you are going to have a bad time.
+- Critical/discourse cases are fine, but slow down on confusing parts. Specific alternatives with solid solvency are a plus. I tend to buy intuitive answers to Ks.
+- Theory is fine if they're actually abusive, but don't overuse it. I tend to buy "reasonable limits" answers to it. I'll vote on RVIs. I will err neg on AR theory. I think theory is a type of a discourse argument (Fairness K or Education K), with violation as the link, standards as the impact, interpretation as the alternative, and voters as the framework. The implication is that theory can be weighed against other discourse arguments. Also, most theory debates are boring.
+- Skepticism is boring.
+- I’m not the biggest fan of postmodern/poststructuralist/Frankfurt School philosophers and of unnecessary jargon in general.
+- The value/criterion model is often abused to exclude relevant argumentation. I think that debate rounds which are more practical are better off with a generic standard without a criterion (as a parli debater, I am used to net benefits) and with impacts weighed out primarily on the contention level; the more philosophical debates should just have the philosophical framework as the standard. I will use net benefits unless you give me good reasons to prefer another standard.
+- I won't vote any type of argument down right away, so if you feel confident you can win it, run it, and have fun.
+  

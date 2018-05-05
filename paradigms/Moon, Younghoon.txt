@@ -1,0 +1,3 @@
+
+  Do your best to keep the round from getting messy. Make your case framework clear. Values and criterion should be explicit. Give me clear voters at the end, it can only help me write my RFD.Speed is not something I consider particularly impressive. If you're going to use it, signpost well and make the tags clear so I don't get lost.Theory is even less impressive to me. Save it for another day unless something ridiculous compels you to do so, in which case be explicit in your justifications.
+  

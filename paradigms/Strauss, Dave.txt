@@ -1,0 +1,54 @@
+
+  Dave Strauss
+ Michigan State University
+ 
+ 
+
+
+General thoughts
+- I am less neg biased than I used to be. I am still very very good for the neg.
+- negs win the highest percentage of rounds in front of me when the 2nr defends a counterplan with specific solvency evidence and a disad.
+- I try to protect the 2nr as much as possible. dropped arguments in the 1ar are trouble. especially arguments why the disad turns the case
+- dropped arguments are true arguments, but just because an argument is dropped/true does not automatically mean it is absolute. for instance, if the neg dropped "no threshhold" that does not mean the risk of the disad is zero, only that there is no threshhold. 
+-just because an argument is not explicitly answered in the “they say X but” sense, does not automatically mean it is dropped. Many times a team says a bunch of things which functionally respond to/interact with what you said even if they did not say “off your 2nd argument”. This does not give you free reign to drop things and I will still try to protect teams (especially the 2nr) from totally new cross applications. 
+- I try to be very technical as a judge. things like "truth" and "connections" matter less for me than for other judges.  
+- that being said, there is a range on incredibly stupid arguments which are not impossible, but definitely tougher in front of me. Examples include most specification arguments, some k's, death good, etc. there was a time when i was the best judge in the world for every stupid theory cheap shot and bad T arg....that time has passed. technical debate skills are still very very important...but having high quality materials and good strategies is important too.
+- evidence quality and evidence comparison are both important. I will not totally disregard sizable differences in ev quality just based on ev comparison; however, if one side has better ev but the other side has better ev comparison, I will usually value the in round ev comparison a little higher than the ev quality.
+- I am very heavily in the offense/defense camp. defensive arguments can significantly reduce risk, but are rarely absolute. this is true both for theory and substantive arguments. 
+-I do not think of uniqueness/link etc in terms of an “absolute” direction, I think of it in terms of “risk of directions”. For instance, if the aff is net ahead on the link, they control the “net” direction of the link, but there is still probably a “risk” of a link, there is just a “larger risk” of a link turn. Viewing this in absolute terms doesn’t make sense to me. I think it is incredibly silly actually. I could give a long explanation for why I believe this way of thinking is easily demonstrated as flawed.
+- I kind of hack out for try or die. its the one offsetting factor in my general neg hack status. beating try or die requires either a) a good time frame argument b) a HARM related defensive argument or counterplan or c) denying that the impact results in extinction - if extinction is truly 100% inevitable, and the time frame is quick, you will likely lose, even if you win a big risk of a disad or a large solvency takeout. the flip side of this is if the neg wins 100% chance of a link and impact to a disad that results in quick extinction, then uniqueness becomes largely irrelevant. 
+ 
+Default presumptions on judgement issues when they are not spoken to: (these presumptions can be changed by either side, this is just how I will resolve things if no one tries to resolve it for me): 
+- If a counterplan is conditional, the status quo is always an option, even if the 2NR “goes for” the counterplan. If the neg loses the counterplan I will still evaluate whether they win defending the status quo. If the neg does not speak to this and the aff argues that I should not default to the status quo because the 2nr went for the CP and did not cite the status quo as an option than I will defer to the aff on this because they are the only ones who have spoken to it. If a counterplan is dispositional and the 2nr goes for it, I will assume the status quo is not an option even if the aff wins a perm, unless the 2nr specifically says that they can default back to the status quo if they lose the counterplan. 
+- Calling something a voter and saying “reject team not theory” only applies to positions that are being extended by the other side. If the other side does not extend that position but does not answer the “voter” it is not “dropped” unless you have ALREADY explicitly explained why it should be a voter even if they don’t extend the argument. “reject team not theory” is not the same argument as “reject team even if they don’t extend the argument”. If your argument changes from the former to the latter, it is a new argument which the other team gets new answers to. 
+- Not all arguments have to be explicitly extended. For instance, if the neg does not question the terminal impact to an advantage in the 1nc, and the 2ac answers the advantage arguments but does not extend the terminal impact, this is not “new” in the 1ar. 
+ 
+CP stuff 
+- most cp theory objections are difficult in front of me. 
+- my strong presumption is that cp/perm theory other than dispo/conditionality is a reason to reject the argument not the team so long as a team makes that argument. I will admit that I have been having some scary thoughts about high tech ways the aff could convince me that “rejecting the argument” is not enough in the case of certain cp’s, but….they’d have to be really good on it. I can’t believe I just wrote that. Terrifying. 
+- ultra generic counterplans which compete on normal means or certainty of plan are almost certainly bad for debate. This is especially true when the condition is obviously totally unrelated to the aff (ie condition tactical withdrawal from Europe on Russian reciprocation with a comparative solvency advocate has a better defense than condition on European protection of the linx). 
+- if debated equally by both sides, cp's probably must be both textually and functionally competitive.  
+- both the aff and neg must have an offensive reason to prefer their interpretation 
+- if you are aff, the best way to defend a theory argument is to have a counterinterpretation of what the neg can do/counterplans they can run which solves most of the negs offense. 
+- most theory debates are won by comparisons/reasons your offense comes first. 
+- negs get away with defending lots of theoretically suspicious cps because the neg makes 15 arguments on theory and the aff drops a few. 
+ 
+Kritik stuff 
+- if you are aff, and you do not defend enactment of your plan, or defend your plan in context of the rest of your speech act, or do not have a plan, you should strike me. 
+- i am pretty bad for the k. if you are neg, I’m not the worst for the k, because I’m generally good for the neg, but you are almost certainly relatively better off going for something else in front of me. 
+- most times affs lose on the k because the neg makes a lot of different reason why the k comes first (turns the case, alt solves the case, ontology 1st, reps 1st, methodology 1st, no value to life, etc - and then the aff drops one. when the aff drops one of these arguments they almost always lose. when they don't the frequently win. 
+- most times the neg loses on the k its because the alt can't solve the case or achieve its own objectives. most negs read alt evidence that assumes rejection on a broader scale than just the instance of the affirmative. when the neg defends this broader alt, they have difficulties with perms, when they don't, they have difficulties with the alt. 
+- i am pretty good for the aff on framework questions. this doesn't make the k impossible for the neg, but it does mean that it is tough to win that the aff shouldn't get to defend implementation of their plan vs your k alt.
+- the aff could win a ton of k rounds in front of me on we still get to weigh our aff, your k doesn't turn it or solve it, our impacts are fast and big, and your alt is stupid.
+- it seems like most of the reason methodology comes first is because bad methods produce bad outcomes...which seems to beg the question of the outcome....this is useful for the aff.
+
+Topicality stuff
+- i am good for the neg on T
+- that being said, i am worse for the neg on stupid T arguments than i was a couple years ago, possibly much worse. 
+- I’m becoming increasingly good for the aff on “impossible pics” arguments and “contrived interpretations bad”. The key for both sides on the “pics” question is to explain why X ground/limits are better lodged with the aff than the neg or vice versa.
+- you must have a counterinterpretation or you will lose
+- you must have an offensive reason to prefer your interpretation or you will lose.
+- arguments like "reasonability" are pretty close to dead in the water. 
+ 
+Props – to Carly and Steph Spies, in my opinion the two most underrated debaters in the country. To Kevin Kallmeyer and Brian Rubaie, two world class nice dudes.
+  

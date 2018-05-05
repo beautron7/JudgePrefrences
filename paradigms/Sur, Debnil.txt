@@ -1,0 +1,81 @@
+
+  Bellarmine ‘13
+Stanford BS ‘17/MS '18
+Constraints: Bellarmine, Notre Dame-San Jose, Silicon Valley UDL, PV Peninsula TW, Monta Vista PS
+[updated 2/12/2018]
+
+Lay Debate: If this is the Coast Forensic League, California state, or another primarily lay setting, unless both teams wish to have a circuit-style round, treat me as you would my mother. A good lay round will be more educational for you, help stem the rapid loss of young debaters to other events, and make my judging experience much better.
+
+LD: Solid understanding of event fundamentals and execution, but I don't judge LD much. I'm comfortable with every argument in policy debate, so most K and CP/DA debates are totally fine. Theory in LD is also a little different (paragraph theory as a concept confuses me), but debate is debate. I'll vote on anything.
+I seem to give much lower speaks than the average LD judge. Sorry about that.
+T in LD is a bit weird to me. It always comes first, and due to my policy background, I don't find RVI's super persuasive. 
+I dislike how blippy LD debates can be -- please crystallize well if you want my ballot.
+
+--
+
+I’m assuming you’re looking at my philosophy for the purpose of prefs—I had a few questions when I did these. 
+As everyone else says, these are my defaults. Emphasize your strengths over my particular idiosyncrasies. I won't tell you not to read certain arguments. It should become obvious below, but for me, tech >>>>>>>>> truth. (For instance, in consecutive rounds on the surveillance topic, I voted on the Ligotti extinction good argument, the Constitutional Convention CP, and intrinsicness good and solves the DA.) Obviously, I'm not a blank slate, and I'm hoping that the below helps you figure out if you should pref me.
+
+General Experience: I debated as a 1A/2N at Bellarmine in San Jose, CA, for four years, three on the national circuit, in which I usually went for the politics DA or framework. I then worked with Bellarmine for a few years when the team was mostly critical, primarily at my behest due to the national circuit's (and, to be fair, my personal) swing to the left. Consequently, I can judge pretty much any high school debate, from identity and high theory to conditionality bad, and know the conceptual framework at an above-average level for a high school critic. I'm aware that this will put me in many clash of civilizations rounds, but so be it. The person closest to my views is Anirudh Prabhu, though this reference is circular. Ask whatever questions you have before the round. (For whatever it's worth, I spend most of my academic time now working with deep learning or parallel/distributed computing systems.)
+
+Topic Experience: I have not been too involved with coaching on the last two topics and went from hearing 30+ rounds a year to ~10. That being said, thanks to Monta Vista PS, I generally know the argumentative landscape of the education topic. Regardless, explain your acronyms and more technical government process debates well.
+
+Deciding Rounds: Tech matters far more than truth. Write my ballot: have strong ethos in the rebuttals, use rhetoric to your advantage (eye contact, expression), and make it clear what issues matter. I particularly reward debaters with those three skills with ballots and speaker points. I will start at what each team said mattered the most and progress from there.
+Winning arguments don’t require evidence. Most debate arguments are incredibly silly, and you should make smart analytic link and internal link takeouts instead of debating well-defended impact literature. 
+I protect the 2NR as best as I can and hold the line on 2AR extrapolation. This means that 1ARs should clearly include claims, warrants, and impacts for their arguments. If those exist, I will be more okay with new 2AR comparative analysis.
+Dropped arguments are true, but please point out such assumed concessions. Otherwise, I will be confused, and neither you, your flow, nor your speaker points wish that to happen.
+I typically ask to be included on email chains or receive speech documents to follow along. I believe debate should be decided by evidentiary explanation of the debaters, because great evidence has no persuasive ability absent excellent packaging and communication. As a result, I only read evidence post-round in the following three scenarios. (1) Debaters explicitly ask me to after explaining a contentious issue well. (2) I must decide a time-sensitive issue like uniqueness on the politics DA. (3) Both teams debate superbly, so quality of research becomes necessary to substantiate in-round analysis. 
+
+Speaker Points: Be confident, clear, knowledgeable, and kind. Tenths are hard to conceptualize, but here’s what the speaks I will give will attempt to correlate to.
+29+: Top 10 speaker at the tournament
+28.7-29: Top 25
+28.4-28.6: Clearing low
+28-28.3: Middle of the tournament
+27.3-27.9: Bottom half of the tournament
+<27.3: Not quite ready for this division.
+
+Clarity is king, including card text. I will shout clear twice; after that, it’s your problem.
+Ethics violations get the lowest possible points. Card clipping will end the round but requires recorded proof. If you mark cards, please say it, do it on the card, and give a copy before cross-examination. 
+Email chains are preferred to flashing. Flash prep ends when the jump drive leaves the computer, but tell me if you have computer issues. 
+
+Finally, I’ve jotted quick thoughts for particular arguments. Again, please note that these are all predispositions up for debate. 
+
+Nontraditional Affirmatives: I lean slightly negative on framework questions: the topic provides the most predictable, stable basis for a debate. I think the affirmative should affirm the resolution in some way. Note that this is not a mandate for instrumental adoption. 
+In a competing methods debate, please make sure to resolve competition theory. I will default to not granting a permutation.
+
+T: I default to competing interpretations; this implies that the ballot decides which model of the resolution better inculcates certain skills among debaters.
+Debate this as a counterplan/disad debate, with strong link comparison between your standards and clear impact comparison and framing in the final rebuttals. 
+I would prefer impacts such as “advocacy skills” and “decision-making” over “fairness” and “education.” I consider the latter simply in-round practices or aspects of debate approaches that generate the former. Of course, deciding which impacts matter is up to the debaters.
+Voting aff on reasonability implies that the substance crowdout generated by topicality debates outweighs the difference in quality of your interpretations. 
+Neither a reverse voting issue nor genocide.
+
+Theory: Other than conditionality, default that violations are a reason to reject the argument not the team. To reject the team, provide well-warranted analysis of how it irreversibly damaged the rest of the debate, with examples of alternate, in-round strategies that would have otherwise been read.
+T comes before other theory. 
+I went for T/Theory a lot. These debates will be judged purely on in-round tech, but going for theory in a non-egregious situation will earn lower speaker points than defending your aff.
+
+CP: Negative fiat is good. It is usually deployed through either illogical opportunity costs (international, states) or thievery of affirmative ground (consult, conditions, agent). I default aff on both the theoretical legitimacy and the competitiveness of these arguments. 
+Literature proving a substantive difference between the plan and the counterplan will strongly help your case. I honestly can’t see myself finding a well-researched, case specific counterplan with a solvency advocate illegitimate, regardless of my above statements.
+I also find opportunity cost a (less) persuasive metric for legitimacy: i.e., “if we win our CP is competitive, then opportunity cost should determine legitimacy.” Zach discusses this in his philosophy. 
+I have no idea what textual competition actually is, but word and discourse PICs aren’t good. (I have voted negative on this, though, proving everything is up for debate.)
+I almost always vote for the side that gives me the clearer metrics to compare solvency deficits and net benefits.
+Presumption goes to the side of less change; if this is not quantified, it will go affirmative in the event of an advocacy. 
+I’ll judge kick unless told otherwise.
+
+K: High theory requires higher explanation. I’m pretty well-versed in more policy-oriented critiques, such as critical security studies and various environmental philosophies, and I read a Levinas aff for some time. However, I am not as knowledgeable about postmodernism (or, for that matter, modernism), so please contextualize your criticism using real-world examples. 
+I will resolve this debate by looking at competing frameworks for evaluation first. Make any arbitrary, self-serving ballot claim you please. Explain why it should be preferred and why it excludes their offense.
+Make direct, comparative arguments wherever possible, particularly with regards to “clash of civilizations” style sequencing claims (such as epistemology/ontology first).
+Overviews should only contain explanatory or framing arguments that don’t fit below them. Put everything that you can in the line by line. Please, no underview.
+
+A more conceptual subsection to this, directly copied from Madhu's philosophy and in response to the "clash of civilizations" debates I often find myself judging.
+
+"Debates involving a soft-left strategy vs. something on the right (e.g. K aff with a plan text vs. a CP with a policy NB): I'm adding this oddly specific category because lots can (and often does) go wrong here. Make sure your ships collide head-on in the night. If there are some problems with the negative's speech act but the plan causes extinction and the CP doesn't, who do I vote for? Answers to this and similar questions are often not on-face obvious in debates involving both the policy realm and the debate space. Please answer those questions and make good "even if" arguments."
+
+DA: Case specific disads are my favorite arguments, mostly because I love logical opportunity costs. 
+I like the politics DA; it’s the only generic on the last few topics, and it keeps debaters informed regarding current events. Affirmatives can definitely still win theoretical objections, but don’t read different, contradictory models of fiat.
+Link controls uniqueness. Zero risk is possible. Smart turns case arguments win rounds.
+Keep the rest of the debate in perspective. For instance, why does the DA mitigate solvency deficits to the CP?
+
+Final Thoughts: I don’t really have much else to say, so I'll spare you any long remarks. You probably won’t remember your speeches in this round, but you will remember the time you spent with your team, the memories of tournaments, and the friends you made. Debate has some of the best and brightest people I’ve ever met. Relationships with them, rather than the cards you cut, are what really matter.
+
+Email debnil dot sur at gmail dot com if you have any questions. Good luck!
+  

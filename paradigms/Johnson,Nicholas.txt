@@ -1,0 +1,108 @@
+
+  School: John Marshall High School, Chicago, Illinois
+
+Paradigm Overview:
+My inclinations are almost wholly tabula rasa, but because there's little reason to question and define *everything* in the course of one debate round, I'll start off with fairly standard policy-maker assumptions that I will default to if you don't articulate an alternative framework. Ultimately everything is up for grabs, and it is my intention to intervene as little as possible in the debate round as I can, so argue whatever you want and let the flow (and as much agency as you force me to have) decide.
+
+
+Okay, not true for Novices. Novices, I'm a policy-maker for you. No crazy frameworks and I'll ignore impacts to Ks which aren't interpretable at the policy level. Sorry, but debate fundamentals first, you'll get to be varsity later.
+
+This got kind of ridiculously long, sorry about that.
+
+Presentation
+Speed is perfectly fine. (If its the first round in the morning, I might ask you to take it a little easy on me to start, and ramp up to full speed from there). Clarity is good (I will tell you if I can't understand), as is good breathing rhythms that don't distract from your speech.
+
+
+Signposting is critical. Each speaker can earn up to +1 speaker point above what I would otherwise have given you for excellent signposting. This means giving all your arguments a label before you say them (either a number or letter or, in negative shells, at least an argument type like "uniqueness"), identifying specific opposing arguments you're responding to as appropriate, and telling me when you get to a new position (eg, "Next off, oil DA"). Structure is good. (And seriously, I've never given 30 speaks without good signposting. I really do care).
+
+
+Make good strategic choices. I will reward you in speaks. Potentially a lot. (Debaters who impress me tend to have made good strategic decisions, and that has a big effect on how i determine speaker points).
+
+
+Specific Issues
+Consider the following what I normally consider persuasive and generally my defaults. If you want to argue differently (like competing interpretations on T instead of abuse), you can 'change my mind' about how I will evaluate. (But remember, these ways of understanding arguments are what I find persuasive, and its hard to quantify by how much, so the difficulty of persuading me to alter these will vary considerably. Sorry. I'm letting you know so you can adapt, because I dislike intervening, but at some level certain ways of approaching arguments are just inherently more appealing to me).
+
+
+General
+Arguments which are clearly explained, support claims with warrants, and follow a chain of logic from start to finish are the most persuasive.
+
+I favor good evidence, good explanations, and good logic over more evidence and more arguments. One good argument can overwhelm several mediocre arguments and will carry more weight during my evaluation of impact analysis. But I also favor good tech, and have frequently voted on dropped arguments.
+
+I default to probability x magnitude when assessing impacts, but when necessary I find probability more persuasive. Really small probabilities are not very persuasive most of the time, even for large magnitudes.
+
+100% defense is possible. I have voted for the negative on presumption and in the absence of surviving negative offense, because plan didn't do anything.
+
+Topicality and other procedurals
+For normal policy plans, I'm not particularly persuaded on T unless the Aff is blatantly untopical or they drop T. I prefer demonstration of abuse.
+I'm far more open to topicality claims against Performance or Kritikal Affs which ignore the resolution, although the important argumentation may well end up in framework rather than on T.
+
+
+Arguments like aspec will get similar treatment, at least insofar as in-round abuse is key. (They may be more or less persuasive depending on how much sense they make).
+
+
+I'm open to Turns on T, but am unlikely to vote against the negative on them unless there's abuse related to the turn or the turn otherwise feeds into an Aff K which is part of a larger position. They'll at least function as T takeouts.
+
+
+Framework
+If you're Aff operating outside parametrization of the resolution, you need to defend a framework which makes this okay. (Remember, I default to a policy-maker until you articulate an alternative framework).
+
+
+The Kritik thesis generally acts as a framework, although making the framework explicit in the block can be useful sometimes. But if the thesis defines the framework of the K, that's sufficient as an articulation for changing my effective paradigm. If the K's thesis exists only by implication, if you want it to work at a level other than the policy level you'll want to make this framework explicit at some point.
+
+
+Performance Affs and resolution-rejecting K affs
+If it isn't obvious yet, I do find Performance Affs somewhat problematic. If your framework's model of what it means to affirm is abusive, I'm almost certainly going to be persuaded by the negative on framework (so long as they make those arguments!). The negative should be able to reasonably prepare so there is a debate, not just an Aff discourse. That goes for K affs which ignore the resolution too.
+
+
+Counter-Plans
+I love good CP debate. And by good I mean interesting, specific, and well-developed CPs. I especially like Plan-Plan debate or clever Advantage CPs. Agent or mechanism CPs are okay, especially if they're well developed.
+
+
+PICs are generally not conducive to good CP debate, and I find abuse claims against many of these fairly persuasive.
+
+My inclination is that CPs only need to be net beneficial to an articulated Perm. I'm inclined against requiring CPs to be untopical (especially since it leads to silliness where Neg claims even plans that get run are untopical as a CP, since you can find a T vio for anything). And I find mutually exclusive claims to be virtually incoherent (when I vote for a Perm: Do Both, i vote for congress to pass a law that does the P, and for congress or another country to pass a law that does the CP - or otherwise the plan is implemented according to whatever agent is specified. Congress can pass supposedly exclusive laws without even noticing, and when the agents are separate its even more clear that one can't exclude the other from passage. You should argue net beneficiality off the interference generated by the simultaneous implementation of P and CP instead, not exclusivity). If you wish to argue for different theory, you're probably going to have to also explain what that means in terms of the role of the ballot and what the ballot does.
+
+Kritiks
+You're going to need to explain to me what framework or value system I'm voting on. (Example: Objectivism might value Life as Proper to a Human, which they define, and then explain how voting a particular way - such as to maximize protection of natural rights - maximizes that value. A Cap K might ask me to minimize or eliminate the oppression of the working class because it maximizes quality of life. OOO would ask me to vote on their ontology because it eliminates special treatment of certain classes of objects). Values don't have to be ethical frameworks (the OOO value is based in almost pure ontology rather than ethics).
+
+
+If the K is non-unique to plan, you need a positive alternative which creates an impact-deficit for the affirmative. "Reject" alts are not typically persuasive to me for non-U Ks. Reject will generally be *a* conclusion of a well-formulated alt, but not the *only* conclusion. (e.g., a Cap K should endorse a different mode of thinking, not just rejecting Capitalism. It needs a basis for action or its just SQ stagnation, which is still capitalist).
+
+When I vote for a K, I vote to accept the alternative. I need to be able to interpret what that means at the level the K is active. That is, if the K is at the policy level, the alternative needs to be at the policy level, and I need to be able to understand what it means to endorse the K at the policy level. If the K is at the in-round level, i need to understand how I would implement the K in my personal life or in the round (as appropriate). (This is part of the reason reject alts aren't persuasive for non-U Ks, because reject either results in the SQ, or removes any basis for decision-making at all, making it unclear how the world should be - real or fiat as appropriate - post-K.) If there are perms on the flow and I accept the K, I will adopt the appropriate mindset / value system, and decide if the Perm is desirable or not given the K mindset / value system.
+
+Also, if the Aff wins they get to weigh the Aff policy advantages, that elevates the relevance of fiat world impacts and analysis, and makes a fiat world alt almost essential for the K to compete. Real world implications are almost entirely incommensurate with fiat world impacts, so the Aff getting to weigh policy advantages pretty much negates them unless you can articulate a framework where the two can sensibly be compared.
+
+
+On discourse Ks: I find myself reasonably persuaded by Harrison's Judge Choice model. I conceive of it roughly as follows: many discourse Ks act as advantage take outs or turns rather than case turns. In many cases, you should endeavour to impact these in the fiat world (bad discourse should cause policy issues). Arguing a discourse K is an independent reason to win (rather than an advantage turn/take out) is asking me to punitively assign the other team a loss because their discourse was not only wrong, but offensive. This can be especially persuasive for things like racist/sexist language Ks, but persuading me that, for example, their way of discussing security is sufficiently offensive to justify a punitive ballot is going to be harder (although certainly doable).
+
+Conditionality
+It is a shame that the default position on everything is conditional these days. I miss negatives that actually advocate something.
+
+
+In terms of strategy, I frequently find conditionality as I've seen it used to be a weak choice. One conditional K and one conditional CP doesn't really fulfill the testing-paradigm justification for conditionality, and under the theory that you evaluate the kritikal level first, then evaluate the policy level, there's no reason to run the K and CP conditionally. (If the K loses, then it was a bad idea we've already discarded and it doesn't matter if the CP bites it. If the K wins, you never evaluate the CP. The PerfCon never happens. So you might as well run both unconditionally or dispositionally). But even more than that, you might as well run a CP that doesn't bite the K. This is definitely something you can pre-prep, and it makes for a much stronger and more cohesive negative strategy. If you want to still do an exclusive K/CP pair conditionally, it will affect my estimation of your strategic decisions. (How much will depend on what else you do in round).
+
+
+The proper use of conditional positions, imo, is to run multiple conditional CPs xor multiple conditional Ks, to attempt to find the best plan or the best value respectively.
+
+Perms
+I usually understand perms as a test of competition, and the affirmative can either advocate the perm, or advocate the plan and use the perm as a demonstration the CP/K is not competitive with the plan.
+
+My default assumption is that a perm is (all of plan) and (all or part of a CP or K alt). I am willing to be persuaded otherwise.
+
+Troll arguments
+I'll listen to them, but expect low speaks and dirty looks. I'll vote for the 'the' PIC or pen-spec if you win it, but I'm not going to be happy about it.
+
+
+Tag-Team CX
+Between you and the other team. Doesn't bother me.
+
+Other Issues:
+
+Flashing files
+When prep time is stopped, the person about to speak may save the file to the flash drive and hand it to the next person (generally his partner). He should then prepare to speak and give his roadmap. The flash drive can be handed off while he's speaking. This keeps flash time to a minimum while still allowing reasonable access to the opponent's evidence.
+
+Debater control of the rules of debate - Varsity only
+I am amenable to some ability for the debaters to agree to change the rules regarding structure, but the tournament and myself are also stakeholders. Changes which solve for perceived abuse issues and require only minor modifications to things like total time spent debating I will consider implementing if both teams agree. Preferably this discussion would happen during CX, and I will make a decision if asked at that time. My priorities are to keep the tournament roughly on schedule and defend the integrity of debate, so if the proposal is relatively neutral or beneficial to those goals, it will increase chances of acceptance. (For example, Aff+Neg agreeing to let Aff have +30s in the 1AR for a 30s 3NR after the 2AR just to point out new arguments in the aff's last speech only generates +1 minute of speaking time, and improves the intellectual integrity of debate - I'd probably allow it. I will not, otoh, ever agree to give all the debaters 30 speaks just because they agreed they should get them; that damages the integrity of the activity.)
+
+If I'm willing to let debaters tell me how i should vote, and I am, I see no reason why they shouldn't get some say in how the round is structured.
+  

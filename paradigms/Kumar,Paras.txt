@@ -1,0 +1,82 @@
+
+  Paras Kumar (pronounced PA-ruhs KUU-marr)
+UC Berkeley, Incoming PhD Candidate
+http://www.debatedrills.com/meet-the-team/
+Last Updated: April 24, 2017
+TOC Conflicts: PCDS PW, West Ranch JW, Success Academy SC, Strake Jesuit MC, Stuvesyant KF, Brentwood RY + WJ, Mountain View DZ, LHP MK + AA
+
+TOC 2017 UPDATE:
+
+I'm usually at a tournament as an on-site coach, not a judge, so though I have not technically "judged" recently, I am up to date on jargon and strategies on this topic. I have also had radical changes in my judging ideology since I started judging LD debates 6 years ago. You can trace the progression of my judging views by looking at the revisions tab on the top right. One major shift in how I will judge debates is that I will not flow on my computer. I've found that I get distracted and don't pay full attention during speeches. I know that you've worked hard to prepare for the debate, and I promise you to work hard as your judge. So, I will flow on paper, with two good pens, and not be on my laptop during speeches or CX (I might go on my laptop during prep time). I will listen to CX and take notes.
+
+I feel comfortable evaluating most common strategies in debate, such as k's, t / theory, framework, util, and "tricks". I view debate as a game and don't want to impose my views of what makes for good and bad debate on you. That being said, my favorite debaters to coach and judge are the ones who are flex but predominately go for substantive strategies. Here are some thoughts on how you can maximize your chances of picking up my ballot on each of the strategies mentioned above. I've ordered this by the debates I feel most comfortable evaluating:
+
+1A) Util: This is one of my areas of expertise. I feel comfortable evaluating all the prevalent strategies on this layer. These were my favorite debates to execute as a competitor and are my favorite debates to teach as a coach. You can read and do whatever you want. Biggest notes here are signposting. Slow down for your tags and author names before every card. I am serious--if you don't do this for every tag and author, highest you will get is 29 and the chances of me making a bad decision rise a lot because my flow becomes a mess which makes flowing the rebuttals a nightmare. Few quirks I have on the util debate compared to most folks in the community:
+
+A) I believe terminal defense on util exists. If your opponent is showing that your extinction scenario has no brink, has significant alternate causality, and significant alternate solvency, you probably aren’t going to access a probability claim on that scenario. I feel comfortable rounding down .1% probabilities of things happening to 0—this is consistent with real life and academia.
+
+B) Empirical claims need empirical warrants, which means you should probably know the sample size, geographical scope, time frame, variables controlled for, and source of your methodologies. Otherwise most weighing on the util debate, especially on the direction of the link, becomes superficial and surface level. I find methodological indicts of empirical studies to be persuasive and impressive and your speaks will reflect that if you execute this debate well.
+
+C) I'd strongly prefer you weigh your impacts and internal links early and often, i.e. in the 1N and 1AR. The general rule of thumb is that if you have the opportunity to weigh your impacts/internal links vs. your opponent's impacts/internal links in the 1N or 1AR, sandbagging the weighing the 2N or 2AR for strategy or time purposes is not encouraged. This means disads read in the 1N should be weighed vs the 1AC advantages in the 1N itself. 
+
+D) I think most LDers don't leverage impact turns and impact defense as strategically as they can. I am open to evaluating arguments that are considered unconventional like extinction good, warming good, collapse good, heg bad, cap good, etc, and as a coach, I've found that a lot of people's files are not updated on these impact turns and it's a devastatingly quick way to layer a debate. Leveraging horizontal layering strategies on the util debate and collapsing down to the most important or undercovered impact in the 2N/2A while explaining how the impact you collapsed to interacts with every other impact on the util debate is impressive and your speaks will reflect that.
+
+1B) Theory: This is my other area of expertise. Read and do whatever you want. I've spent much more time thinking about and teaching this debate than your average tech LD judge. You are unlikely to confuse me on this layer of the flow. Please slow down for the text of your interpretations. I default drop debater, RVIs (on both I meets and offense to a CI), competing interps using a metric of in round abuse (not norm setting), fairness >> education, pragmatics >> semantics, text of interp >> spirit, OCIs using the word "must" are arbitrary, and theory about K >> K. These are purely defaults--most debaters challenge them one way or another, so this rarely matters. I am most persuaded by real abuse, not potential abuse. Not enough debaters leverage drop the argument and reasonability vs. stupid shells.
+
+Re: Frivolous theory--I think debate is a chess match, and I understand that this is a tool that is often very strategic to layer your opponent/expose weaknesses. If you read friv theory and do it well, you will pick my ballot but won't get high speaks (28.5 max). Wondering if your shell is frivolous? If you have to ask, it probably is. If you are a debater who struggles at answering frivolous theory / hates the fact that judges vote on it, all I can say is get better at beating these arguments. They are called frivolous for a reason. I think most debaters over invest vs. friv theory--30 seconds of good, smart arguments should probably be sufficient to beat the shell.
+
+Re: Weighing--I prefer to see weighing on the standards and voters done early. The general rule of thumb is that if you have an opportunity to weigh your standards/voters vs. your opponent's standards/voters in the 1N or 1AR, sandbagging until the 2N or 2AR is not encouraged. Obviously you can't weigh arguments until there is actual clash on this layer of the flow, but as soon as clash is introduced, weighing should happen. So if you are the 1AR responding to a T shell and you read net benefits to a counterinterp, you need to weigh those net benefits in the 1AR. You can obviously go for strength of link weighing and respond to 2NR weighing, but introducing brand new weighing in the 2AR that the negative never had a chance to respond too is not a winning strategy in front of me. This is the only way to check for a lack of 3NR--otherwise a lot of really tech theory debates can't be resolved in a non-arbitrary way and lead to me doing a lot of work for the negative.
+
+Re: Out of round theory violations--I have no problem evaluating these debates assuming that the violation is verifiable. I tend to think you should disclose and encourage argumentative openness.
+
+2) Kritik's: My appreciation of the K has risen exponentially in the last 2 years. I have had the privilege to coach several students who have consistently and successfully read K's. I understand how these arguments function strategically vis a vis theory and substance much more clearly now. For instance, this year I actively coach a debater who reads non-T affs and another debater whose neg strategy has been built around the Wilderson K. I have also voted for several non-T affs in the last 2 years in big rounds. I no longer think the K alt has to be a policy action and am comfortable adopting the role of an intellectual/educator if you win that framing. Just explain clearly what the alt entails and why it resolves the impacts of your criticism. I've spent some time substantively researching/thinking about most of the common K's on the circuit, so I think K debaters can pref me and probably be satisfied with how I resolve these debates. Some caveats:
+
+A) The more technical you get on the K debate jargon wise, the more you probably need to explain argument function in terms of ballot implications. Additionally, as soon as your vocabulary rises above SAT level (usually only an issue with "high theory" literature), you probably need to spend a couple more seconds on the evidence in question and explain to me the thesis of the argument in non-technical terms. This lets me understand what you are arguing for because flowing you at 400 WPM is hard. Flowing stuff I've never read before (there's a 95% chance I have not read your literature) is nearly impossible. If you aren't committed to communicating clearly, you'll probably be upset that I didn't vote on whatever your obtuse Deluze card said.
+
+B) I'd prefer to see the aff be at least tangentially related to the topic. You don't have to roleplay as a policymaker and you can read offense in the form of a poem/story/irony/whatever really, but if your aff is blatantly non-T, I may not be the best judge for you. I am persuaded by the value of switch side debate.
+
+C) I lean towards empirical analysis of abstract concepts like ontology. As a scientist, I am inherently skeptical of claims that are non-falsifiable. This applies to some K alts--the more vague your alt is and the more it relies on unprovable historical and/or empirical assumptions, the less likely I am to be persuaded by it if the solvency of the alternative is pressed by the aff. 
+
+
+3) Framework: Though I debated in an era where meta-ethics were very popular, I really only feel comfortable with teaching and evaluating debates using util and non-ideal consequentialist framings (such as minimizing oppression/structural violence). I have not read most normative frameworks, so if you stray far from classical LD frameworks (e.g. Deont, Rawls, Political philosophy), I will likely not have background to your literature. I think I can competently evaluate debates using the classical non-util frameworks, but again, I do not really teach these debates because I don't know what's going on most of the time. For example, even after doing this for 10 years, I am still a little confused how we weigh conflicting violations under Kant. That all being said, if you insist on having a hardcore meta-ethics debate in front of me, I find evaluating these debates to be easy as long as there is comparative analysis between frameworks and you take time to explain the thesis of your carded evidence / major analytics IN THE FIRST SPEECH ITSELF.
+
+The biggest advice I have for you if you end up having a super tech framework debate in front of me is to do non-superficial meta-weighing between framework justifications. What framework justification should I care about most when I evaluate the framework debate? Actor specificity? The ought-ought gap? The is-ought fallacy? Epistemology? Ontology? The meta ethic? Externalism v Internalism? Whether the framework is motivating? Lol, I don't even know what the ought-ought gap is, so if that's what you are going for, please make sure you are explaining it clearly. Many phil heavy debaters have preffed me in the past and been happy with the results, and many have preffed me and been upset. It’s a question of clarity on your end—I’m not stupid but I don’t read normative philosophy for fun.
+
+I also don't default to epistemic modesty because I don't understand how to assign risk of your framework being true in a non-arbitrary fashion, but am happy to use EM to evaluate the framework debate if it is won.
+
+4) Tricks: I will reluctantly vote off of tricks if they are clearly won (e.g. skep/skep triggers, permissibility triggers, presumption, wanky logic based affs etc.). That being said, these debates are usually a race to the bottom in terms of avoiding well-developed substantive clash and are typically pedagogically vacuous because they focus the debate on to what I think are mostly trivial issues. But if this is your style of debate, go for it I guess. Several things to note re: speaker points though--
+
+a) I will NOT be impressed if that’s all you can do. I think tricks are impressive when they are utilized as 2N or 2A collapses, but not when they are the strategy from the get go.
+b) I will NOT be impressed if your response to theory is entirely scripted out and you just read. If you aren't making nuanced contextually specific responses to the interp, don't expect good speaks.
+c) I will NOT be impressed if you are evasive in cross ex about the nature or function of your args. If you are are gonna pursue these types of strategies, own up to it, be explicit about it, and force your opponent to beat you at your game.
+d) In terms of capital T truth, I think synthetic theory interps that capture the exact insidious and perverse nature of the trick (as it was executed) are probably true. This isn't to say I'll just vote off of these shells no matter what, but that in really close debates assuming the best tricks debater vs the best theory debater, I will probably be more persuaded by theory.
+
+Basically, if tricks are your thing, you better be really damn good at it in front of me and even then I'll be grumpy. I am also very likely to be persuaded by smart, common sense responses to these positions. Also note that the more logically wanky your aff gets, the harder it will be for me to follow. Formal logic is hard enough reading from a book, flowing it at your top speed is no bueno. The more you make an effort to explain the big picture of what you are saying, the more likely you are to get good speaks.
+
+The rest of my paradigm are some misc. big picture thoughts--
+
+1) The way I judge will reflect how I give RFD’s: I will first figure out what is the highest layer of the debate, and then decide on a framework to judge that layer, and then figure out who has the most offense back to that framework. If there is no winner produced on the first layer, I will look at the second layer, and so on.
+
+2) I expect you to let me finish my RFD before you start questioning me. This is non-negotiable. Feel free to question me as much as you want though. I also expect your coaches to watch and flow the entire debate if they intend on questioning me. They are welcome to listen to the recordings of the debate and email me after, but I will not tolerate questioning from people who did not flow the entire round.
+
+3) Speaks—
+a) Don’t be evasive in CX. You know what an apriori is. You know what skep triggers are. If you play dumb, I will tank your speaks. I have 0 patience for such shenanigans.
+b) Technical efficiency matters. If you aren’t technically sound, the highest you'll get in front of me is a 28.5. The more technically impressive you are, the higher your speaks will be.
+c) Strategic vision matters. If there was a faster way you could’ve won, speaks will suffer. I want you to go for the kill and to do it fast.
+d) Big picture vision matters. The best debaters do the line by line while telling a story. Write my ballot for me.
+e) How easy you are to flow matters. Do you clearly delineate when cards end? Do you signpost well? Do you give me a split second to catch up to you when you transition between layers of the debate? Did you slow down for theory interps and plan/cp texts and K alt texts?
+
+4) Be a good sport—
+a) You must provide either a paper copy of everything you read or flash it to your opponent. I will chew you out and tank your speaks if you don’t comply by this—there’s 0 reason your opponent should be forced to read off your laptop.
+b) Don’t make your case font small (less than 11 is unacceptable). If you read an all analytic framework that has no spaces in it, you must be willing to provide a version of the framework that spaces out the args.
+c) Don’t be mean. Rounds are intense, but I expect ya’ll to be at least civil to each other. Sass, humor, etc. are fine, but mean-spiritedness is not. It's uncomfortable for me and it'll be uncomfortable for you once you look at your speaks. 
+
+^Stick to the spirit of these rules and you’ll be fine.
+
+5) I presume aff absent explicit argumentation otherwise. 
+
+I know you want to win, so please consider the round yours—do with it as you please. Take time to enjoy the process though because once it’s done, it’s done forever. I miss debating a lot. Good luck!
+
+Email me if you have questions: paras@debatedrills.com,
+Paras
+  

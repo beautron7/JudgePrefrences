@@ -1,0 +1,69 @@
+
+  I like having a clean traditional debate. The only thing I want to hear you guys talk about is the resolution and whether that means you win or lose. Persuasion is important to me, so I really do not like when people do what is called "speed reading" or "spreading." Try and persuade me to vote for you. I want to feel the metaphysical importance of what you're talking about, down to my very soul.
+
+
+No but really, I'm a first year out who did debate for 4 years at Chaminade College Prep from 2012-2016 and debated on the national circuit for three years.
+Here's my TLDR of a judge philosophy for those of you who just want to scan the pref list.
+theory > framework = util > kritiks > tricks.
+Defaults on theory, which can be eroded by any semblance of an argument with a warrant: No RVIs, Theory is Competing Interps, Drop the Debater, Text of The Interp.
+Theory precedes all, metatheory is contingent upon the scenario.
+If you do read RVIs but don't specify when they are triggered I will assume RVIs on I meets, reasonability, and offense to a winning counter interp.
+I'm very receptive to disclosure theory.
+Slow down on tags and interps.
+Start your speech normally then ramp to max speed.
+
+
+
+The way I generally decide winners is I pick a winning framework (theory, RoB, normative, etc.) then decide who the winner of the round is based on that framework. Can be changed via argumentation.
+
+Here's the longer version with more explanations that you ought to read if I'm judging you.
+
+General Things You Should Know
+1. Debaters have a tendency to think its strategic to fill frameworks and theory with as many blips as they can get away with. If you happen to align with this viewpoint please for the love of all that is holy just slow down when you get to them. I don't think there's any skill that can really be attributed to reading 7 one liners at 400 words per minute and then extending them for free wins when people drop them. Don't expect the judge to catch arguments that you don't expect your opponents to catch.
+2. If you plan on reading a dump of cards vs an argument, tell me before the speech begins so I can get another paper or something so that my flow doesn't get ruined. Also, when you read your dumps be sure to briefly state which card is answering what. IE, if you're reading a wilderson dump and two cards apply to the impact while two others apply to the role of the ballot, say that before you read argument in your speech.
+3. (copying this from jacob nails) I will ignore any argument that I didn't understand the first time it was made even if it becomes clear in rebuttals. I often call for cards after the round, but you won't get any credit for arguments in your evidence that I did not flow in your speech.
+
+Theory/T
+Read whatever type of shell you want. This was the argument I read the most in High School, so it's also the part that I feel most comfortable with. I don't really care what type of shells you read. I've been told that my bullshit meter is bad so whatever. If you think there is injustice in the round that needs to be punished, do your best job at rectifying it with the holy hammer of theory. Part of the reason why I enjoyed theory was because I liked how it forces people to rethink and defend their debate practices. As a result, I find bs theory to just be kinda funny.
+
+There is one important nuance that I believe you ought to pay attention to, however, if you happen to read RVIs good with a theory spike (ie, condo bad, afc, etc.) Most theory spikes tend to be condensed theory shells without voters that are often extended as reasons to drop the debater if violated. If you read RVIs are good and you have a spike that is then defeated, then I think it's perfectly fair for your opponent to extend that as a reason to win the round by triggering an RVI. Example: Aff reads their StandardAff.exe with an underview of RVIs Good (without specifying when they are triggered) and Condo Bad. Opponent wants to read Condo, so he/she answers it and extends the RVI for a win. Judge me sees this as legit and gives the win to the neg. Aff had a theory shell which he/she lost, so it triggered the RVI. The fact that it was condensed or blippy doesn't change what that argument is. This also isn't dependent on your opponent actually violating the spike since I'll give RVIs on I meets. If you want to avoid this you can just specify not to give RVIs on I meets or only have RVIs for the Aff (although that's probably abusive. if you want to go that route the round ought to be fun atleast) or something .
+
+You should have internal links to voters if you read more than one voter, just so I know which standards link to which voter.
+
+Also, good life rule for theory is to always explain your standards in terms of in round abuse. It makes understanding the abuse claim much easier as a judge, and often times makes it seem much less blippy and more of a real argument, rather than a time suck. Every standard should have a reasonable abuse story that's either A) occurring in this round or B) would occur should the interp be universalized.
+
+
+Now onto T. My only gripe about T is that I feel like there's a trend to just see T as just another theory shell. While this is true in a sense, I think it also leads to people misunderstanding how to strategically win or argue their T debates as a whole. From my understanding, Topicality is simply a matter of whether or not you meet the resolution.
+The real theory equivalent to a T shell would be Interp: Aff must be Topical/meet the res. Violation: Definition of word in resolution and reason why that definition is correct. Standards: why being topical is good. Voters: insertStandardVotersHere.
+However, at least when I debated, debaters would just read their interp or definition and then have standards to prefer that definition in terms of education or fairness, while randomly putting jargon words like limits or something to make it seem like they understood T debate. The fact that an opposing definition may be more educational doesn't necessarily mean it's the correct definition. If you're advocating for another definition that may not be exactly correct, you need to be doing weighing on how your definition achieves a certain brightline of understanding for the resolution that allows it to be debated while at the same time maintaining it's more theoretical advantages.
+Unfortunately, I don't think those types of debates will really happen that often, so at the very least just try to read arguments like semantics first.
+
+Framework
+I didn't really get into framework debate that much until senior year, but I really liked it. Standard LD framework debate seems to be losing its sway which kind of makes me sad. I'd definitely enjoy if you brought in a unique or sophisticated moral framework and actually attempted to control the round that way. My only caveat is to atleast ensure that you don't end up throwing blips instead of arguments. Exchanges of blips are never easy to flow and oftentimes can lead to a judge "screwing" someone out of a win. It's better to be big picture and point out legit flaws with people's cards and framework rather than rehashing the same util or deont fifteen point dumps without any regard to their actual content. Fifteen point dumps are hard to flow and make me sad. But good framework debate will make me happy and likely result in better speaks. Can you do it? The choice is yours...
+
+
+Util
+I think good well researched plan debates between two people who know what they're talking about are probably some of the best type of debates that can be had, so if this is your strategy definitely go for it. As a result, I think it's generally a good practice to atleast disclose your plans so your opponent can actually prep a somewhat tangentially related strategy.
+Besides that, do your impact calc and also keep in mind that most extinction link chains and cards are literal powertagged garbage. Don't expect a 1AR/2NR re-explanation of a terrible card to save you if your opponent calls you out on the fact that your cards don't have warrants.
+
+Kritiks
+I read a decent amount Ks during my career, but I never really considered myself a K debater. Probably because I only read basic arguments like the Cap K or wilderson files. I'm not too familiar with much K lit outside of that so if you want to read any Ks be sure to actually explain them. The burden of proof here is just a bit higher since I don't know the literature as well. So long as you don't expect me to know what your authors are saying and the background behind most of continental philosophy that we ought to be good.
+
+One important thing that I want to note as that I actually abhor the current trend of "Oppression Role of Ballot as a framework" into standard contention. These cases honestly just seem like util cases with reasonable impacts instead of extinction, except without any work being done to actually justify a framework. If your role of the ballot is just a one liner or random card and not an actual indepth explanation of how your actions and my ballot in round will create a tangible change in the real world (which is pretty unlikely) then your framework will be treated the same as any other standard LD framework, except one that lacks any deep warrants or explanation. A good example of why I dislike these frameworks is that they tend to be kinda vacuous and don't really attempt to explain what oppression means or how we can act on it in the real world, as opposed to a util framework which explains I ought to for the greater good, or a kantian framework because universalizability and ends in themselves. See Noah Simon vs Kris Kaya 2016 Battle for LA for what I mean. Link is here (https://www.youtube.com/watch?v=o6o5si4y8zo)
+
+This doesn't mean you shouldn't read those arguments, only that if you do you ought to put more work into explaining them.
+
+Also I don't assume that as a judge I'm an educator. That argument requires a warrant, since I think I'm just here to determine who wins or loses.
+
+Tricks
+If you're plan is to read sneaky strategies that subvert the actual meaning of your arguments to surprise your opponent, then you shouldn't pref me. Good example of what I mean: You shouldn't have a spike in the framework and then a spike in the underview that when combined magically make it impossible for your opponent to win. S
+However, if you're just reading some probably abusive framework combination ( eg. AFC + democracy) then I don't care. I only dislike tricks when their actual argumentative purpose is hidden and exploded in the later speeches. So long as you're open about what your case is and what it says then that's fine.
+
+
+
+MISC
+Any other questions send me a facebook message.
+Bonus to speaks if your rounds are funny or interesting (whatever interesting means is up to you).
+Try to be nice to worse debaters.
++0.5 speaks for spicy memes.
+  

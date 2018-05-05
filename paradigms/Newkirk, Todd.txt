@@ -1,0 +1,72 @@
+
+  San Dieguito Academy 2007-2011
+Lynbrook High School 2012-2014
+Presentation HS 2014-Present
+
+Major update 12/15/14
+
+*Edit 12/4/14* Using e-mail chains to share cases is faster and has fewer technical issues than flashing. If you e-mail evidence in round prior to speeches I'll give you +0.5 speaks.
+
+*EDIT 2/9/13* Flashing is part of prep time. I don't like prep stealing. Your prep doesn't end until you hand your opponent the flash drive.
+
+TL;DR – The more resolvable you make the round, the less likely I am to intervene or presume. The more you weigh the more likely I agree with your view of the round. Adapting to me makes me hate you less. If your strategy is based on avoiding clash, please strike me.
+
+LD
+
+Speaker points:
+i) I won’t disclose them.
+ii) My average speaks are relatively low.
+iii) I heavily weight to incentivize clash and punish unethical actions in round (at my discretion)
+iv) I’ll give you + 0.5 speaks if you use an e-mail chain to share evidence before speeches.
+v) I’ll give you + 2 speaks if you show me after round a full text disclosure of your position posted on the NDCA case-list and time-stamped before the first round of the tournament.
+vi) I’ll tank your speaks if you read things you didn't share with your opponent pre-speech and will probably not evaluate the arguments.
+
+Theory:
+I have a high threshold for the links between interp, violation, and standards. If you read standards cut from an old block I’m probably not voting on them. Theory is always competing interps unless you either explain how I evaluate reasonability and/or win intervention good. 1AC theory pre-empts need to be re-contextualized in the 1AR based on the exact nature of the violation in the 1N. These are my starting points and thresholds on some interps. I’m free to add interps to the list at any time. I'll only vote on an RVI if you're also winning the theory debate or justify why you shouldn't have to be IN THIS ROUND.
+I have a VERY high threshold on these interps:
+- Neg must read competing ethic
+- Affirmative Ethic Choice (AEC)
+- Neg interps must be checked in CX
+- Aff may not defend implementation
+- Neg must defend squo
+I have a fairly low threshold on these interps:
+- Aff must defend a topical action
+- Neg must clash with the aff in some way (rejoinder)
+
+Speed:
+Speed is fine, as long as it is clear. I say clear less than other judges, usually because I'm trying to understand you. By the I say clear I've probably missed something. I am willing say clear once per speech, maybe twice if it has been 4 or 5 minutes since I said it last. I will not struggle to flow everything if you don't make an effort to be clear when asked.
+
+That being said, I think it is to your benefit to go slower than max speed. I have a lot of RFDs where a debater thinks an argument was made (and it may have been) but I didn't hear it. This is not my fault, this is your fault. If you want to ensure I don't miss anything, slow it down a bit.
+
+I believe content should dictate speed. You can probably read util at top speed in front of me, continental philosophy at 85%, and analytic philosophy only slightly faster than conversational pace. If your position is based on many short links you need to slow down so I don't miss or misunderstand any of them.
+
+Extensions:
+I don't believe you need to extend dropped arguments. You only need to weigh the impact of the dropped argument against other impacts in the round. If you don't bring the impact up to weigh it in your final speech I won't evaluate it for my ballot.
+
+Evidence:
+The only time I typically call for evidence is if there is a dispute about the evidence itself (what it says). This means one debater challenges the content of a piece of evidence and it is defended. As above, if I miss something from your evidence I will not help you by looking for it.
+
+Paradigm
+
+I don’t vote on arguments I don’t understand or that aren't warranted. That said, I prefer util or K debates (with specific links and impacts) as I both understand them better and find them more resolvable. I start the round evaluating comparative worlds as a policy-maker post-fiat and an educator pre-fiat. There is some wiggle room on how I evaluate impacts here, but you shouldn't be reading truth testing in front of me. It will be very hard to win both because I'm not compelled by the paradigm and I don't think LD is the right forum for analytic philosophy. 
+
+Presumption:
+I presume a lot. A LOT. This is not because I like presumption arguments, but because I so seldom watch rounds that I feel are resolvable. Here is a guide to how I evaluate arguments, which typically terminates in presumption:
+- if there are qualitatively different impacts under the same FW that are not weighed I won't evaluate any of them
+- if there is an impact that is only quantitatively different between the two sides, I will evaluate the bigger/smaller one based on what the impact is
+- I don't do qualitative weighing because it's intervention, but I feel the ability to count is a reasonable task for a judge.
+- Number of extinction scenarios (I know it's weird, but I feel comfortable counting distinct links only in extinction / ultra-low-probability debates)
+- if each debater is winning one impact calc metrics and they are not compared I won't evaluate either
+- if there is a warrant and counter-warrant to the same argument without comparative weighing I won't evaluate the argument
+- Same rules for FW, if each person is winning some arguments and they are not compared, I probably presume
+- I start off presuming neg for positively worded "ought" resolutions. If and the negative reads an unconditional CP or alt then presumption flips aff.
+
+Please don't do these:
+- calling defense turns
+- claiming your opponent dropped something he/she didn't
+- asking me my preferences and then choosing to not adapt
+- Claiming a single issue is sufficient to vote when it isn't (I won't vote just because you won the value debate)
+- claiming there are rules in LD, and that your opponent is breaking them (this is what theory is for)
+- abuse claims (theory) without warrants (standards) and impacts (voters)
+- being shifty in CX to avoid clash
+  

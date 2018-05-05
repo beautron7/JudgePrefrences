@@ -1,0 +1,214 @@
+
+  Note: I'm a policy debater. LD Specifics: I DO NOT know theory or phil. If you read it in front of me, I will probably drop you since I don't understand it. You should LARP.
+ 
+i am a math/physics double major who debated in high school and now does policy at cal. i enjoy memes and science jokes, and if you roast somebody on a science throwdown, 29 minimum if you're right.
+tldr;
+I WOULD RATHER SEE A GOOD K DEBATE THAN A BAD POLICY DEBATE. do what you're good at.
+arguments must have warrants for me to vote on them - and i probably won't read your evidence to warrant arguments for you, but i will read it to resolve disputes in the debate, or to resolve very close debates. I do place a lot of emphasis on convincing spin, but you do need cards.
+i have almost no moral compass in debates, you just need to have cards from qualified sources (so your infowars racism good K, not gonna cut it kids, but your PhD in IR "don't smack-talk american hegemony" K, does cut it).
+i don't presume you and your feelings have an impact. if you make some blippy word k in the 1AR like "they said stupid vote aff" and don't impact it before the 2AR, i will call you more than just stupid during the rfd as i vote negative. i personally hate these arguments, and really all the neg has to say in the 2NR to answer it is "word ks cause substance tradeoff and are cheating vote neg" and i'll be fine not voting for it. obviously i get to draw a line in the sand (nonblack ppl don't get to say the N word etc etc)
+debate is a game. i lean towards it having rules -- \forall{speaker}{1:constructive, 1:rebuttal} \forall{affirmative}{1:1AC, 1:plantext}. these can be violated at your risk, and utter destruction of your opponents will be necessary.
+i am a bad judge for overviews longer than 25-30 seconds. i won't embed clash for you if the other team makes fun of you for it and then says "punish them for being bad at line by line" i probably will because that's just who i am :)
+add me 2 the chain, and feel free to email me with questions! connor.t.duncan [at] gmail
+here are the specifics if you're deciding to pref me pretournament --
+speaker points:
+<27 - you murdered someone, violated a rule or just were so bad that I physically suffered watching you debate
+27-27.5 - room for improvement
+27.5-28 - meets bare minimum standard of competency in very unremarkable fashion
+28-28.5 - is solid. probably won't break but clearly shows signs of effort.
+28.5-29 - hey you're pretty good. probably will break!
+29-29.5 - i will literally impregnate myself right now so that you could teach my child debate (or standup)
+29.5+ - you're basically jesus but of debate not suburbia.
+how i judge debates
+--the question that i ask myself when judging debates is: "is the affirmative a good idea?" if the answer to this question is yes, then i will vote aff 100% of the time, absent any arguments that have been made that voting aff itself is a bad idea (i.e. T, or theory)
+--in order to determine what "good" means, i look for arguments that tell me how to frame impacts, and try to figure out what lens should evaluate these impacts under.
+--after this, i isolate each piece of offense from the last rebuttals, and assign it a scalar value f(p,m)=(kp)(cm), where k,c are constants determined by the debate, and p,m are probability and magnitude respectively, the meaning of which is determined by the word "good"
+*NOTE: this calculus can be changed by clear, explicit and justified judge instruction in the final rebuttals that gives me an alternate formula by which to evaluate impacts. Otherwise, I will default to the above frame because my brain is like a computer sometimes*
+--generally, after this process i will have some idea of whether or not the aff is a good idea, i.e. f(p_{aff},m_{aff})>\sum{f(p_{neg},m_{neg})}
+--once i make this initial determination, i will reexamine my flows to double check that i have not missed any factors that might make the postround awkward.
+feel free to engage me on my decision. if i really mess up, i'll buy you a bag of chips, but i think (hope!) this will rarely be the case.
+do i like the k
+not really lol, but i'll still vote for it if i have to (which is a lot lmao)
+if you just don't talk about the aff at all, i'll have a hard time voting because all the aff has to say is "we have an impact that is yuge and we actually solve it." what that means is that you must debate the case through the block in order to get a ballot from me. solvency takeouts just prove that legal change is even more impossible than the aff says.
+if you read schlag in front of me, i will probably laugh at you because that card says literally nothing.
+i don't think performance debate is good outside of the varsity pool. just a personal thing
+i will vote that neg teams do not get the K. a lot of judges really hate this argument but hey if you're winning it, go for it.
+death good will kill your speaks, but from your perspective i'd be doing your speaker points a favor so win/win?
+i think alternatives compete way less than most 2A's give them credit for. on the aff, make more theoretical justifications for why you get a permutation, since "you touch the state" is basically the same thing as saying a counterplan should compete because "the aff linked to the 'military gets too big' da." like damn... if I go to the DMV do I have to explain why I get a perm? no
+buzzwords are not arguments. i won't treat them as arguments so if you don't explain your things i won't vote for them. also I don't have an incredible understanding of K lit so I'm probably dumber than your blocks will give me credit for
+dont be a victim — i don’t care if the other team said you made a stupid argument that’s not bullying and it doesn’t mean they lose sack up and beat the argument
+this all probably seems pretty fascist by debate standards, which, fair enough, but i do have a ton of respect for K teams that actually make arguments and are smart about contextualizing those arguments to the aff. i think these debates can be really productive and move debate forward, but they really get overshadowed by debates where people read poems and sacrifice their identities at the altar of the ballot which usually ends in tears, and me hating debate. if you go for the K, and actually execute arguments by doing things like reading cards and explaining them, i will be STOKED but if you just tell me that your opponent didn't go easy enough on you because of your subject position or some nonsense i'll probably just look at memes for most of the debate.
+do i like the k aff
+not a ton no. i think slapping a plan on the aff solves a lot of your offense on framework and im generally unconvinced that debating the resolution is the same thing as defending genocide.
+also it might be cheating.
+but negative teams you need to be better at going for framework. I vote aff in a lot of these debates because the block has execution problems and drops a bunch of crappy disads to their interp.
+the aff needs to have a counter interpretation - if they forget to extend it in the 1AR GG
+i'm going to flow even if you tell me not to. line by line is not racist, and you aren't dave so don't say that.
+how abt disads?
+awwwwwww yeah disads are great. if the DA turns case or the status quo solves the aff then you really do not need much of a link to win
+'specially if you got a flaming hot counterplan.
+the aff should just crap addons to solve these.
+uniqueness counterplans are underrated.
+counterplans?
+dude do it. affirmative teams are just garbage at writing advantages that can't be solved by a poorly thought out 2NC counterplan lifted from a couple lines of 1AC ev
+states is just unbeatable on this topic. you should really go for it.
+neg probably gets infinite conditionality and also probably gets 2NC counterplans.
+if it dont compete expect an L on that sheet!
+t
+yeah the aff gets away with way too much all the time. make them stop cheating!
+also though you probably should explain to me why I care about T at all. Fairness? Not an impact and I really like being questionably topical so I'll probably be sad if you limit out the aff I would have read without some sweet justification for why I ruin debate.
+case
+roast the case! circumvention is just a tru arg if you're neg. why should they get to fiat past the fact that betsy devos is an idiot? I have no idea why this should be the case (if you're aff, don't worry, durable fiat probably solves this)
+also if you're aff - addons are your friend and a good way of making neg offense go away - why do i care about disads if u just solve the impact
+theory
+don't do me like this -- you get some counterplans and honestly if you're going for theory you're probably already behind.
+
+if they drop if tho go for it im lazy
+
+
+
+updated - 10/10/17
+ I debate at Cal, and debated at Sonoma Academy. I was a 2N in high school, and am now a 2A.
+Email chain: connor.t.duncan@gmail.com
+If you do parli, read the bottom of this paradigm first - tl;dr: warrant ur arguments, don't shake my hand.
+Top Level:
+ Your opponents see your evidence, or you lose, get zero speaks, and probably an angry rant from me to your coach.
+You respect people. Attacks on somebody’s skill as a debater are encouraged. Attacks on them as a person, not ok.
+Be sassy. CX exists for the sole purpose of humiliating your opponents, and it’s another speech, so treat it as such.
+Speaker Points:
+ 0 - Racism
+27 - very bad/needing lots of improvement
+27.5 - could not reasonably be called competent
+28 - meets bare minimum standard of competency
+28.5 - above competent
+29 - very good
+29.5 - I would have a child right now, just so that you could raise it and teach it debate
+30 - god status
+The K
+ I put it at the top so that you don’t have to scroll through my paradigm to find it.
+I will listen to the K, I’ll vote on it, but I probably won’t be the biggest fan of it. Totalizing claims about the fundamental structure of society or the existence of an objective reality read quickly out of blocks written by some random college debater from three topics ago for some reason aren’t particularly persuasive to me. If you do want to go for the K, have a specific reason that A. your impact outweighs and B. that the link independently turns the case.
+Death good will kill your speaks, but I guess you won’t mind.
+Bad performance debates will put me in a bad mood. I don’t think performance outside of the varsity pool is a good thing (seriously, how can you learn about the structure and strategy of debate when all you’re doing is figuring out what some poem means in a competitive setting) and I’m not convinced it’s good in high school at all. I'm also just super underqualified to judge it. If you do it, and do it well, good for you, but I might not be your number one choice as a judge. If you do want to perform in front of me, do us all a favor and explain your arguments (which is a thing you should do anyways, I am just physically incapable of giving you leeway here)
+I'm willing to vote on neg teams don't get the K. I understand a lot of judges are opposed to this arg paridigmatically, but if you're winning it, make my job easy and go for it. Please. 
+
+The K on the Aff
+ Plans are a thing that I am a fan of. Generally, I would advise that they be read. If, in the event of some unmitigated disaster (/s) you have me in the back, and don’t have a plan, fear not. You can still win my ballot. Here are arguments I find convincing.
+-T interpretations that solve limits better than the neg.
+-Impact turns
+-SSD Bad, but only if you win that debating this resolution is the same as debating whether or not the holocaust happened (affirming holocaust denial would be a hard topic).
+Arguments I do not find convincing include
+-Framework is genocide
+-arguments that say anything other than arguments should decide my ballot
+-not defending anything
+-shaming your opponents for things they can’t control
+Every time you don’t give a legit answer in CX, you lose .1 speaker points.
+Neg teams!!!! This doesn’t mean I’m going to hack out for framework, so don’t sit back and just let the aff team wreck you because you think I’m ideologically opposed to the aff. You must win that your impacts are good, and that your internal links are true and unique!!! If you don’t, sad!!
+Disads
+ Just do impact debating. The bigger your impact is, the less I care about the link. Especially if the counterplan solves the aff!
+That means outweighing probably isn’t enough. Explain why the disad turns the case!
+Aff teams!!! That goes for you too. If the aff solves the impact, why should I care if you link? Think about it.
+Counterplans
+ They’re amazing and underutilized. If an aff advantage seems super contrived, you can probably write an evidence-free CP that solves it in 2 seconds. You should do that. Make aff teams prove that their advantages are intrinsic!
+2NC Counterplans are probably fine. Whether or not you get to counterplan out of solvency deficits is up for debate. Uniqueness counterplans are underrated.
+Condo. It’s probably good, neg teams probably get an infinite amount of it. Whether or not they can cross-apply offense from flows to take out offense on other flows, up for debate (I think it’s kind of evil tbh, but aff teams, y’all need to not contradict yourselves)
+I’ll judge kick counterplans unless you tell me not to (and win that I shouldn’t).
+THE STATES COUNTERPLAN SOLVES EVERY AFF ON THIS TOPIC AND IS EXTRAORDINARY. MAKE. IT. YOUR. FRIEND.
+T
+ Sure. No aff on this topic is both legal and topical. NFIB V. Sebelius.
+Case
+ Debate it. If they just don’t have an aff anymore, then any risk of the disad wins the neg the debate. That’s preeeety much how presumption works.
+Update: 10/10/17 - PARLI PEOPLE READ THIS OR LOSE
+ I did parli for 3 yrs in High School and got pretty good at it. I qualled to the TOC twice, was in sems my junior year and won the Stanford tournament my junior year (free kindle!).
+
+I can't remember a victory I had in parli that wasn't total bullshit. I refuse to hand out free wins because of "arguments" that were technically conceded. In order for an argument to fly in front of me, it must have a warrant. At the end of every debate, I will ask myself why an argument is true in the context of the debate. If I can't answer that question, I won't vote for the argument. 
+
+Every time you ask me to google something, you lose an entire speaker point. I will decide debates on who I hate the least, or who has nicer shoes before I decide a debate on information that I insert into the debate. If an argument is factually incapable of being settled in the debate, you're hinging your strategy on the wrong argument and deserve to lose. 
+
+Presumption flows in the direction of least change. If both teams are massive fuckups and decide not to warrant arguments, this is how I will decide my ballot (this might happen more than you think, because the parli community is notoriously terrible at warranting arguments).
+
+Don't shake my hand pls
+ 
+If you call me honorable judge, I will laugh at you. Roadmaps are off time, and just tell me what sheet of paper you're going to. 
+
+You do not need to use points of order in front of me. I'm not an idiot, and I want this debate to end. I know when arguments are new. I will protect the 1NR, but the 1AR get's a little bit of leeway to make new (probably defensive) answers to new block arguments
+
+Use of the phrase "silence is consent" will cap your speaks at a 25. I am dead serious about this.
+
+Policy>>>>>>Value>Fact.Policies are just parameterized ways to evaluate values. Fact debates are stupid because you can't present evidence.
+
+K affs are objectively cheating in parli. If you're reading a planless aff every single debate at a tournament, disclose it, or lose. It's an unbearable aff advantage to have prepped and memorized blocks on an affirmative that no neg team can prepare for because it isn't on a wiki, and ignores the actual constraints of the activity. This kind of debate sort of flies in policy, because there's a kritikal topic literature. That doesn't exist in parli
+What does my visceral hatred for what I helped make this activity into (5-0 for the cap k even tho cap is good???) mean for your debate?
+
+It means that if you're slow and make real arguments, I will vote for you because fast teams that don't make real arguments suck and shouldn't be winning debates. It also means that if you're fast and make real arguments, you'll probably win because most of your opponents will be idiots.
+
+
+FINAL NOTE
+ Tabroom Judge Philosophy more closely updated here.
+
+i am a math/physics double major who debated in high school and now does policy at cal. i enjoy memes and science jokes, and if you roast somebody on a science throwdown, 29 minimum if you're right.
+tldr;
+I WOULD RATHER SEE A GOOD K DEBATE THAN A BAD POLICY DEBATE. do what you're good at.
+arguments must have warrants for me to vote on them - and i probably won't read your evidence to warrant arguments for you, but i will read it to resolve disputes in the debate, or to resolve very close debates. I do place a lot of emphasis on convincing spin, but you do need cards.
+i have almost no moral compass in debates, you just need to have cards from qualified sources (so your infowars racism good K, not gonna cut it kids, but your PhD in IR "don't smack-talk american hegemony" K, does cut it).
+i don't presume you and your feelings have an impact. if you make some blippy word k in the 1AR like "they said stupid vote aff" and don't impact it before the 2AR, i will call you more than just stupid during the rfd as i vote negative. i personally hate these arguments, and really all the neg has to say in the 2NR to answer it is "word ks cause substance tradeoff and are cheating vote neg" and i'll be fine not voting for it. obviously i get to draw a line in the sand (nonblack ppl don't get to say the N word etc etc)
+debate is a game. i lean towards it having rules -- \forall{speaker}{1:constructive, 1:rebuttal} \forall{affirmative}{1:1AC, 1:plantext}. these can be violated at your risk, and utter destruction of your opponents will be necessary.
+i am a bad judge for overviews longer than 25-30 seconds. i won't embed clash for you if the other team makes fun of you for it and then says "punish them for being bad at line by line" i probably will because that's just who i am :)
+add me 2 the chain, and feel free to email me with questions! connor.t.duncan [at] gmail
+here are the specifics if you're deciding to pref me pretournament --
+speaker points:
+<27 - you murdered someone, violated a rule or just were so bad that I physically suffered watching you debate
+27-27.5 - room for improvement
+27.5-28 - meets bare minimum standard of competency in very unremarkable fashion
+28-28.5 - is solid. probably won't break but clearly shows signs of effort.
+28.5-29 - hey you're pretty good. probably will break!
+29-29.5 - i will literally impregnate myself right now so that you could teach my child debate (or standup)
+29.5+ - you're basically jesus but of debate not suburbia.
+how i judge debates
+--the question that i ask myself when judging debates is: "is the affirmative a good idea?" if the answer to this question is yes, then i will vote aff 100% of the time, absent any arguments that have been made that voting aff itself is a bad idea (i.e. T, or theory)
+--in order to determine what "good" means, i look for arguments that tell me how to frame impacts, and try to figure out what lens should evaluate these impacts under.
+--after this, i isolate each piece of offense from the last rebuttals, and assign it a scalar value f(p,m)=(kp)(cm), where k,c are constants determined by the debate, and p,m are probability and magnitude respectively, the meaning of which is determined by the word "good"
+*NOTE: this calculus can be changed by clear, explicit and justified judge instruction in the final rebuttals that gives me an alternate formula by which to evaluate impacts. Otherwise, I will default to the above frame because my brain is like a computer sometimes*
+--generally, after this process i will have some idea of whether or not the aff is a good idea, i.e. f(p_{aff},m_{aff})>\sum{f(p_{neg},m_{neg})}
+--once i make this initial determination, i will reexamine my flows to double check that i have not missed any factors that might make the postround awkward.
+feel free to engage me on my decision. if i really mess up, i'll buy you a bag of chips, but i think (hope!) this will rarely be the case.
+do i like the k
+not really lol, but i'll still vote for it if i have to (which is a lot lmao)
+if you just don't talk about the aff at all, i'll have a hard time voting because all the aff has to say is "we have an impact that is yuge and we actually solve it." what that means is that you must debate the case through the block in order to get a ballot from me. solvency takeouts just prove that legal change is even more impossible than the aff says.
+if you read schlag in front of me, i will probably laugh at you because that card says literally nothing.
+i don't think performance debate is good outside of the varsity pool. just a personal thing
+i will vote that neg teams do not get the K. a lot of judges really hate this argument but hey if you're winning it, go for it.
+death good will kill your speaks, but from your perspective i'd be doing your speaker points a favor so win/win?
+i think alternatives compete way less than most 2A's give them credit for. on the aff, make more theoretical justifications for why you get a permutation, since "you touch the state" is basically the same thing as saying a counterplan should compete because "the aff linked to the 'military gets too big' da." like damn... if I go to the DMV do I have to explain why I get a perm? no
+buzzwords are not arguments. i won't treat them as arguments so if you don't explain your things i won't vote for them. also I don't have an incredible understanding of K lit so I'm probably dumber than your blocks will give me credit for
+dont be a victim — i don’t care if the other team said you made a stupid argument that’s not bullying and it doesn’t mean they lose sack up and beat the argument
+this all probably seems pretty fascist by debate standards, which, fair enough, but i do have a ton of respect for K teams that actually make arguments and are smart about contextualizing those arguments to the aff. i think these debates can be really productive and move debate forward, but they really get overshadowed by debates where people read poems and sacrifice their identities at the altar of the ballot which usually ends in tears, and me hating debate. if you go for the K, and actually execute arguments by doing things like reading cards and explaining them, i will be STOKED but if you just tell me that your opponent didn't go easy enough on you because of your subject position or some nonsense i'll probably just look at memes for most of the debate.
+do i like the k aff
+not a ton no. i think slapping a plan on the aff solves a lot of your offense on framework and im generally unconvinced that debating the resolution is the same thing as defending genocide.
+also it might be cheating.
+but negative teams you need to be better at going for framework. I vote aff in a lot of these debates because the block has execution problems and drops a bunch of crappy disads to their interp.
+the aff needs to have a counter interpretation - if they forget to extend it in the 1AR GG
+i'm going to flow even if you tell me not to. line by line is not racist, and you aren't dave so don't say that.
+how abt disads?
+awwwwwww yeah disads are great. if the DA turns case or the status quo solves the aff then you really do not need much of a link to win
+'specially if you got a flaming hot counterplan.
+the aff should just crap addons to solve these.
+uniqueness counterplans are underrated.
+counterplans?
+dude do it. affirmative teams are just garbage at writing advantages that can't be solved by a poorly thought out 2NC counterplan lifted from a couple lines of 1AC ev
+states is just unbeatable on this topic. you should really go for it.
+neg probably gets infinite conditionality and also probably gets 2NC counterplans.
+if it dont compete expect an L on that sheet!
+t
+yeah the aff gets away with way too much all the time. make them stop cheating!
+also though you probably should explain to me why I care about T at all. Fairness? Not an impact and I really like being questionably topical so I'll probably be sad if you limit out the aff I would have read without some sweet justification for why I ruin debate.
+case
+roast the case! circumvention is just a tru arg if you're neg. why should they get to fiat past the fact that betsy devos is an idiot? I have no idea why this should be the case (if you're aff, don't worry, durable fiat probably solves this)
+also if you're aff - addons are your friend and a good way of making neg offense go away - why do i care about disads if u just solve the impact
+theory
+don't do me like this -- you get some counterplans and honestly if you're going for theory you're probably already behind.
+if they drop if tho go for it im lazy
+
+I've never done anything that's not policy. LD Specifics: I DO NOT know theory or phil. If you read it in front of me, I will probably drop you. You should LARP.
+I'm a policy debater. LD Specifics: I DO NOT know theory or phil. If you read it in front of me, I will probably drop you since I don't understand it. You should LARP.
+
+  

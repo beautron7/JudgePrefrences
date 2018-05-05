@@ -1,0 +1,70 @@
+
+  PV Peninsula LD 2011-2015
+UC Berkeley 2019
+
+Conflicts: PV Peninsula, Apple Valley (Sophie Ober), Alex Zhao, Deepankar Joshi, Oakwood JW (Jack Wareham)
+
+Affiliations:
+Assistant Coach (2015-Present): PV Peninsula
+Private Coach (2015-16 Season): Felix Tan
+Instructor at VBI, 2015
+Instructor at LADI, 2016
+
+I debated LD for 4 years at PV Peninsula High School, qualifying to the TOC my sophomore, junior, and senior years.
+
+30 Second Version: 
+I haven't judged in a long time, so go slowly. Read well-warranted and researched arguments, don't cheat, don't go for too much frivolous theory, and you should be fine. If you haven't disclosed you will not get above a 27.
+
+Update - College Prep (12/16/17)
+
+I have gotten much worse at flowing. Please note that I don't yell "clear" or flow from the speech doc, so it's really important that I understand your constructive. Otherwise I can't evaluate those arguments when you go for them in the rebuttal. Here are some things that would make me understand you much better:
+1. Slow down for tags, plan/CP/alt texts and theory interpretations. 
+2. Pause between cards, so that I know where one card ends and another one begins. 
+3. Stay loud throughout the speech. I've noticed some kids are fine when reading tags, but get a lot quieter and sort of mumble-spread through card text. It's fine to go a little faster on the card texts, but enunciate more and speak loudly.
+4. Time your breathing so you pause on a comma or period. If you do it in the middle of a sentence you've essentially wasted that sentence, because your sharp quadruple-breath interrupts my train of thought. 
+
+Evidence Ethics
+The only time I will directly intervene is in the case of evidence ethics. To clarify: Evidence ethics is not a theory argument. If you claim your opponent has mis-cut or is mis-representing evidence, or has been clipping (by which I mean they haven't been reading the full text of what they say they have been) I will stop the round and the round comes down to the ethics challenge. If it's an elim, I will stop flowing and call the evidence after the round. If an evidence ethics challenge is won, the debater who miscut evidence will get an Loss-20. If an evidence ethics challenge is wrong, then the debater who initiates the charge will get a Loss-20. No other argument will be evaluated.
+
+You should check out NDCA's ClippingBestPractices.docxDetailsDownload32 KB for more details. 
+
+No BS Allowed
+In general I don't have any patience for nonsense. Here are some consequences. I will probably update this throughout Blake as I discover what fresh wave of stupid practices this year has popularized.
+1. If you're reading off paper, you have to pass pages. If you're reading from a computer you must either jump/email your opponent the speech doc (and yes, it has to be one speech doc, none of this 13 separate files nonsense) or provide them a viewing computer.
+2. File compilation and flashing comes out of prep time. Prep time ends when the flash drive leaves your computer, or the email has been sent.
+3. Don't lie in CX, and don't try to buy yourself time by evading questions. Your speaker points will suffer. Canonical example of this - 
+Debater 1 - "Do you have any theory spikes in the case?" 
+Debater 2 - "What's a theory spike? What is theory? What is the meaning of life?"
+Spare me, please.
+4. I will fairly evaluate disclosure theory just like any other argument, but I am so heavily biased in favor of disclosure that I'll effectively hack for it. This includes pre-round disclosure of the Aff advocacy text & advantages.
+
+
+How to Win In Front of Me:
+1. Explain arguments more than you think you need to. I will not understand your arguments as well as you will. You are going top speed on arguments that I have never heard, on positions that I haven't researched. Also, I haven't heard spreading in several months. On top of that I will likely be very tired when judging you. So, please slow down and don't make 7 arguments in 20 seconds - I will not get them down nor will I be able to reconstruct a coherent argument from your 7 word jargon-clusters. Theory spikes are especially guilty of this, like "7463 rebuttal crunch implies aff RVIs and automatic I meets." 
+2. Identify the places where your arguments clash, and do heavy warrant/evidence comparison there. Similarly, this problem is compounded by debaters not developing or explaining their arguments, especially in the initial speech. You need to compare warrants in the rebuttal in order to win your offense, instead of just tag-extending a couple of cards and then talking about how your role of the ballot or whatever precludes everything.
+3. Frame the round. Explain which layers come first, which one you're going for, and why. 
+4. Go for one argument. A lot of debaters will spend half their speech on argument X, think that there's a 99% chance they'll win because of that, and then go for argument Y as "insurance." I think it is smarter to make the chances of winning on X go from 99% to 100% than spend any time on Y, because debaters tend to be overconfident and giving yourself extra time on X means you can close doors and catch mistakes. 
+
+Defaults
+In a sort of “big picture” manner, this is a set of defaults that I will have – if you make arguments to the contrary, then I’ll use those defaults instead.
+
+1 – Epistemic modesty: arguments are assigned lower or higher credence values, not “won.” Instead of deciding which arguments “come first,” I’ll use your weighing arguments to assign greater or lesser credence to each source of offense. Ethical frameworks and role of the ballot arguments are also weighing.
+
+2 – I have a strong conviction that debate is a comparison of two advocacies of some sort. This can be a plan and counterplan, two philosophical principles, two speech acts, or a theory interpretation and counter-interpretation, but for me to understand how arguments function I need to have an understanding of what both debaters defend. It seems logically impossible to evaluate a debate in which there is no comparison of something. This is rarely an issue, but it most often comes up in exceptionally strange K debates in which a debater might play music for the entire 1AC or something.
+
+3 – The job of the aff is to prove the resolution or a subset of the resolution (a plan) to be good, and the neg’s job is to prove another policy option (or status quo) to be better. If it's topical for the affirmative to defend the status quo, I think the neg would have to offer a counterplan that's inherent, although I haven't thought about this much and am puzzled about how it might play out. In particular, it seems like for J/F 2017 this might become an issue. 
+
+4 – Theory/T precludes substance (including the K) since it sets the rules for a fair/educational debate and a skewed round can’t be accurately evaluated.
+
+5 – Offense does not have to link to a comprehensive normative framework to matter, but such arguments can be used to weigh impacts. If neither debater offers me an ethical framework, I’ll default to util.
+
+Speaker Points 
+26 - You're a relatively bad novice. 
+27 - You're a relatively good novice/bad Varsity debater. You will definitely not clear. 
+28 - You will probably clear and get to early out-rounds.
+29 - You'll definitely clear, and get to late out-rounds. 
+29.5 - You are the best debater of the year and will probably win the tournament.
+30 - You are the best debater of all time and will probably win TOC this year.
+
+Disclosure Rule: If you have not been disclosing for at least the duration of the tournament, your speaks will be evaluated normally but will be capped at a 27. I reserve the right to go lower. If you don't want your speaks to get tanked, please show me your disclosure page before/after the round to avoid the chance that I can't find it.
+  

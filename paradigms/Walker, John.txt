@@ -1,0 +1,61 @@
+
+  Background
+ 
+In the 1980s I debated four years of high school policy debate in Texas and four years of team value debate in college back before CEDA made the wrong decision to switch to a policy format. I won the Texas Intercollegiate Forensic Association championship in that team value format
+
+Since 2009 I have been the part-time volunteer coach of the fledgling Albertus Magnus Academy debate team which competes in the Carolinas. My profession is as a systems architect for a Global 100 company.
+
+I have a love/hate relationship with LD. I love the way it should be debated, but I hate the way it usually actually is debated.
+
+Summary
+ 
+I'm a Aristotelian-Thomist and if you can tailor your arguments to that philosophical tradition it will definitely influence close debates.Evidence, evidence, evidence! You have no ethos and must appeal to authoritative sources (including proper citations per NSDA rules and author qualifications).I prefer a philosophical debate.Know your philosophers and their philosophical thought! (If you don't, get a copy of Ethics for Dummies).Know the Toulmin model.I oppose squirrel cases that live in the gray area of topicality. Winning because of the element of surprise and the unpreparedness of the opponent on a barely topical case might make you a good researcher, but not a good debater. Good debaters can win debating the topic straight up against even the most prepared of opponents.The Value/Criterion framework sucks
+Lincoln-Douglas Judging Paradigm
+ 
+Introduction
+ 
+That I am a Aristotelian-Thomist doesn't mean I won't vote for a Utilitarian, Deontological, Contractarian, Relativist, or other ethical system against Thomistic virtue ethics. That will be determined usually by the flow. However, if I have to perform the mental equivalent of standing on my head juggling knives while blindfolded in order to grok your argument, then I won’t even attempt to go there.
+
+I accept the tournament topic as the scope for debate and will entertain topicality arguments. Debaters should interpret the resolution as a proposition of value, not a proposition of policy. However, if a debater can lead the other into a policy implication in CX, then advantages for disadvantages to that policy implication are within scope (to the extent the impact links back into the evaluative standard). Furthermore, counterplans are appropriate to argue out of a false dilemma constructed by an affirmative.
+
+Because of my preference of topic preeminence, this generally excludes most kritiks, unless the kritik is linked off the ethical system the opposing debater advocates. Furthermore, the kritik must turn a central issue to the resolution. For example, consider the recent topic on due process rights for terrorists. A valid kritik within topical scope would be to argue that a certain affirmative ethical framework would exacerbate the incident of terrorism if society adopted it universally.
+
+I appreciate debate that doesn't neglect development of the ethical framework of the case and the philosophy that is behind it. Lincoln-Douglas debate is not a one-on-one version of Public Forum Debate (although more and more PFD rounds are now adding frameworks).
+
+Stock Issues/Burdens
+ 
+A prima facie affirmative case requires meeting three stock burdens/issues:
+Identify the resolution’s objects of evaluation and evaluative termDerive an evaluative standard from the evaluative term and specify a criterion by which the evaluative standard can be measured. This must be supported with, at a minimum, some reasoning (and preferably some evidence). It should not be merely asserted.Apply the resolution to the measure for the evaluative standard
+Negatives may choose a strategy of refuting the affirmative case to reduce its cogency below that which is sufficient for affirmation, or he/she may present a negative case, or both. In refuting the affirmative, I fully accept a negative strategy that may focus on either of (or both) attacking evaluative framework or the application to the framework. The affirmative's evaluative framework is a premise for the rest of his/her case and therefore a negative can take out the case by eliminating the evaluative standard unless the affirmative can turn his/her application to successfully meet the negative evaluative standard. If the negative does present a negative case, then the same prima facie burdens apply to the case structure as it did to the affirmative case; plus a fourth burden of presenting arguments supporting the primacy of the negative's evaluative standard.
+
+On Ethics and Political Philosophy
+ 
+Ethics (moral philosophy) is the quality in human acts by which we call them right or wrong, good or evil. Ethics determines what humans ought to do. Political philosophy extends ethics to social interaction and all political philosophies are natural extensions of ethical systems. Rights are derived from, and are only understood, in the context of an ethical system. All LD topics address questions of ethics or political philosophy.
+
+Debaters should build their cases on one of the major three ethical theories: Virtue ethics, Utilitarianism, or Duty-based ethics (includes both Kantian ethics and Contractarianism). However, I don't preclude considering other ethical theories, such as Stoicism, Evolutionary ethics, or others that are formulated by well known philosophers. New ethical theories I view skeptically because they haven't been subject to the test of time and are usually only effective because they're squirrel arguments the opponent is unprepared for. A negative can argue for skepticism or subjective ethics.
+
+Mixing ethical systems on a side (or philosophers of different ethical traditions) in a round is a violation of the principle of non-contradiction.
+
+Evidence
+ 
+Because ethos is one of the modes of persuasion, evidence that appeals to authorities is very important to my assessment of the cogency of an argument. High school students have limited ethos and I've heard quite a few nonfactual whoppers in my time. Thus, debaters need to appeal to authorities to establish the ethos of their argument. Furthermore, quoted and paraphrased evidence must be properly cited. The one exception I give to this is when quoting the great philosophers. For everyone else a citation should be provided. Furthermore, to accurately establish ethos, particularly if the debater's evidence depends on a warrant by authority, the qualification of the author is particularly important to present as well. Certainly, a professor of philosophy at a Catholic university probably is a better authority on Thomistic philosophy than an uneducated poppy farmer in Afghanistan. On the other hand, the latter is probably a better authority on opium production than the former. An appeal to “Smith” tells me nothing at all about whether the person is an authority or not. Furthermore, if a "card" is to be used as evidence it must actually be read, not merely referred to. If one debater provides proper citations and qualifications but the other doesn't, it WILL affect the outcome of the debate.
+
+In American debating, arguments are usually presented using the Toulmin model. Unfortunately, few debaters have actually read Toumin's The Uses of Argument and only understand a perversion of it that which has been altered via successive generations of high school debaters. Evidence is not the same thing as a warrant..
+
+Value/Criterion Framework
+ 
+I think the vallue/criterion framework that has evolved in LD sucks. It originated from syllogistic moral reasoning in which the major premise was a general moral principle, also known as a value premise, such as: "We should do those things that are just." The minor premise was "X is just" and the conclusion was: "therefore, we should do X." The measure for what is just, which would be a sub-argument. At some point, the value premise and the sub-argument became merely: "value/criterion." 
+
+A problem in the evolution in this value/criterion model is that many of the criteria used don't follow logically as the measure of the value premise. For example, "my value is justice and my criterion is government legitimacy." Wha...? A measure must be derived from the intrinsic nature of the value premise itself. Usually, a debater will want to appeal to his/her favorite ethical theory to determine the measure. So, in the example of Justice, a debater might appeal to the contractarian understanding of equality under Rawl's Theory of Justice.
+
+
+
+Speed
+ 
+I can understand clearly articulated speech at 300 wpm. However, I don't believe debate should be won or lost because one debater speaks faster than another. Therefore, I expect the debaters to agree on a speed prior to the debate. If they both agree to be "progressive," then the debaters are welcome to go as fast as they would like subject to the clear 300 wpm constraint. If they both agree to be "traditional," or they can't agree, then I expect the debate to be less than 180 wpm.
+
+Speaker Points
+ 
+For perfect speaker points I look for:
+Clear speechAn attention getterA statement of the thesisA roadmap of the main argumentsReasoning and properly cited evidence in the body and, in particular not neglecting justification of the evaluative standardA conclusion that restates the main points, restates the thesis, and for an added bonus, makes a final statement that ties into the original attention getterEye contact when sharing your reasoningThe rebuttal speech/s should include:A roadmap only if you are going to do something out of the ordinaryFollowing the flow as the arguments were originally presentedSignposting (but please don't say "number next")Argument taglines should be short and easy to flow, followed by an expanded explanation, reasoning, and evidenceIf the other debater drops an argument, you’ll need to explain how that unrefuted argument impacts the key voting issues (BTW, a dropped argument isn't conceded, it’s just not refuted).A brief conclusion restating the key voting issuesDon’t neglect/trivialize the philosophical premises of the evaluative standardProperly construct an evaluative standard and a criteria to measure the standardIf you use a warrant by authority, you should provide the full and last name of the author, his/her qualifications, and the title of the sourceAvoid debate jargon
+  

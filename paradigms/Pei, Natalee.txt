@@ -1,0 +1,51 @@
+
+  I did LD for four years at Mountain View High School, CA and attended TOC '08 and '09.
+I taught at NSD and coached Randolph High School, NJ from 2009-2011 with whom I attended TOC '11.
+
+Basics:
+- I try not to intervene to the greatest possible extent; I find the link story of least resistance.
+- Speed is fine. Be clear; if you're not I will say "clear," no more than twice. Slow down for card names, taglines, and numbering.
+- Signpost (and pause for a second so I can find the argument before you blaze through 6 blippy analytics)
+- Number your responses
+- Warrants must also be present in extensions
+- Provide clear decision calculi (doesn't have to be the standard value criterion structure as long as you link it to the ballot somehow; also if you give more than one decision calculus, tell me what order I should evaluate them in)
+- Be explicit when you impact (e.g. x argument impacts to y decision calculus)
+- Always have full cites for evidence
+- You do not have the right to refuse to show your opponent anything you read during the round
+- Do not alter the meaning of cards when you line them down
+- I'd rather you not use ellipses
+
+The way I evaluate rounds:
+Pretty simple. First I decide which decision calculus comes first, then I look at all the arguments that impact to it and weigh between them. If you weigh for me, I will defer to that. If you don't, I make decisions based on strength of link, quality of extension, etc. If I find no clear way to weigh between the arguments that impact to that particular decision calculus, I move on to the next layer of debate and repeat the process.
+
+Theory:
+- I will not vote on theory that is missing an interpretation, violation, standards, and/or voters
+- Make sure it is clear what the impact of your theory argument is (and the impact must be warranted)
+- Make sure your standards have internal links to the voter(s)
+- If you want to make offensive turns on theory, run an RVI
+
+Ks:
+- You must have an explicit alt
+- If you're going to run cards in which the author uses many obscure words strung together in strange syntactical ways, make sure 1) that the card actually has a warrant and 2) that you have a very clear tagline that does not betray the meaning of the card
+
+Presumption:
+- I do not presume unless there is literally zero risk of offense on both sides (if this is the case, you've both fucked up massively, so being angry about the arbitrary nature of the decision misses the point entirely).
+- Under duress, I presume for the side that is not explicitly responsible to prove anything. Generally speaking this is the neg, but burdens arguments can shift presumption to the aff
+
+Things that will raise your speaker points: (my baseline is a 27)
+- Good strategy
+- Strong link stories
+- Weighing (be specific and have warrants please... "I outweigh all my opponent's arguments on magnitude" will kill your speaks)
+- High quality evidence
+- Responding to C-X questions constructively
+- Fluency and clarity
+- Enjoyable style
+
+Things that will lower your speaks:
+- Being unnecessarily blippy
+- Failing to establish how arguments interact
+- Being excessively rude, loud, or otherwise obnoxious
+- Making arguments that demonstrate extreme idiocy
+- Acting like you don't understand simple C-X questions or being unnecessarily evasive
+- Failing to do any of the things listed in the "Basics" section
+  

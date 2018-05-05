@@ -1,0 +1,200 @@
+
+  Name: Michael O’Krent
+Affiliations/Judging conflicts: Harvard-Westlake, Marlborough
+I debated for four years at Harvard-Westlake School in Los Angeles, qualifying to TOC thrice. I now coach for Marlborough.
+If you have questions, email me at mdokrent@gmail.com
+I don’t think that pure Tabula rasa judging exists, so this paradigm is to help you understand and exploit my conscious predispositions and preferences. I will edit my paradigm as necessary, so check back if you’re running something in a grey area for me – my preferences might have shifted.
+
+
+If you want to ask me about positions that my debaters are running, please email me and do not use facebook messenger if we are not already facebook friends. I realized that I have been missing some of these messages because they are classified as "message requests" rather than messages, and as a result I do not get a notification. All of my email addresses go to my phone, so it is equivalent to texting me.
+
+Last edit: 2/21/17
+Tournament: Post-Berkeley
+Updates:
+-Added card clipping & round recording policies.
+-Clarified policy on in-round harassment & being mean generally
+
+
+Short version:
+I like hearing well-developed, supported, smart arguments. This can include philosophy, t or theory, Ks, plans, CPs, DAs, etc. Form doesn't matter a huge amount to me. Just steer clear of my landmines and make good arguments: your speaks and win record will show it.
+
+Speed: yes
+Policy stuff: yes
+Theory: yes if there’s real abuse.
+Philosophy (almost all sorts): yes
+K: yes
+Shenanigans: no
+Performance: yes
+
+Do I say clear? Yes.
+How many times? Until you get clear or it becomes clear that you're ignoring me.
+
+
+
+In-Round Conduct Policies:
+ 
+1. Card Clipping. If an accusation of card clipping is made, I will stop the round immediately in order to evaluate the claim. Once this has happened, the round is over and will not resume under any circumstances. If you have clipped cards, then you will instantly lose the round. If you accuse someone of clipping cards but they did not, then you will instantly lose the round. I evaluate card clipping accusations based primarily on round recordings and secondarily on how I followed the speech doc. (see #3 for more detail).
+The easiest way to avoid any issues with this is to just mark the card if you aren't going to finish all the lined-up text.
+
+2. Making threats or harassment. Please don't be mean. If you make a comment that implies a direct threat of bodily harm against your opponent, I will stop the round immediately and you will lose. I won't auto-drop you if you're obviously joking about it (e.g., I am killing them on the Cap K is different than I am going to kill them), but you just shouldn't toe this line.
+
+3. Recording. I will presume your consent to record the round audio-only for the sole purpose of checking for card clipping. I will not save the file after the tournament ends and I will never share the file unless one of the participating debaters or their coach has asked for the recording and both debaters explicitly consent. You may ask me not to record the round, but the result will be that I will compensate by following the speech doc much more closely so that I can still evaluate card clipping accusations, which means that I will not be able to flow as well. Also, this means that I might notice you clipping cards myself, which will still result in an auto-loss. My recommendation is to let me record the round and take the objective evidence-- I am implementing this policy in good faith after judging and hearing about multiple rounds in which there were accusations of card clipping at Berkeley. Clipping cards is a serious ethics violation and it seems to be happening more often in LD, so it is important to promulgate procedures of how I will deal with it.
+
+For the time being (maybe up through next September), I will ask about recording before each round to make sure that people become aware of this policy. But eventually I'll get lazy and stop because I expect schools that I don't judge very often to read my paradigm each time before they pref me anyway.
+
+4. Speech docs. I default to saving speech docs, but I will delete the speech doc if asked. I think that saving speech docs is a corollary of disclosure. I will never copy and paste a card from a speech doc, but I may consult a citation to find the article from which it was cut (again, just as if it had been disclosed on the wiki). I may also use speech docs for drills, particularly at summer institutes. If you are uncomfortable with any of these uses, please request that I delete your speech doc at the end of the round.
+
+ALL TIME SPENT GIVING PRE-WRITTEN ARGUMENTS TO YOUR OPPONENT MUST OCCUR DURING PREP TIME. This includes flashing, emailing, or airdropping.
+You may not stop the clock on your prep time to flash cases.
+During your speech, I do follow along the speech doc. I consult speech docs if I need some clarification on what the evidence actually says, but otherwise try to decide the round based only on what I flowed.
+
+
+Full Paradigm:
+ 
+1. Mandatory scary stuff:
+
+Landmines: The following things are not ok in debate. I WILL INSTANTLY DROP YOU FOR:
+-Religious/theistic arguments *I don't think very many (if any) other judges hold this prohibition, so I want to emphasize that I do hold it, and I will hold you to it.*
+-moral skepticism (unless the topic specifically mandates it, like the Nov-Dec 2011. I'll specifically note it at the top of my paradigm if one of these comes up.)
+-presumption (if you tell me I should ignore substance to vote on presumption. I might presume if there is legitimately no offense but I will do everything in my power not to.)
+-any argument that is “triggered” in a later speech. If you defend it, you must say so in your first speech
+-biting the bullet on something atrocious like genocide, rape, mass murder, etc. (That is, openly acknowledging that your framework would not condemn something like this. Simply arguing that your opponent’s framework can’t condemn genocide will not be a reason to drop them.)
+-an a priori (these are arguments that say that the resolution is true or false for linguistic/semantic reasons and don't link to a framework. Despite debaters' best efforts to hide them, a prioris are pretty easily visible.)
+-blatantly lying in cx
+-flashing or emailing cases outside of prep time; see the note at the very top.
+In general, be honest. I won’t instantly drop you for anything not on this list, but if you pull tricks or are generally sketchy I will be pissed. My stance on this is pretty similar to Chris Theis’.
+
+
+
+The following arguments I will not listen to, but will not drop you for the sole reason that you ran one of them (you can still win elsewhere on the flow). I will not vote on:
+-any argument that is not normative, like ought implies can or ought means logical consequence.
+-theory arguments against an interp in the AC are counterinterpretations/defense only
+
+
+Things I dislike but will vote on if you win them by a wide margin (either they're conceded or you crush):
+-Competing interps requires a counterinterpretation.
+-Affirmative “ethics” choice (When the aff gets to pick the standard/value criterion – distinct from AFC as run in policy, which I am ok with)
+-Meta-theory comes before “regular” theory. OK to run a “meta-theory” shell and weigh impacts, but I don’t believe that meta-theory exists differently than theory. One sentence in a theory voter will not convince me otherwise.
+-Anything that would have me take an actual action other than judging. (It takes a really good reason to make me not be lazy. I might vote for the position and ignore the action anyway.)
+
+And a bunch of theory shells fall into this category too. If you run one of these shells, I will be skeptical and probably find the most stock responses persuasive. I'll vote on it, but you'll have to do lots of work and win it by a lot:
+-Must run/not run framework
+-Must run/not run plan/counterplan (inc. plans bad)
+-Must run/not run kritik (noticing a theme?)
+-Must run/not run DAs, etc.
+-Can't have both pre- and post-fiat impacts
+-Can't make link/impact turns (yes, people actually run this shell)
+-Negatively worded interps bad ("Must have positively worded interp" for the formalists)
+-Neg must defend the converse (this is mostly because the word "converse" only applies to conditional statements.)
+
+
+
+2. Now that the grumpy part is over, general things (specific argument areas are below this):
+-Please slow down for tags and especially author names. I will not be able to follow you otherwise, and if I have to make a decision on a round I didn't understand no one will be happy with the outcome.
+-Please sign-post a lot. I’m bad at flowing.
+-If I don’t understand an argument by the end of the round, I will not vote on it. A little leeway if I don’t understand the argument in the first speech but it becomes clearer later.
+-I will call for evidence only if the specific text of the evidence will influence my decision. This means there was some contest over the author’s intent, attitude, language, grammar, etc. (basically anything that comes from reading the text, but NOT content. I won’t read your cards to help me understand them)
+-Asking questions during prep is always ok, but I will not allow converting CX into “flex-prep”
+-I prefer that you stand when speaking, not for formality but because people can breathe better and speak more clearly when standing than sitting.
+-I believe that risk of offense does exist, with two caveats: a) so does risk of defense and b) I don’t grant “risk of a link” on theory or k to justify completely ignoring substance
+-From risk of offense it follows that I also don’t believe in terminal defense. The only truly terminal defense is a non-unique.
+-I pretty strongly dislike frameworks/cases that are full of spikes. Running 10 short spikes in the AC will make me sad, and when I'm sad I'll tank your speaks. The shorter and less organized any pre-empts are, the more sad I'll be.
+-I will not vote on a dropped blip. Even if it's conceded, quality > quantity, and you have to actually justify why I should actually vote for you.
+-Face forward (toward me) during cx
+-If I'm nodding, I understand or think your argument is good. If I'm wrinkling my eyebrows, I'm confused about something.
+
+
+3. Speaker Points:
+ I don't have an exact rubric for speaks, but I try to average around a 27.5. In general, I reserve 25 and below for debaters who are excessively rude, hostile, dishonest, or violate one of the rules above.
+I do adapt my speaker point scale based on the experience level of the pool. This means that a 28 in novice is not equal to a 28 in varsity. However, I do not try to guess how difficult each pool is based on my subjective view of the "talent" of the participating debaters. I only adjust only based on the designation of the division (Novice, JV, Varsity/Open) and what circuit it's on.
+(So, I would use a similar scale for Meadows and Glenbrooks Varsity, but Gbx varsity and Gbx jv will have different scales.)
+
+Tips for getting good speaks:
+-In general, be smart.
+-Be comparative! Address internal warrants in your opponents' evidence instead of just extending your preclusion claim.
+-Weigh and compare evidence. When debaters compare evidence I do a small internal cha-cha because it's such an undervalued skill.
+-Being able to explain yourself clearly, whether it's a complicated philosophical claim or a highly technical theory or policy debate
+-Good crystallization. Same deal with weighing and evidence comparison: It's a way under-appreciated skill. Except maybe this time I do an internal disco dance.
+-Please please please slow down for tags and author names. This helps me tremendously.
+
+A few stylistic pet peeves that might damage your speaks:
+-"You can extend..." I know I can. Tell me to.
+-"extend across the flow..." Oh ok, I was going to extend it across my coffee cup.
+-"the debate space" = debate. Sorry that we don't have Sandra Bullock or George Clooney.
+-Overusing perceptually dominant phrases. If every argument was cold conceded, I'll get used to the temperature and then they'll just be lukewarm conceded. If every argument is a damning concession, then we'll all be in hell together.
+-"Silence is consent." I don't know why debaters say this. Please realize that you are justifying rape if you do.
+
+
+4. Policy:
+ I’m familiar with these arguments and how they work. Plans, DAs, CPs, Ks, etc. all welcome.
+Perms should have a written-out text. I default to perms as tests of competition, but I think there are some good reasons why perms might be advocacies.
+
+5. Philosophy/framework:
+ I’m familiar with lots of different kinds of philosophy, both analytic and continental/”kritkal;” go ahead. I make an exception for moral anti-realism; see above.
+Here are some authors that I am relatively familiar and unfamiliar with (take it as you will - doesn't seal the deal on any position):
+
+Some authors I've studied and think I understand at least a little bit (in no particular order, use ctrl+f):
+Kant, Locke, Hobbes, Rawls, Bentham, Mill, Hare, Singer, other Singer (CLS), MacKinnon, Beauvoir, Friedan, Steinem, Levinas, Derrida, Foucault, Butler, Agamben, Massumi, Feser, Nozick, Posner (both), Habermas, Hart, Dewey, Pierce, Arrigo & Williams, Berkeley, Buber (kinda), Husserl, Zizek, Zupancic, Marx, Lacan (kinda), Friere, Fanon, Giroux, Ayer, Blackburn, Dworkin (Ronald), Korsgaard, Vellemen, Vallentyne, Gauthier (David), James, Berry, Fanon
+
+Authors I know I don't understand (but that doesn't mean you can't win using them, just don't assume I know what's going on without explaining the cards):
+Heidegger, Hagglund, Deleuze & Guattari, Spinoza, Quine, Ripstein
+
+Keep in mind this isn't nearly comprehensive, especially on the "I don't understand" side - I don't yet understand everyone that I haven't studied before. And I'm probably forgetting lots of names for both sides.
+I know what Ayn Rand says but she doesn't get a spot because she's not a philosopher.
+
+6. Kritiks:
+ I like Ks. I'm familiar with some fields of K lit but not others - see the list of authors under Philosophy. Ks must have an alt. You cannot kick a K alt without making the K non-unique. Don't be afraid of running a K with both pre- and post- fiat impacts because I think that theory objection is nonsense.
+I ran Ks a lot when I debated. This is a double-edged sword: On one hand, I like hearing Ks and understand how they function pretty well. But on the other hand, I know how to (and am in the habit of) find flaws in Ks. So if your K isn't good, I'll know.
+
+7. Performance:
+ The more I hear performances, the more I've come to appreciate well-executed performance as a mode of argumentation. I have a little bit of background on how these arguments work, but they're far from an area of specialization for me. You can make arguments in unconventional ways, and I'm fine with that. There just has to be an argument. I'll try to be open-minded.
+I tend to prefer fictional narratives that use language to make a point rather than representations of real people's stories. That's just because while I really like the idea of arguing through narrative and literature, I'm slightly uncomfortable with using a real person's suffering to win a debate round.
+
+8. Theory and Topicality:
+ 
+Many theory/t debates end up very messy enough that I don't feel comfortable trying to make a definitive evaluation on them. If that's the case, I will evaluate substance first to see who is winning there. If the debater who initiated theory is ahead on substance, and there is no RVI, then my RFD will only be about substance because who is winning theory does not affect the outcome of the round. If the debater answering theory is ahead on substance, then I will do my best to evaluate theory.
+
+If you ask your opponent to adopt a certain position in CX, please do not run theory on that position. Some examples of this that I have seen:
+Aff: "What's the status of the cp?"
+Neg: "Is there anything you want it to be?"
+Aff: "Conditional"
+Aff: *runs condo bad*
+
+Neg: "Do you defend just the plan text or the whole res?"
+Aff: "The plan text, but I will accept links to the whole res if you want me to."
+Neg: "No thanks"
+Neg: *runs plans bad*
+If you are answering a theory shell based on a contrived violation like this, you do not need to answer the substance of the argument. One sentence pointing out that they are running theory on something that they asked you to do will suffice.
+
+I default: a) Competing interps, b) drop the argument. This is to deter frivolous theory – if you have an objection, run it. If you don’t know how to answer the aff, tough. Theory for its own sake will not go down well with me. You must convince me that there is legit abuse. If you win it, I’ll vote for it, and I actually enjoy a good theory debate. But there has to be actual abuse, or I will be loathe to vote on theory. If you think someone is running frivolous theory, drop the argument is probably a good response in front of me.
+
+Theory interps must have a written text. If you're extemping a (counter)interp, type it or at least write out all the relevant planks. I won't penalize you for confusing an article but it might be a problem if you don't have any text to refer to later.
+If you win an I-meet, you do not need to win a counterinterp as well. (See above: no risk of link on theory.)
+
+
+
+9. Comparative Worlds/ Truth Testing:
+ Both fine by me. If I ever say "Capital F Framework," this is what I mean.
+I tend to default comparative worlds. Truth testing isn't a substantially different paradigm for me except in extreme cases because I'm not going to listen to a prioris or skep, or similar things that tend to differentiate truth testing because I think they're independently deserving of my censure.
+
+10. Extensions:
+ My "threshold" for extensions depends on how clearly I understood the argument the first time it was made and how well it was signposted. To grant an extension, I need to hear a basic idea that I can understand of what the claim, warrant, and impact are. If I know instantly exactly what you're referencing when you extend, I'll grant the extension quickly. If you didn't slow down for the author name or explain a complex claim, the extension needs more time.
+This also depends on the speech - I'll let 1ARs and sometimes 2ARs (depending on the NR strat) get away with much faster extensions than NRs.
+
+You don't need to use the word "extend" as long as you reference the argument, and I'm pretty lenient in that technicality. But the only way to 100% guarantee that I've got the extension is to use that word.
+
+I don't require extensions of dropped sections of the flow (eg, a framework or a whole contention). I'm stricter about single cards.
+
+
+
+11. Last and probably least, big complicated thing about in-round epistemology that you probably don’t want to read unless you’re running big complicated framework stuff:
+ 
+The most unique thing about my argument analysis is that I view all arguments in terms of credences, or probabilities that they are true. (http://www.merriam-webster.com/dictionary/credence) That means I do not believe that any argument asserts a proposition with 100% certainty, but rather that every argument for a proposition or statement increases my credence in it and every argument against a proposition decreases my credence in it. This is similar to the Milkshake View of uniqueness. (If you prefer, think of every proposition as having implicit uniqueness conditions about its own certainty, and the response changes the credence like the DA link changes the uniqueness.) A stronger argument means a bigger change in my credence, but credence can never be zero or one (i.e., I never consider any argument to be 100% likely to be true or 0% likely to be true) because nobody who makes an argument can give no consideration to opposing views. If you don’t entertain even the tiniest sliver of plausibility in your opponent’s arguments, you’ll probably underestimate them and lose the round. I think based on that idea.
+Even when arguments are conceded, credence is not one. A conceded argument means I give full weight to that argument, but because the argument itself is just an increase in my credence (with the implicit acknowledgement that there are other possible views and conclusions), I give full weight to that somewhat uncertain probability. For example, suppose that you make a good argument that has credence of 0.85 and it goes conceded. Then I evaluate that argument at 0.85 credence. But suppose your opponent responds with a meh argument worth 0.15 credence by the end of the debate. Then I evaluate in favor of you with 0.6 credence. If multiple propositions must be necessary for a conclusion to be true, then I multiple the credences of each proposition to find my overall credence in the conclusion. Translation: longer link chains tend to be less likely. This shouldn't be news.
+Note also that any response automatically decreases credence in the initial argument at least a little bit because credence in the response can never be zero. I think of this as risk of defense and it just means no argument is the be-all-end-all on any issue on the flow.
+This mostly has implications for framework debate, where some arguments debaters make rely on a premise being 100% true always.
+This also accounts for a good deal of the arguments I won’t vote on.
+Why do I do this crazy thing? Basically because it’s how arguments actually work in an atmosphere of respectful modesty. Robert Nozick says it pretty well in the introduction of Anarchy, State, and Utopia:
+“. . .it’s not, surely, that each philosopher thinks that he finally, thank God, has found the truth and built an impregnable fortress around it. We are all actually much more modest than that.”
+I apply this in an epistemically modest fashion, which basically means I evaluate all the arguments in a round together and vote for the single cohesive ballot story in which I have the highest credence. If my credence in framework A is slightly higher than by credence in framework B but the contention debate is much more clear for one side under framework B I will vote according to framework B.
+  

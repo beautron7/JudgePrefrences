@@ -1,0 +1,54 @@
+
+  I've been the LD coach at Saint Thomas Academy/Visitation since 2005. I debated LD a long time ago.
+TLDR (my round is starting):
+ Be smart, interesting and topical. Theory is drop the arg, reasonability. Otherwise open to anything
+
+Decision Calculus
+ As for how I adjudicate the round, I try to let the you tell me what matters. I evaluate things under an offense/defense model. I'm a big picture judge much more than one that will dive indo some minutia of the line by line (unless I have to). To win the debate, you have to have more offense, or a higher risk of offense than your opponent. This offense should link to the framework being won. Framework is only useful for ruling offense as useful or not useful in the round. 
+
+I highly appreciate it when you tell me how to layer my decision making. Do I start on role of the ballot or framework? Does an argument get evaluated pre or post fiat. If you give me an order of evaluation and your opponent does not, I'll usually follow that order of operations. If both of you give me a different order, I try to rectify that by following the better reasons for order, or failing warrants, smooshing them together in the way that makes sense to me. Layer your debate. I'm happier that way. If it's a traditional value/criterion debate, Im happy to follow the classic standard of using the winning value/cr to weigh offense. Give me a ballot story. I'll try to evaluate the round according to how you tell me to. If you just have a bunch of points on the line by line, I will have to go digging for something. Making me dig is a sure way to lose speaker points.
+
+Argument Evaluation
+ I evaluate arguments by comparing the analysis you give in support of your claim. If I cannot make sense of your analysis, I do not give the claim much weight in the round (if any). If you are simply making an assertion, I give it little weight in the round. For me to care about the argument that you are making, it must be well warranted and it must be impacted within whatever framework you are working from. impact things for me. If you are going to run arguments that contradict each-other, provide me an explanation of why there is a contradiction (i.e., layer). Otherwise, I have trouble making sense of your position. Remember, Im big picture.
+
+Extentions
+ When extending, I have a few different thresholds depending on context. If an argument is dropped, you just have to point out that it is dropped, then give me the impact. You have to tell me how this dropped point impacts the round at that point in the round, since it may be a bit different given the status of frameworks, etc.
+If the argument is contested, you have to deal with the ink on the flow before making the extension. I wont flow your extension if you try to do it through an arg you haven't dealt with. This is to protect you. I don't want to think something was extended even though there was a response to it. This means that if someone put a poor response against the entire aff contention, I will ignore all of the aff extensions of cards from that contention unless they first deal with the response (even just "Response A misses the specifics of the contention" can be sufficient). You don't really have to re-extend warrants, unless those are key to dealing with your response to their args.
+
+Stock (traditional) debate
+ Im perfectly capable of deciding a stock round. I debated a long time ago, so I know how that stuff works. If this is what you do and you do it well, Im fine with that. Happy to give you the win if you're. I'd prefer you put some twist in to keep it interesting, but debate what you're most comfortable with. Remember, smart, interesting, topical. I am much happier judging creative approaches to the resolution, or creative twists in how you make that argument.
+If you are debating someone running some other form of debate though, I expect you to engage with it. CX is your friend. Don't throw up your hands in fear. I've judged some really good rounds where stock util just outweighed the K.
+
+Critical
+ Im very open to critical arguments (I like 'em). They're entertaining. I've got a decent grasp of a fair bit of the lit, but I may not know the author de jure. Make sure you give me an alt or role of the ballot. Let me know if it operates pre or post fiat. I want to know how you see the K operating. Critical debate can get messy fast with layering, so layering is super important. I need some offense coming off the K. A reject alt probably needs as much explanation as some alternate methodology alt. If you want to do some crazy stuff, I'm your judge. I'll vote for anything but theory if done well. If you want to break out a critical position just to try it, I'm your judge.
+
+Plans/CPs/etc
+ Also down with plans/policy style, if run well. I much prefer a reasonable plan to something that just explodes to Bostrom. If you're well researched on some specific plan, I consider that to being a good debater. If it's hyper specific, I expect you to give at least a little leeway in granting your opponent links so that there can actually be some clash. Same with counterplans
+PIC's are iffy. I want to have you do something with the PIC, not just take a cheap shot easy out that doesn't allow any clash. Again, I grant more leeway on this the more specific the plan is. If you're running a consult PIC (or something in that vein) though, Im not going to be happy
+
+Phil positions
+ Also enjoy these when run well. Im decently versed in the analytic traditions, though as with anything, I may not know your author. Since Im much better versed in this than I am on the K side, Im more picky about what 'well run' means. If you really botch something, Im usually not happy. I know my analytic epistemology, metaphysics, philosophy of mind and philosophy of language pretty well. This means you should likely avoid running things from those areas unless you really know it. Skep makes me sick, partially because none of y'all know enough epistemology to do it well.
+
+Theory
+Im not a fan of most theory, though if there is real abuse, it's a good tool. I want substantive debate related to the topic. My evaluation on theory is super idiosyncratic. First, I always go with reasonability. If the theory violation gets the 'oh come on' reaction from me, it's not going to win. Theory is only ever drop the arg, not drop the debater. Now, this can effectively mean drop the debater. If your theory violation is that all of their arguments are theoretically problematic, when those go away, you likely win. So, real world example. I pulled the trigger on a PIC bad shell, because that specific PIC was really abusive. So, when the PIC went away, even though the aff was mostly unextended, I vote there on risk of offense. 
+
+T is a bit different. If the T is about actual definitions being in or out of bounds of the topic, I love a good T debate. If the T is whining that their case was unfair, I hate that T debate. It's about being related to the topic. I want debate on that. Im open to totally alternate readings of what the resolution is. Framers intent args usually dont cut it. Good definitional interps can be really fun though.
+
+My theory approach is different enough that I want to give the justification: Theory is supposed to be a tool to prevent abusive practices in round. In that form, I actually think it's helpful. However, with the development of structure and technicality around how theory is addressed, it seems like it actually accelerates abusive practices. Someone can win rounds by baiting a theory debate and then just be better at theory, so that invites abuse. Plus, the usual thing on theory is that somehow it's going to change things eventually by setting norms. I've been doing this long enough that Im perfectly happy intervening at the 'rules of debate level' to try to set the norms that I think are good. You're calling your opponent a cheater. As the referee, that's my call to make. Also, by intervening with reasonability and drop the arg, this opens it up so that a debater who is not versed in the technicalities of theory still has a chance to beat back something abusive, even if their interp wasn't correctly worded, or that they dropped the b point on the second voter. Theory is a check on abuse, and I want to actually keep it a check on abuse and let the real debate happen, not devolve to theory being what debate is.
+
+
+Style Preferences
+I still like to see some style in presentation. Enunciate clearly. Speed is fine provided I can still understand you. I will not tell you that you are not clear. It's your job as a speaker to know what you can do. THere have only been a couple instances in 10+ years where I haven't been able to keep up on the flow even though the speaker was clear. I was still fine enough with those couple rounds to get 'big picture' flow together. However, if I cant understand the words coming out of your mouth, we have a problem. If I dont think an argument can matter in the round anymore, I may not bother to flow it. I don't consider an argument new if it a clear development of an argument that is on my flow. However, tell me what that link is. Don't float arguments out there without signposting them and hope I find the link. I'm fine with reading evidence and developing arguments in every speech. Claiming that something is new and launching into a long diatribe on why I should vote against this on face is not desirable. Im more impressed if you note that it was new, then beat it anyways.
+
+I think in the realm of normative theory, both analytic and continental philosophy have a lot to say. Analytic approaches tend to be very good at well warranted framework building. The downside to this is that you cant read all of the warrants quickly enough to really do the same thing it took your author 500 pages to do. Continental philosophy tends to (I think) lack well developed warrants. It more than makes up for it though by being far more observational about the world. To me, the ideal positions marry an analytic framework with some critical impacts.
+
+It goes without saying, but don't be racist, sexist, homophobic, etc.
+
+Dont be mean
+
+Im usually pretty relaxed, debate is supposed to be fun. You should relax a bit too.
+
+Feel free to ask any questions before the round.
+
+Feel free to ask any questions before the round.
+  

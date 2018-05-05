@@ -1,0 +1,70 @@
+
+  Dean Ziegelman
+
+Last Edited 8/16/2017
+
+Blue Valley Southwest 2017
+University of Nebraska-Lincoln 2021
+
+This should give you a general guideline for how I think about debate. Everything is subject to some change. If you have any questions, please ask.
+
+Top Level
+1) Tech determines truth. A complete argument must have a claim and a warrant.
+2) Clarity determines speed. Debate is first a speaking activity. Clarity means me being able to understand every word in your evidence, not just the tag.
+3) I am not ideologically neutral. As much as I try to distance my predispositions about certain arguments in debate, I should say that I believe that certain arguments are more compelling than others. I.e. Fairness good > fairness bad; death bad > death good.
+4) Not super familiar with this topic. Explain your acronyms, please.
+5) Be nice.
+
+SPECIFIC ARGUMENTS
+
+Topicality
+Executed well, this is my favorite position to judge. Executed poorly, this is my least favorite position to judge. It’s more obvious than you think. Debate accordingly.
+Topicality is a voting issue and never a reverse voting issue.
+Whatever interpretation has the best internal link to precise limits will often win my ballet. If this means your affirmative will lose, then you should reconsider why you’re reading that affirmative.
+Eliminate “reasonably topical” from your vocabulary. The plan is either topical, or it is not. The “we meet” is a yes/no question, and not a sliding scale.
+The “actual versus potential abuse” debate is silly. Topicality is about what interpretation is better (or reasonable), not whether the aff “abused” the neg so they should lose.
+
+Kritiks
+I will only vote on an argument if I can explain it to the other team in the RFD. Although this certainly applies to every position, I feel compelled to put it here because too many “k teams” are becoming more reliant on silly buzzwords like “serial policy failure” or spamming the word “root cause”. That being said, I am more familiar with kritiks such as neolib, security, etc. I am less familiar with more complex kritiks such as Baudrillard or DandG. Just please explain yourselves.
+I am compelled by the argument that the affirmative should get to weigh the consequences of the plan. I am equally compelled by the argument that discourse/epistemology/etc. matters. Sequencing arguments about evaluating one before another have always made less sense to me, although aren’t completely lost on me. Framework debates that hinge on “our interp is that you should vote for the team that best does (INSERT WHAT YOUR AFF/ALT DOES)” make negative sense.
+If you want me to flow your 2-minute-long overview, slow down, please. I’m sure you spent a lot of time writing the overview, but if I can only get every other argument because you’re going too quickly, then don’t be frustrated when I miss that great alt uniqueness argument.
+If 2N’s want me to not be grumpy, then please stay true to the 2AC order. Likewise, I am expecting 2A’s to make all their perm arguments in one place, and alt arguments in another place, etc. to make it cleaner for the block.
+I’ve always seen the K as something of a linear disad with a uniqueness counterplan. That should tell you that I expect more work/explanation on the alternative beyond “become the queer suicide bomber”.
+I find the perm double-bind is more compelling than judges. Allocate your time accordingly if you want your links to make sense.
+If a team says something offensive (“you guys”, etc.) but it is not out of malice and they apologize, I don’t see myself voting against them.
+I won’t vote on anything that happens outside of the debate round. Please take any grievances to your coaches or tournament directors because I do not have the jurisdiction to remedy the situation.
+After writing this, I realize I’m probably disheartening all the K debaters I’ll judge. I’ll say this: I am not anti-k’s… I’m anti-k’s being run as a strategy to avoid clash/research. The same is true for cheating counterplans and contrived theory arguments.
+
+Counterplans
+It’s the negative’s job to read the counterplan text exactly as it is written and have it available to everybody exactly as it was said. The same goes for counterplan amendments and such.
+I think advantage counterplans are underutilized and underappreciated. Especially when the affirmative has contrived internal links, combining counterplans with well thought out aff indicts is very persuasive to me.
+Counterplans that don’t compete off the mandate of the plan are less compelling to me i.e. consult, condition, delay. That doesn’t mean it’s a non-starter, I’m just saying that there are probably a million and one better negative arguments than “delay the plan after XXX bill”. I’m not super biased one way or another when it comes to debating “textual versus functional competition”, but make sure not to miss the forest for the trees (see theory section below).
+I will not judge-kick the counterplan unless the neg tells me to (before the 2NR). However, I am persuaded by most aff args about judge-kick = bad.
+
+Disadvantages
+Don’t wait until the 2NR/2AR to start the impact calc and turns case debate. I think “disad solves case” arguments have always been very compelling, especially if the 1AR concedes them.
+If the 1NR says rollback, and the 1AR does not “invoke” durable fiat, that doesn’t mean that durable fiat suddenly disappears. However, the negative should certainly make rollback arguments. I’ve found rollback arguments that are packaged like circumvention to be much more difficult for the aff to deal with.
+I always think a portion of the “impact calc” debate is missing. If the neg says disad outweighs on timeframe, and the aff says the advantage outweighs on magnitude, you’re leaving me to decide what’s more important. You should go to the next level of debating by using lines like “prefer timeframe – you can only die once” or “prefer magnitude – prioritize saving the most amount of lives” etc.
+Timeframe, probability, magnitude not only apply to the impact but also to the other portions of the disad. The neg could win that the disad impact outweighs the aff impact on timeframe, but the aff could also win that the entire advantage outweighs the entire disad on timeframe.
+Please debate about how a link interacts with a link turn, because both could be true. For example, the neg reads an econ disad, with the link to the plan being about deficit spending. The aff answers by reading a jobs link turn. The burden on both teams is to compare the evidence and debate about what’s more impactful, deficit spending or jobs (this is where the timeframe, probability, magnitude analysis can apply to arguments other than impacts).
+
+Theory
+Theory is generally a reason to reject the argument and not the team. The affirmative tagging on “it’s a voter, reject the team not the argument” is an insufficient explanation.
+Conditionality is good. However, conditionality does not excuse performative contradictions. If the negative says security K and terror disad, conditionality does not resolve this. Therefore, I’d be extremely persuaded by an aff arg about being able to spike out of some reps, same as the negative.
+If the 2A reads their condo bad block, the block shouldn’t just hit tilde on their condo good block. Rather, the block should identify the specific aff arguments and respond to them specifically. Most blocks waste way too much time on conditionality because they’re responding to arguments the aff didn’t make. This also applies to 1AR’s.
+SLOW DOWN. If you will speed through your theory blocks like you’re reading a card, I will miss 75% of what you’re saying. If I don’t write it down on my flow, then you didn’t say it. And at that point you’re wasting not just your time, but mine too.
+
+Untopical Affirmatives
+I think affs should be topical. I won’t immediately vote negative, but be aware that I find most negative arguments on T more compelling. I find that aff strategies that just constitute impact turns to be unpersuasive and lacking. Defense is your friend when you're trying to beat back against the neg's impacts.
+Explain what voting affirmative does. Be prepared to answer the question, “why does the ballot matter?” I know it seems very simple, but I think it’s very important in these debates.
+Regardless of whether the aff wins that they should not have to be topical, I still expect the aff to meet other basic requirements such as inherency and solvency (unless you win that those stock issues are bad too?).
+
+Cross-Ex
+It’s binding. I will flow it to the best of my ability.
+Anybody can ask/answer questions in CX, but don’t talk over your partner. It’s rude and annoying.
+If you are flakey about CX answers (not saying whether it’s a PIK), I will be flakey with your speaker points. Don’t expect any sympathy if your strategy relies on refusing to answer questions or being dishonest.
+
+Prep
+It ends when you stop prepping. If you can't handle that, it'll end when the flash drive leaves your computer or when the email was sent.
+If I catch you stealing prep, I will do my best to estimate how much time you used, and take away double that from your remaining prep time. Stealing prep is obscene and will also result in a deduction of one whole speaker point every time I see you stealing prep.
+  

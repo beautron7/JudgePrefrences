@@ -1,0 +1,67 @@
+
+  Background: I debated on the national circuit for four years for Monta Vista (Cupertino) and worked extensively with Mountain View-Los Altos. I earned five bids to the TOC my senior year (2012) and have taught at the National Symposium for Debate twice. I've coached Lake Highland, as well as a variety of independent debaters from other schools (Immaculate Heart, LAMP, Torrey Pines), and coached several debaters to TOC. 
+
+Conflicts: Monta Vista (Cupertino), Mountain View-Los Altos, Lake Highland 
+
+
+EDIT FOR CPS 2015: The last time I judged was CPS 2014, so I'm going to be slightly rusty. Everything below still applies, but if you're a particularly fast debater, you'll probably need to be at 75% of your maximum speed. If you're unsure, I'll yell "slow" if I need you to be slower, so you're free to start as fast as you want, and wait for me to react ("clear" is still going to mean "clear," not "slow.") That being said, if your strategy relies on 20 a prioris, although I'm willing to vote on them (given warrants, extensions, not being beaten back etc etc), you have to make sure I'm able to catch them, so be careful with how fast you go through those. Also if there are new strategies from 2015 that I'm unaware of, I'm still willing to vote for them, but you should not expect me to have seen them before. TLDR I'M GETTING KINDA OLD AND HAVEN'T JUDGED IN A YEAR.
+
+Also, not sure if this is in my paradigm already, but I flow CX. It helps me verify what actually occurred when debaters claim xyz was conceded in CX. 
+
+
+UPDATES (2014):
+I default to "I meet's" being terminal defense unless it's explicitly justified as being included under RVI's (something like "I meets count as RVI's because they prove theory was run abusively" is fine.) 
+Skep triggers are fine, but they need to ACTUALLY be skep triggers. E.g. "Consequentialism doesn't have any impact" is NOT a skep trigger; it's a reason to prefer the other framework, UNLESS you also extend "consequentialism is the only viable moral framework and we default to skep if consequentialism doesn't work because of X reason." If your opponent answers "well, my framework of contractarianism co-opts your argument and fulfills that X reason's requirement," that means something else gets us away from skep, so you can't trigger skep unless you answer that argument. Basically, just because you call something a skep trigger doesn't mean it's a skep trigger, you have to a) win it, and b) it has to logically involve terminal defense on all frameworks. All frameworks, not just yours.
+
+Short Version: I flow speed, defer to whichever paradigms of debate you guys justify (competing interps v. reasonability, comparing worlds v. truth-testing, etc.), and try my best to objectively evaluate arguments and their implications in the round. Debate is your game, so I’m willing to evaluate round off of whatever paradigm you guys want me to assume, provided it’s justified. 
+Absent justifications, I default to several things: 
+- the resolution is a statement of truth
+- theory is a matter of competing interpretations
+- fairness as a voter means drop the debater (if fairness is merely cited as important, it is drop the argument). 
+- RVI’s either need an explicit counterinterpretation or a won “I meet."
+- aff gets presumption
+I also have several basic assumptions that you probably can’t change…such as having warrants:
+- implicit clash exists on the flow. Thus, if forced to (lack of weighing), I will be more likely to interact arguments on the same layer in order to resolve the debate regardless of whether they are explicitly cross-applied
+- crystallization and impact calculus (organization of which arguments come first in round) will get you far, so please weigh (both on a framework and contention level)
+- arguments always need warrants
+- extensions must always include a claim, warrant, and impact
+- slow down for interps/counterinterps and for plan/cp texts
+- try not to make the argument that two deontological violations are irresolvable/non-weighable in front of me; I’ll vote on it, but your speaks will go down 
+- be a nice person! Debate’s supposed to be a fun, welcoming place for everyone, so being rude to your opponent will put me and your opponent in a really awkward situation (I reserve the right to tank speaks for this)
+
+Long Version: 
+
+Speed/clarity: I flow speed, but slow down for authors, taglines, and short analytics. Also try to be loud; a lot of times, debaters don’t realize how quiet they are in a large room. I will yell clear thrice; post that, it’s your responsibility for anything I don’t flow. 
+
+Framework: I debated using a lot of framework throughout my career, so I’m pretty familiar with most commonly-used philosophies (obviously, you're not bound to those - I'd be down to listen to well-warranted, unique frameworks). You don’t need to run the standard value-criterion structure, but at the least you need something to impact/prioritize arguments back to, whether this be a burden or something else. A couple of things: 
+- I’m open to there being various levels of framework (meta-ethics, ontology, etc.) but also very open to indicts on which layer comes first. 
+- Be comparative! Weighing is not only viable, but a great strat on the framework layer. 
+- Absent any framework given in the round by either debater, I will evaluate through a net benefits calculus. 
+- Terminal defense on framework is rare, but can exist (e.g. the framework can’t function/evaluate anything at all).
+- While I won’t discount impact-based frameworks, I will be very open to arguments that they presuppose another ethical standard – and will evaluate turns made to the presupposed standard. 
+- If you call a philosophy the wrong philosophy (e.g. calling contractarianism as contractualism), I will default to whatever is being warranted, not claimed.
+
+Evidence: Have cites. In a debate where certain cards play key roles, I will call said evidence and look at it. Do not miscut or misrepresent cards. If you do, I will default to what the card actually says and heavily drop your speaks. 
+
+Plans/CPs/DAs: Know how uniqueness functions. Weighing is also key! Remember to slow down for plan texts.
+
+K’s: I wasn’t a big fan of the K during three years of my debate career, but I ran a few of them my senior year, so I’m willing to vote off them. Try to slow down for potentially confusing cards in the K, and be good at clearly explaining the K to me and your opponent. Remember to have a framework for the K!
+
+Extensions/Weighing: All extensions are a claim, warrant, and impact. To me, dropping an argument means conceding the simple claim-warrant-impact of the argument, but not the technical implication of how strongly it counts in the debate round. Thus, I’m open to weighing the strength of the warrant and prioritization in round (if you concede weighing, though, that may not go well for you). 2AR weighing is okay, provided that the weighing debate either doesn’t exist or didn’t start until the 2NR. If you guys do not weigh, I will be forced to resolve the round for you through the warrants you make. Try not to land in that situation, I doubt you’ll be happy. 
+
+Theory:
+- Slow down for the interpretation (also try to have a written version, or at least something shorthand on your flow). 
+- I default to competing interpretations, but would be open to reasonability. It’s up to you to justify which interp of reasonability you guys want to debate under – absent justifications, I default to reasonability meaning in-round abuse. 
+- RVI’s are chill. Answers against RVI’s are chill. RVI’s can apply either on a won counter-interpretation, or an “I meet” (justify accordingly). A non-“I meet” RVI needs an explicit counterinterpretation. 
+- Justify what fairness does for you in round (drop the debater or drop the argument). Absent justifications, “fairness is a voter” means drop the debater, “fairness is important” means drop the argument. However, if you don’t justify an impact for fairness (DTD or DTA), don’t expect to get a 30. 
+- Theory is usually a string of short, analytic arguments, so weighing is super key here. I do not want to wade through a messy theory debate, so be super clear and try not to have blips. 
+
+Speaks: I usually range 27-30. Most debaters are in the 27-28.5 range; 28.5 and above means I think you can break. Also, be courteous; if you are rude to your opponent, your speaks will likely go very much down (below 27). 
+
+Miscellaneous: 
+- Preflow before round or preflow during your opponent’s prep time.
+- You can read off your laptop.
+- You can sit down during CX.
+- I’m open to any and all questions before and after round, but keep it civil. If we don’t have a chance to get into questions, find me between rounds or email me. I can be contacted at sapphiremyj@gmail.com.
+Lastly, remember to enjoy the round! Debate’s a great activity, so always make sure you’re having fun. J
+  

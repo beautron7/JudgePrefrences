@@ -1,0 +1,147 @@
+
+  3/26/11 – last significant revision - I am flowing the text of cards now, which has implications; also, reworded and reorganized old content. Now with Table of Contents navigation because yes, I ramble that much.
+2/16/12 – last touchup - topic specific
+
+Table of ContentsAbout me
+My Goal:
+My Paradigm: 
+Offense/Defense False
+I flow text of cards.
+Reading evidence after the round
+Indicts
+Interventionism
+Discussion Purposes
+Best practices
+Impact analysis
+Theory & Frameworks
+“Dropped” arguments
+Recommended Adaptations
+Biases
+Fiat
+Kritiks and Fiat
+Politics and Fiat
+Court Fiat
+Topicality
+ 
+Conditional advocacies
+Counterplans
+Alternatives/negative kritiks generally
+Topic specific
+Cross-x:
+Speaker points:
+
+
+
+
+
+
+
+
+
+I am long-winded, yes. You really won’t understand how I judge if you don’t skim through the “adaptations” heading. After that, you can pick and choose; text search your side (“aff” or “neg”) or jump to the sub-heading for your argument (eg, “topicality” or “politics”) for useful advice.
+
+About me
+ Ben Faber, high school policy debate judge
+4 years of national circuit high school policy debate for Lakeland High School in Westchester NY (not Lakeland in FL). I cleared at a few national tournaments, but mostly just had a lot of fun.
+I enjoy debaters contacting me to ask questions about the rounds I judged, or hypotheticals:
+Email - ben.l.faber @ hotmail.com (no spaces) 
+I post on cross-x.com as meanmedianmode.
+I have judged ~60 high school rounds each year since 2008, mostly in the northeast
+School Strikes: Lakeland District, Edgemont
+
+
+My Goal:
+ I am here to listen to you debate, not to hear myself debate.
+Run the arguments you are good at, not the arguments I want to hear. If you are good at the argument, you will argue over any minor bias against it.Exception: Code of Behavior (this is common sense)– some things are blatantly objectionable. Acting offensively – denigrating the other team, racist comments etc (in particular, if I hear you using the word 'gay', ‘fag’, ‘queer’… as an adjective meaning 'stupid' or similar), are potentially reasons to stop the round (horrific speaks) and definitely reasons to vote against you. Making arguments that racism is good, sexism is good, heterosexism is good, and similar, are almost certainly reasons to reject you, because your authors and/or your use of them turns my stomach. I’m open to the culture of the room on profanity – if everyone’s cool, I’ll ignore it, but if it bothers the other team, I may vote against you, almost certainly will drop your speaks. 
+I want to evaluate the round based on the arguments you make. This means I limit my intervention as I decide the round. When I know the falsity of an argument you make, I only apply that knowledge if the other team points it out.My Paradigm: 
+ 
+I evaluate arguments. Arguments are a claim and a warrant, and it can be more convincing if there is evidence to show the truth of that warrant. Using old warrants and evidence to make new claims in the rebuttals is cool. It isn’t intervention when I ignore unwarranted claims.
+Offense/Defense False
+ Offense defense is a false dichotomy (for a fuller explanation, a slightly polished version is posted on planet debate). Many analytical defensive arguments are the other team pointing out that you lack a warrant for an implicit claim connecting two arguments (eg, a US econ disad that doesn’t read an internal link between US economy and global economy), or that your evidence doesn’t actually warrant the claim you want it to make. Any such claim can be “absolute” defense, because it means your internal link chain ends before the impact card.
+I flow text of cards.
+ If you speak slow enough, I will write down every word you say. When I have to work to understand what you are saying, it hinders my ability to do this, so I get less written. That impacts how much weight I give to your 2nd rebuttal extensions of the evidence. Yes, that means clarity and grammatical highlighting in the constructive directly influences the strength of your rebuttal. I am tired of calling out “clear” and having no change result, so I’m done with just penalizing speaker points. (Obviously, you can’t clip cards.)
+Reading evidence after the round
+ There are three types of scenarios that result in my calling for evidence: the good, the bad, and the instructive.
+Indicts
+ I am delighted to read cards when teams indict each other’s evidence – everyone should do that more often: for power-tagging, context problems, under-highlighting, lack of qualification, anything you’ve got. If indict claims are true, they represent very good debating. Warranting your understanding of the evidence is best, so that I have guidance in what to look for. My goal in reading evidence is to resolve the in-round dispute over what the text means.
+Interventionism
+ I don't want to read evidence otherwise – especially if the card is “on fire”, because I don’t carry burn creams with me. By reading the evidence, I necessarily have thoughts about the quality of the argument that I would not have had otherwise, and I can’t fully avoid injecting this into the decision (and at any rate, I'm adding to your speech time by reading your evidence at a comprehensible speed). My reading evidence uniquely increases the probability and magnitude of intervention. Sometimes I need to read evidence anyway, but none of these scenarios represents good debating:
+you are discussing critical theory or philosophy that I don’t know, and your explanations aren’t enough to make it clear – this especially happens when K debaters don’t contextualize their buzz-word link claims to the aff.round comes down to an argument that you say your so-and-so evidence makes/answers, but don’t explain the warrant for. impact (or link, or internal link) calculus is too simplistic and optimistic (assumes you were winning more than you were), and I have to weigh impacts somewhat on my own.Discussion Purposes
+ Most of the times I call for evidence, I want to add stuff to the oral critique not directly related to the RFD – strategic or tactical advice, how the round would have looked if you had gone for something else, etc.
+
+
+Best practices
+ Impact analysis
+ High-level teams already know this stuff, but younger debaters may not:
+Your opponent has generally mitigated your impacts or access to those impacts more than you think they have, and you have generally not mitigated as much of your opponents impacts as you think you have. As such, impact calculus is of course vital. You need to talk about your impact. But what really wins the round is good comparative impact analysis. In a close round, the winner tends to be the final rebuttalist who does the better job of 'even if' -ing and/or of interrelating impacts. You talk about your impacts in contrast to your opponent's impacts, and explain why I should prefer yours. And you explain how your impact subsumes/turns their impacts. It helps if you acknowledge that your opponents may win some non-trivial risk of impact.
+If someone makes an argument to the contrary, the best argumentation will determine how I evaluate 'timeframe' of impacts. But my default position is that a long timeframe only matters as a limitation on probability, because of the chance for intervening actions. Extinction tomorrow is probably no worse than extinction in 10 years, except in that we may come up with a miracle technology 9 years from now, and will not come up with a miracle technology tonight.
+Theory & Frameworks
+ I think theory is grounded in overarching logical structures. This means I’m itching to reject your political capital link arguments, and it means you need to consider the far-reaching consequences of arguments. For example, a role of the ballot argument changes the kinds of impact arguments that matter in a round.
+Many of the warrants people read on theory arguments sound like whining because the other team was strategic (eg, “we lose our spending disad” on topicality, “they steal the aff” on PICs bad). Go for better arguments. On the K, you are in luck - most of the theory args you want to make sound exactly like whining when you phrase them as independent voters, and sound exactly like very strong defense when you phrase them as substantive arguments (eg, “vague alts bad” – no it isn't a VI, but yes they are, they mean the alt that gets implemented will flail weakly and not solve the link). You'll get more mileage out of a cohesive strategy using the latter than out of a kitchen sink strategy using the former.
+Cross-x is binding 99.9% of the time. Define your terms at the time you introduce them (eg, dispositionality), or risk getting stuck with my definition of the term. Omissions of this sort, if resulting in competitive advantage, may be construed as deliberate lies when I write out the ballot.
+“Dropped” arguments
+ Dropping an argument means not having an answer; it doesn’t mean failing to say where the answer goes. It is easiest for me if teams do line-by-line debate, because I’m most practiced and comfortable with that (and my flow template is preset to that). But line-by-line is only one methodology for making sure we answer each other’s arguments, and if a team is able to answer arguments without line by line or explicit clash, I respect that. In the case of teams that don’t do line by line, I’m prepared to literally put all of the text from the final rebuttals on a new spreadsheet and line up claims that relate to each other; in any case, I’m prepared to cross-apply thesis-level claims, even if not directly instructed to do so. It’s possible that I won’t understand the interaction between two arguments (I make mistakes sometimes, and you may understand the arguments better than I do since you spent time cutting them), so explicitly pointing it out is best. However, I will never write an RFD of the form "You made the right argument, but you didn't tell me that it answered their argument, so they won"; if the oral critique devolves to that, then you were careless for not pointing out the argument interaction, but also I am sorry for having missed that argument interaction.
+Recommended Adaptations
+ To help you deal with some of the less-than-mainstream ideas I've laid out here, there are a few tips that can maximize your adaptation to my idiosyncrasies with minimal effort:
+When you first make evidence or logic indicts, it helps me if you include “indict”, “missing warrant” (or the like) in the tag of the objection. (In general, this will probably make the argument seem more important to other judges as well.)To avoid minced grammar in your highlighting, I am ok with teams using brackets [] to realign grammatical morphemes only (agreement for suffixes, punctuation, verb conjugation, pronouns, etc). Ideally, you would have an original of the evidence available to prove you haven’t made meaning-altering changes.(Particularly for kritiks) Even if both a) your link evidence includes a definition of The Buzz Word, and b) the aff is a clear example of that definition, you need to make original analysis as to how the aff engages in The Buzz Word. If not a or b, your original analysis needs to be that much better.
+
+
+Biases
+ I think about debate a lot, so I have a lot of opinions, which means a lot of biases. They generally are trivial when I judge, in that they disappear when someone says something about the subject – I list those just so you know I have thought about the matter.
+Others are minor biases – I see little enough merit in the refutations of a common argument that I think it may affect the decision in a close round.
+A few biases are strong, which may mean I’ve never heard anyone make a contradictory argument that actually makes sense (and so I don’t expect you to overcome it, but please surprise me), or it may mean the argument is so common sensically true that even good debating probably won’t get you free of it.
+
+
+Fiat
+ Fiat is a logical construct centered on a statement approximately of the form 'We should assume that any plan can be enacted in the procedural sense, and debate should focus on whether that would be a good or bad occurence, rather than on the details of procedural passage."
+Fiating SCotUS test cases is unpredictable and abusive. SCotUS plans must restrict themselves to fiating the outcome of particular cases that are already in the system. MinorThe logic of political capital links conflicts with fiat. StrongKritiks and Fiat
+ Fiat is not an event. As such, there is no 'pre-fiat' and no 'post-fiat'. There are just the ethical (or whatever) consequences of affirming something and the tangible consequences of affirming something.
+Politics and Fiat
+ Fiat is not a tiny arbitrary rule. As such, arguments don’t have to directly challenge the enactment of the plan to contravene fiat. The logic of political capital contravenes fiat.
+By which I mean, in brief, when you claim “the President must invest political capital to get plan passed”, you necessarily endorse the statement “plan would fail to be enacted if the President had absolutely 0 political capital this weekend.” Fiat contradicts the latter, therefore fiat contradicts the former. (There are a number of threads on cross-x that explore this - I have read them all, and nothing defending political capital has been at all persuasive.)
+For the neg: This does not mean you cannot run a politics disad; it does mean you should have links that don't make assumptions about the process by which plan gets passed - this also takes out the focus link almost definitely, and decent odds it guts your horse-trading link, but you can have and spin part/bipart, winner's win, credit/blame cards, for example. It doesn't mean I will ignore your pol cap args because I feel like it; it does mean i will ignore your pol cap args if the other team explains this.
+For the aff: this is basically a get-out-of-jail-free card for pol cap links. You may as well use it.
+Court Fiat
+ There is a process by which cases get to be heard in particular courts. For courts that have original jurisdiction over the question at hand, primarily district courts in the USA, new cases get docketed all the time, whenever someone wants to file a lawsuit - just like bills in Congress, so fiating a test case to them is reasonable. However, for higher courts including the Supreme Court of the US, the case is almost always already in the system before the court hears it. I'm not exactly sure where the cutoff is - if the case must be already on the SCotUS docket, or must have already applied for certiorari, but it's quite a stretch to say a SCotUS case could magically pop out of thin air. Unless you can defend the SCotUS having original jurisdiction, the case should at least have been heard and ruled already by the immediately lower court, ie federal appeals or state supreme, as appropriate.
+
+
+
+
+Topicality
+ I have voted on ASPEC, and I have voted on OSPEC. I'd rather not do so again – no resolutional burden.
+I've been thinking about "reasonability" recently. Everyone always complains that 'there is no way to determine what is reasonable', but I think affs could easily correct that by explaining in the 2ac what makes an interpretation reasonable or not. Instead of reading your trite "race to the bottom" paragraph about how competing interpretations is flawed, advance a coherent system for evaluating reasonability. Also, instead of reading your voter defense in the 2ac as 6-word blips, actually make analysis for how these args take out the voting issue claims the negative is advancing. They shouldn't be able to win without demonstrating at least a strong potential for abuse, but affs don't push on voting issues hard enough.
+Reasonability and abuse over competing interpretations: the aff is topical if they meet their own reasonable interpretation, even if they don't meet the neg interpretation, and even if the neg interpretation is more limiting. TrivialThe proper chain of internal links is: grammar → predictability → limits/ground/other. Occasionally: predictable/contextual definition → predictability → limits/ground. MinorGround is a meaningless standard unless a) you access it from a predictability argument, or b) you are arguing about the uniqueness of all links and/or CPs, or c) it demonstrates bidirectionality of an interpretation. Eg, saying "we lose links to spending disads" is not compelling - it makes the aff strategic, not abusive. TrivialA fairness impact outweighs an education impact. TrivialHypothesis testing/whole rez is a bad argument, because counter-warrants mean the neg always wins. Minor 
+ 
+
+
+Conditional advocacies
+ Presumption shifts aff when the neg goes for an advocacy other than the status quo in the 2nr. TrivialOne CP or alt, whether conditional, dispositional, or unconditional, is legitimate. MinorMultiple conditional advocacies are probably abusive, especially if they're not ideologically consistent. TrivialContradictory conditional advocacies (statism K and heg good D/A; anything where basic, generic affirmative offense against one position can be turned into negative offense on another position) are abusive. Strong.The terminal impact of any permutation theory argument is that I ignore the permutation – a permutation is just a no-link argument. Minor.Unless otherwise specified AT THE TIME you tell us the status, 'dispositional' means that you can kick the CP/alt unless the aff is making a permutation or a theory arg. A solvency deficit (or flat out 'no solvency') argument is an offensive argument. Kicking the straight-turned CP/alt to go for one or more theory violations is ok. Kicking the straight-turned CP/alt to go for a kritik that you somehow construe as a gateway issue is not ok. Strong.Counterplans
+ My threshold for voting on (under-explained) dropped theory args may be somewhat lower than others', I'm not entirely sure. Doesn't mean it's a good idea to be the test case.
+The neg can fiat, as long as it isn't object or utopian fiat. StrongIt is ok for the negative to run a topical counterplan, including a PIC. Trivial.It is ok for the negative to run a Condition/Consult CP. Trivial.The structure of Condition/Consult CPs justifies germane intrinsic permutations. Minor.It is ok for the negative to run an Agent CP, including multi-actor, international, etc. Trivial.Alternatives/negative kritiks generally
+ For both sides:
+Questioning the assumptions and perspectives behind decisions is important. It's a very good idea. But debate doesn't always do it well. At heart I am still a 2a. The double-bind perm (“plan plus all non-exclusive parts of the alt: either the alt can solve the marginal link caused by affirming rather than rejecting, or the alt can't solve anyway”) is probably true against any generic K unless it wins framework, and the alt probably amounts to my friends and I hanging out in my basement envisioning peace.
+For the neg:
+If your K can function with a policy text for the alt, reading that in the 1nc will increase your odds of beating the permutation. Specific links are the name of the game. That means applying the cards you already read to the cards, specific language and representations of the aff, not just reading more cards of your own. The cards you read that criticize nebulous concepts like 'the affirmative's hegemonic discourse' or 'the affirmative's embrace of capitalist ideologies' are not links, they are internal links from buzz words to implications. Before those matter, you have to win that the aff engages in your buzzword actions, and at least some portion of that has to be proven by analytic arguments.
+If your K isn't one of the ubiquitous generic ones, it's a craps shoot for whether I know it or not. If not, you'll need to make sure I understand your argument, because I can't vote on it otherwise. This is logical – I won't vote on something if I can't explain what my vote means. Unfortunately, this is an area where there might be a high degree of intervention. Feel free to treat me like a kindergarten student and simplify the argument.
+For the aff:
+Most of the theory args you want to make against the K sound exactly like whining when you phrase them as independent voters, and sound exactly like very strong defense when you phrase them as normal args. You'll get more mileage out of a cohesive strategy using the latter than out of a kitchen sink strategy using the former.
+The neg has a right to challenge the aff's assumptions. Minor.The neg has a right to advocate a non-policy to help show that the aff's assumptions are flawed. Trivial.A 2nc/1nr Floating PIC is fair, because it is not an advocacy; it is analogous to a permutation. Trivial.It is abusive for the neg to offer a 2nc/1nr Floating PIC as an advocacy. Minor.A word PIC with a kritik of the missing word as a net benefit is a legitimate negative strategy. Trivial.Alternative vagueness is not a reason to reject the alternative. Minor.Alternative vagueness decreases the effectiveness of the alternative. Minor.
+
+Topic specific
+ (hs 11-12: increase exploration and/or development of space)
+"Exploration/Development requires human presence" is a stupid argument. MinorThis is not a sensible argument, "We meet - we use humans on earth to monitor the activity" combined with "intent to define" indict of the negative card and, yes, a "framer's intent" arg are all that's needed to win this: if the rez meant to limit to human exploration/development, it would say "human exploration and/or development". Say "Observation =/= exploration" and "use =/= development" and so on.
+
+
+
+Cross-x:
+ - Open c/x is fine.
+- I am attentive to c/x, and I'm working on flowing it. But I haven't done that before, so it doesn't always get written down in a useful spot. Make the argument in a speech to be sure of it.
+- C/x is binding, unless you have a very compelling argument otherwise. Even if you have that compelling argument otherwise, if you didn't let me and your opponents know in advance that c/x wasn't binding, you'll get lower speaks.
+- Mike Antonucci has advanced the paradigm of intervening in cross-x to stop unfair practices. I'm confident I meet his idiot criterion, so I'm considering this. It is really annoying when you folks filibuster.
+Speaker points:
+ To the best of my ability, I'll use the framework given by the tournament director if any. Otherwise, speaks are awarded based on argumentation, +/- .5 for delivery. If you make me laugh a lot, you may get +1 for delivery.
+27 is average, not particularly impressed in either direction.
+30 corresponds to roughly "this round was you at the very top of your game, and you are normally a 99th percentile debater"
+29-30 are roughly "performance at or above 90th percentile"
+I'll reward you for clever/novel arguments (or use of routine arguments in clever/novel ways), nuanced argumentation, and good analysis. In particular, I enjoy hearing you contest the quality or relevance of evidence. Of course, that means I'm going to read the evidence after the round, so don't make frivolous challenges.
+  

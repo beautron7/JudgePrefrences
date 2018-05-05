@@ -1,0 +1,67 @@
+
+  Last updated on 1/18/11.
+
+My name is Ilya Gaidarov. I debated at Torrey Pines High School in CA for four years (Class of 2010) and am currently a freshman at Stanford University (Class of 2014). 
+
+I qualified to the TOC in LD Debate my junior and senior years, accumulated 8 career bids, and reached late elimination rounds at tournaments including Alta (Champion), Long Beach (Champion), and Semifinals at Berkeley, Stanford, and CPS.
+
+As of the 2010-11 season, I am coaching for the Torrey Pines and Mountain View-Los Altos teams. 
+
+Paradigm:
+
+January '11 update: I've had a chance to judge at a few tournaments (Greenhill and Apple Valley) and debate at a few others (college parliamentary). Lo and behold, I've gained a conscious appreciation for a few things I didn't really consider in the past.
+
+-I've pretty much had to abandon "speed" in order to do APDA, the parliamentary league Stanford's in (though I occasionally find myself spewing the fairness voter I ingrained in my head during high school). Going at a more conversational pace has actually made me realize that in the vast majority of cases, less is more when it comes to the amount of arguments you read and the speed of the delivery. I have no problem flowing fast debates (relative to where I've been all year, anyway), but I really will appreciate debaters who go slower than they can and maintain a high quality round. Trust me, it's more than possible, even when you're dealing with 3 dumps (or whatever it is kids are doing these days), and it makes the job significantly easier for the judge. Meaning better speaker points. And since I've moved my bell curve for points leftwards as the year's progressed and might not be a fairy any more (probably more of a speaker point "sprite"), that will make a difference.
+-I think the vast majority of my defense and comparison in rounds when I was a high school debater was based on outright rejection of the other debaters' arguments. Even though this may seem like a "perceptually dominant" strategy at times, it's actually not optimal for either the debater or the judge. There's probably some reasonable basis for your opponents' arguments, since they wouldn't read something they thought was garbage (I hope); there's a chance that the judge finds them reasonable as well. If you don't acknowledge that there's some value to your opponents' arguments, you open up the avenue for the classic "I think you're just not understanding their case" RFD, and even your good wins will probably get lower speaks than you'd like. I think this kind of analysis is neglected in debate rounds pretty often, and I would much rather have the merits of your opponents' arguments put into context during your explanation of why your own arguments are still more valuable, etc. than have to do it myself. You'll be rewarded in speaker points, and ultimately in the long term, which is far more important. 
+
+
+As a foreword: Many judges say they’re fine with “whatever arguments you run” as long as they’re “justified properly.” Many of these judges then proceed to either award losses incomprehensible to debaters that violate their hidden preferences or to give absurdly low speaker points, albeit with wins, to said debaters. I never liked these scenarios as a debater (and yes, I did experience them), I think that both outcomes are potentially crushing to debaters’ tournament success, and I’d prefer to minimize the possibility of them happening when I judge. So, long story short – along with outlining the specifics of stuff I like and don’t like in rounds, I’m also running through the stuff that I straight up won’t vote for. Strike me if you run any of it and/or think that I’m a barbaric, anti-education tyrant who devours imagination for lunch. Because I might be.
+
+
+Now then. The short version:
+
+-Things that are fine = Speed, Theory, RVIs, Metaethics, Fleshed-out argument comparison (strength of link/impact weighing on substance, abuse weighing on theory). 
+-Things that are not fine = Any theory based on out-of-round events (including Disclosure theory, Spectator theory, and Coin Flip theory), Performances, Narratives, Determinism, Micropolitical/Discursive arguments (this round will not "kill your revolution" and millions of poor children in the process), and positions similar to the critique of gender norms run during the 2009-2010 season. I will not vote for these positions.
+
+
+To “paint a clearer picture”:
+
+1. Debate world-view = 
+-I default to truth-testing, though this only comes into effect if no one explicitly argues for comparative worlds. 
+-Normativity is important; metaethical justifications operate above generic analytics. 
+-A prioris are fine as long as they link to the normativity of the resolution, and I probably won’t kill your speaks for running them (though if it’s a fragmented storm filled with blips and demons, don’t expect too much); that said, I’m very open to theory against them.
+-Skepticism that looks like “X term in the resolution is false. Thus, negate,” will not make me happy. My threshold for voting on theory against it is extremely low. I'm easily persuaded by almost any coherent defense against it. And don't expect anything higher than a 26, so even the off-chance that I vote for you will kill your tournament success. For your own good, don't run this in front of me. 
+
+2. Theory = 
+-I’m very open to RVIs and probably have a much lower threshold for them than most judges. That said, you need to be winning your counter-interpretation to access the RVI, but don't worry about me "washing theory because there's no clear benefit to either interpretation." This argument makes me smile. 
+-Theory is a gateway issue that determines what kinds of arguments should be allowed in-round regardless of their external value; I'm extremely unlikely to ever vote for "theory is bad for x, y, and z discursive reasons" and/or that theory is "outweighed" by arguments on another level of the flow.
+-It's probably a bad idea to run "1AR Theory Bad", "NC Theory Bad," and similar shells in front of me. I think these positions are illogical, and I'm very persuaded by the "I need to be able to run theory to check back abuse" response. That said, a select few of these shells (from my experience) end up functioning as gigantic RVIs when they interact with the initial shell(s); if this is ever the case, the chances of me voting on them increases only if they're clearly shown to function like RVIs and if the requirements for an RVI are met (see above). But I won't be very pleased about it. 
+-4-point shells are preferable, but I’m fine with paragraph form. 
+-Theory is probably an issue of competing interpretations. However: I don’t feel very inclined to vote against an affirmative on T if their definition, while reasonably fair, is a little worse than the negative’s. So if the affirmative successfully proves that any “abuse” on this issue of T is marginal, I’m fine with reasonability. In this case. 
+-Fairness is a voter. Education, not so much; chances are very high that I’m not going to vote for someone because they just “couldn’t learn as much as possible from a round." If it’s extremely well justified and basically conceded then you might get the ballot. That said, Education is a reason to prefer arguments if you say it is.
+-Weigh abuse, whether in a shell you ran vs. a shell your opponent ran or an RVI vs. abuse elsewhere on the flow. 
+
+3. Evidence = Always a good thing. 
+-I default to evidence>analytics (sorry, self-proclaimed high school geniuses), but again, this only comes into effect absent arguments for preferring analytics. 
+-Unless astronomical destruction is happening on the flow, I’ll probably call for evidence, and I’ll want to read the minimized text. Reasons: To check back against lying about/distorting other people’s work (Problematic for ethical and evaluative reasons) and to clarify context. 
+-Please have cites. Please don’t make the minimized font microscopic. Please don’t minimize the “however” and “maybe” (I know it’s quite exciting). Please compare quality of evidence on multiple levels (your speaks will be rewarded). 
+
+4. Speed = If I’m up to par on computer flowing, you’re probably good. If not, you’re still probably good, but be wary. I’ll shout clear a few times; if you don’t slow down, I’ll stop flowing and look at you while making funny faces. 
+
+5. Speaks = I’ll try to be nice. If I think you shouldn’t break, expect around a 27. If I think you should break, expect around a 29. Auto-22 if you run the stuff I explicitly said I wouldn’t vote for. 
+
+6. Miscellaneous = 
+-Flex prep is fine if your opponent agrees to it.
+-Extensions should be threshed out if the argument is contested; if it’s conceded, you can extend the main ideas without a big time investment.
+-I think there’s [almost] always a risk of offense, so you’re probably not winning the ballot on presumption; that said, I’ll default to presuming Aff absent a reason not to.
+-Plans/CPs need a text.
+-Make sure that whatever your critical position is has a glorious alternative; these things don’t make me too happy as it is.
+
+And seeing as you took the time to read my paradigm: the “it’s in your paradigm, so vote this way” move sounds good to me. Unless it’s horribly wrong, in which case there’s a decent chance I’ll laugh (my sincerest preemptive apologies). 
+
+On another note: providing Dunkin Donuts' Chocolate Glazed donuts to one of their biggest fans is always a good thing. Though I'm not saying anything in particular. 
+
+Feel free to email me at baron.ilya@gmail.com if you have any questions/concerns. 
+
+Have fun! And win stuff.
+  

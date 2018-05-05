@@ -1,0 +1,9 @@
+
+  Generally I think it's up to you to decide which arguments get evaluated first, and within what context. This implies that you should do the work to tell me where you think your arguments function best, and how I should deal with them in relation to other arguments. In the absence of that kind of work on your part, I default to what I feel like is a pretty intuitive system of looking to procedurals first, etc.
+
+I prefer a round to come down to a coherent set of impacts, which means you again need to tell me how your scenarios interact. I expect some kind of terminalization on procedurals, but I think again that this is something you get to figure out based on your own strategy.
+
+There are certain arguments I enjoy more than others, but I'm not entirely certain that this affects anything other than how much time I spend smiling during the round, which probably shouldn't be your priority. There are arguments you probably feel more comfortable with, and I would encourage you to try to go with those first; I believe you should have to adapt to me as little as possible.
+
+In terms of speed, I generally think most teams should go faster, and I also think most teams should be more clear. There's a tradeoff here at the margins, and I think that favors the latter preference, but you can go as fast as you can still coherently speak. I'll probably tell you if I'm having a problem.
+  

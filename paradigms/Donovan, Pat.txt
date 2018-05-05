@@ -1,0 +1,44 @@
+
+  I debated LD at Glenbrook North and graduated in 2010. I was successful locally and nationally. I've worked at UNT, NDF, and NSD. I'm currently an assistant coach at Northland Christian School in Houston, TX. I attend the University of Texas at Austin, where I'm on the policy debate team.
+
+Policy
+
+Counterplans: a counterplan of any type with a good enough solvency advocate is probably legitimate.
+
+Ks: middle of the road here, but I am persuaded by predictions good arguments if the neg can't do a good job explaining their theory of knowledge production
+
+In general, I tend to value the simplification of arguments/positions over technical prowess.
+
+
+
+
+
+
+
+LD
+
+You can talk fast, and I will say "clear" if I think you're unclear.
+
+Pretty much any appeal to an interpretation of debate used to preclude an argument must be supported with a theoretical justification for that interpretation. Consequently, truth-testing arguments come first unless you beat them with theory. This is because if the assumption that burdens are founded on the resolution's truth goes uncontested, then any arguments that directly implicate the resolution's truth function at a higher level than benefits to advocacies. Under truth-testing, benefits to advocacies are only relevant since they appeal to the resolution's evaluative term (e.g. "ought" or "just").
+
+I will truly try to be as objective as possible with all arguments, but certain views I have might--depending on the arguments made on both sides--make me more likely to decide an issue in one direction over another. The following statements reflect only my personal leanings, not what I will necessarily decide in a given debate:
+- Util is true.
+- CPs should have solvency advocates, and a CP of any type with a good enough solvency advocate is probably legitimate.
+- Comparing worlds is better than truth-testing.
+- Theory (except for T and necessary-but-insufficient burdens bad) is a reason to reject the argument, not the debater.
+- New "cross-applications" in the NR and 2AR are okay unless they cross over multiple layers of the debate, such as one T shell to another.
+- The neg time bias is awful and gives the aff a lot of leeway on many questions of T/theory.
+- The aff should have a burden/advocacy text, and any CP should have a text.
+
+I assume util on framework until someone wins something different from util.
+
+If you use framework to preclude an impact, then you must either give a very clear explanation of what types of impacts the framework precludes and why it precludes them or explain why the framework precludes each impact specifically. The burden is on you to prove that your framework excludes an impact if you are aiming to preclude it entirely (i.e. 100% defense). If you use a criterion that simply appeals to a broader philosophical value, then your justifications for that criterion only function as weighing and can never preclude impacts that are relevant under that value. For example, a criterion of "minimizing genocide" is just consequentialism because it values the minimization of suffering/maximization of good. Even if your opponent never points this out, your framework still doesn't preclude her impact because proving that X is good and does not warrant that everything other than X is irrelevant.
+
+I do not view arguments as independent just because they were made in different places on the flow. If the way an argument is explained connects it with another argument, I will consider that connection even if it is not explained in terms of the flow. Because of this, you can maximize efficiency by using embedded clash and comparing multiple distinct arguments in one place in your speeches.
+
+Any argument that is mentioned is extended, but an argument that is explained well by the end of the debate will have a much greater weight than an argument that is just mentioned or not explained clearly (Affs: this means that the 1ar doesn't need to explain arguments that there isn't much clash on in order to extend them.). In low- and mid-level debates, thoroughly explaining one or more major pieces of offense is the best way to do well because both debaters will usually get too caught up in the line-by-line and won't have much offense at the end. If you sit on one key offensive argument, then you will likely win those debates.
+
+The rubric for the decision comes down to offense/defense. If you have more sources of offense than your opponent, then the odds are in your favor. This means that it's very strategic to have turns against your opponent's sources of offense in addition to your own major offensive argument(s). Weighing an argument effectively drastically inflates its weight--obviously. That means that you can leverage one source of offense against multiple others with good weighing. All arguments made at the weighing level appeal to probability, magnitude, or turns case/turns the DA (I wish that third type of weighing were used more often.). Useful weighing is comparative between your offense and your opponent's offense. As long as you're being comparative in your weighing, you're not making new arguments--this gives you a lot of room to reduce the weight of arguments in new ways in the NR/2AR.
+
+In all honesty, I am open to virtually any type of argument. I think that there are good theoretical justifications for truth testing and some debaters can decisively win deontology. I haven't mentioned critical positions yet--I have no leaning toward or against those.
+  

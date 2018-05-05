@@ -1,0 +1,78 @@
+
+  I debated at Northland Christian for four years. I now coach at Greenhill. I competed on both the national and local circuit.
+
+Evidence Ethics:
+Jan/Feb specific: I don't think that this Strepson (? - I don't remember the name) evidence being read about whether or not prisoners are employees is miscut in a way that misrepresents the authors conclusion. The author is citing some different cases on this issue, but at the end of the article specifically states that he is not taking a stance on the issue and is just presenting different cases. I will vote on evidence ethics theory if you just drop the ball and can't defend your evidence, but this is not a case where I think an ethics violation has blatantly occurred.
+
+General: If you read evidence that is miscut/misrepresented (i'll clarify), and your opponent points it out, I will sign my ballot immediately. Evidence ethics is very, very important to me. For more clarification, check out this (http://vbriefly.com/2014/10/24/evidence-ethics-in-ld-debate-a-proposal-by-akhil-gandra-and-arjun-tambe/). So what counts as unethical evidence usage? 1) manipulating what the evidence says by not underlining words like "not" that clearly misrepresents what the evidence actually says. 2) Inserting brackets into evidence that changes the meaning of the evidence IN ANY MEANINGFUL WAY, however slight it may seem. For example, changing "some" to "[many]", or changing the tense of the evidence to represent it as more relevant. 3) reading evidence from authors who clearly state that they conclude the opposite way and using their qualifications/expertise to bolster the strength of your argument.
+
+Basically, the easy rule is don't add brackets to evidence and underline the evidence in a way that misrepresents the author's views.
+
+In cases where violations of evidence ethics are made obvious, I do not require a theory argument to be made and will vote against you immediately.
+
+Theory:
+Since I've started judging again, I have noticed a disturbing trend where theory, especially really bad, generic theory, has been used far too often in place of making substantive responses. I have no problem voting on theory when it's necessary and well explained, but I find myself incredibly bored during a lot of these theory debates.
+
+If your strategy against non-topical affs is generic, all analytic theory about why the aff must be topical, you're fighting an uphill battle. think 300 spartans vs. the Persians. Except instead of 300 spartans, it's just you.
+
+Here are some examples of what I think are bad theory arguments:
+1. AFC/Neg can't read a different framework
+2. Must spec a "normative framework" (whatever this means...)
+3. Must concede aff interpretations
+4. Must answer frameworks line-by-line
+5. Must give aff the RVI
+6. Neg can't read CP/K
+7. Neg theory is just a counterinterp
+8. Aff can't kick framework
+9. WiFi theory - see caveat below (tl;dr - if you can prove your opponent cheated, they should lose. Cheating in this case is communicating with coach/receiving answers from someone, things along those lines).
+10. Plans bad - I'll clarify a little here. I think there are probably some affirmative plans that are theoretically illegitimate, like plans that are hyperspecific with very little literature on, but if the aff is just US specific, for example, please don't read plans bad. If you're going to make this argument, CX should be asking some questions about what arguments do/don't link and the shell should be explaining SPECIFIC neg arguments that you lose access to and WHY you should have access to those args/why they're key negative ground.
+
+This list is not comprehensive, and I'll update the list as I hear more that I dislike. Against any of these arguments, I am incredibly compelled by 'drop the argument' as a response. But please don't attach an RVI at the end just because they made these arguments, it's just inviting more time to be spent on the theory debate and that's the exact opposite of what I would like to see.
+If your strategy is to read an aff that has a ton of theory spikes in it explaining all the things the neg can't do, as I have seen far too often in affs (especially ILaw affs) I am probably not the judge for you.
+
+If you do make/go for these theory arguments in front of me, I am unlikely to give you above a 28.
+
+Examples of theory arguments that I am okay with:
+1. Disclosure theory
+2. Aprioris/multiple necessary but insufficient burdens bad
+3. Conditionality bad - I think that it's probably okay if the neg defends ONE conditional advocacy that they can kick and defend the squo if they do kick, but if the neg isn't able to win condo good then I don't have an issue voting on this argument.
+
+If you think you might make a certain theory argument that isn't on this list, just clarify with me before round and I'll be more than glad to let you know how I feel on that issue.
+
+I evaluate theory much like a plan/counterplan debate, which means I naturally lean towards/default to competing interpretations. What I mean by this is that I see the interpretation as the "plan text" and the standards as "advantages" with the CI being the alternative and offense back to that CI as the net benefits. Absent prioritization/weighing arguments, I will sort through the theory debate with this frame of reference and weigh offense/strength of links. This also means that just winning a violation and a risk of offense isn't sufficient to win IF your opponent has a counterinterpretation. If there is no CI, then arguments about how your interpretation might not be the best, but there's no alternative to compare it to are relatively compelling if you're winning a clear violation.
+
+"Can I preflow before we start?"
+come to the round already preflowed. if you come to the round without a preflow, and your opponent and I are waiting on you then preflowing before beginning your 1ac counts against your prep time.
+
+"Will you say clear?"
+i will say clear no more than twice. After that, I will stop flowing and if you're paying even the tiniest amount of attention to me you will know that i have stopped, and you will know when I resume (assuming you fix your clarity issues). With that, if you're debating someone, I've said clear twice, and you notice i have stopped flowing your opponent's speech, I will absolutely evaluate the argument that "if i didn't flow it, it wasn't made." Don't rely on this, I flow on my computer so its very obvious when i am typing and when my hands are off the keyboard and i have a bewildered look on my face. Only when this obvious instance of unclarity takes place and I have NO idea what's being said, will I give weight to "if you didn't flow it, don't evaluate it." But it has happened, and i have no doubt it will happen again.
+
+"Will you vote on..."
+There are very few arguments that I will reject/refuse to vote on regardless of whether or not they are "won." These are, essentially, any arguments that say "genocide/racism/sexism good." This exclusion does not necessarily include skepticism (except in response to arguments about oppression). I have no a priori objections to skepticism, so if you truly feel like that is the argument you think puts you in the best position to win a debate, then go for it. That being said, I find a certain style of arguments responding to skepticism very compelling (i.e. justifies horrible atrocities - reject any theory that justifies them, skepticism doesn't make sense in light of government obligations, we should act as if there were morals even if there aren't). I recognize that most of the people who choose to run skepticism find these arguments relatively asinine, but I am inclined to give these arguments weight absent a very good defense of skepticism.
+
+Basically, you can read whatever you want (sans obviously morally repugnant positions), just bear in mind that I may find arguments against your position to be compelling, even if you think they're stupid. While I mainly chose to run policy style arguments when I debated, that was a strategic choice I made, not one that has compelled me as a judge to ignite a crusade against all philosophical positions by refusing to vote for them.
+
+I will vote on arguments about your opponents out of round actions (judge prefs, etc.) as long as you show a clear link to these arguments that can be verified.
+
+This is not to say that I am "tab" because I certainly have preferences (like the ones mentioned re: responding to skep), but I also have no problem voting against someone who read a style of argumentation that I enjoy if they get hosed in the debate. Also, if no decision calculus is clearly established, I'm forced to put together a story and that's on you.
+
+Things I will not vote on:
+1. You must normatively justify why oppression is bad.
+2. The NFL bans plans. Don’t make that argument in front of me. I'm not sure if this argument is still around, but if it is read in front of me I won't drop you simply because you read it, however I promise that you won't get above a 25.
+3. Wifi theory. The caveat here is that if you have undeniable, verifiable proof that cheating is taking place then present the evidence of that and if it's true, the round will be over. But just saying "they had their wifi on, so they should lose etc etc etc..." is not gonna get my ballot.
+
+Despite the fact that I find "policymaking good" arguments to be compelling against some philosophical positions, I do not believe that necessarily holds true as responses to arguments about why debate is exclusionary towards certain groups, and that there is a structural fairness issue that needs to be addressed. If won, I don't have a problem with voting on policymaking good arguments against this debate, but as compelling as I find those arguments I also find arguments about how there is structural inequity within debate that needs to be rectified to be equally compelling. That being said, if your strategy is to run these types of arguments in hopes of gaming the system, or winning off of some trick, I will not be pleased. While there isn't a clear "brightline" between my idea of appropriate and inappropriate use of these arguments, I do err on the side that they're being made genuinely so don't let that deter you. I've voted for these positions several times, and have yet to see an instance where they were used inappropriately, but if it's blatantly obvious your reason for running these arguments is not to promote social aware/inclusion/rectifying structural inequity and you don't take it seriously, it will not bode well for you.
+
+General:
+If I were to use buzzwords to explain my views on debate, I would probably consider myself of the “comparing worlds” paradigm. No, this doesn’t mean I ignore deontological arguments.
+
+As a debater, my preference was heavily in favor of policy style arguments over philosophical positions, but this doesn’t mean that I won’t vote for philosophical positions against a plan. I have no inherent problems with philosophical positions, but if you are going to read them in front of me, especially against policy style arguments, you MUST explain how they interact and what your argument is. I don’t have an incredible understanding of every single Engstrom/Korsgaard/Kant/Velleman card you read, and if I don’t understand I just won’t vote on it. This standard also applies to kritiks, and even policy style arguments.
+
+If you are going to read policy style arguments, and you don’t do any kind of weighing/comparison, do not expect to get above a 28. This is the biggest thing that I am looking for as a judge, and it makes adjudicating the round so much easier. If you leave the debate open at the end of the round, don’t be shocked if it doesn’t end favorably for you.
+
+Debate is cool. Do it because you enjoy it. Make arguments, don’t just play it safe, and compare, compare, compare. If you aren’t using your last minute of the NR to crystallize and preempt the 2ar/give voters, you aren’t going to get above a 28.5/29 because this is the time you should be writing the ballot for me. The same goes for the 2AR – crystallize. This isn’t just where you summarize the debate and tell me you are winning every argument, you aren’t. Instead, use this time to interact your arguments with theirs, give me an order of operations. If you make it easy for me, then your W/L record and speaks will reflect that.
+
+Finally, I am not perfect by any means, but I will do my best to make the most accurate decision possible. Will I make mistakes? Certainly. As a debater, you have every right to ask me questions afterwards; all that I ask is that you do so in a respectful manner.
+
+I am sure I have left some stuff out, so if you have questions, feel free to ask me before the round.
+  

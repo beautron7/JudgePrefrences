@@ -1,0 +1,63 @@
+
+  Paul Dorasil
+
+Background 
+ I competed for four years in LD debate for Richland High School. I founded the team in 2000. The team dissolved upon my graduation in 2004. I attended UNT debate camp (run by the Championship Group at the time) in 2002 and was in Dave Huston’s lab. I attended KNDI in 2003 and was in Jenn Larson’s lab. I have an Honors Bachelor of Science in Economics from the University of Texas at Arlington. I previously worked for the National Center for Policy Analysis, where I was involved with Debate-Central. I coached the Eastside LD team while I earned my masters in Economics at the University of Florida. I have been judging regularly since 2006. I currently am back in North Texas, where I judge frequently at local TFA, TOC, and UIL tournaments.
+Paradigm in a nutshell 
+ My decision is constrained by the arguments in the round. I will evaluate any argument made. I prefer for everything to be determined by arguments in the round, including burdens and the priority of arguments. If you are worried about how I will evaluate an argument, you should explicitly argue how I should evaluate it. Much of the rest of my paradigm relates to my default behavior when my behavior cannot be determined by arguments in the round. Keep in mind, I only consider complete arguments as arguments. Unwarranted claims are not arguments.
+Default Burdens 
+ Ideally, I would like burdens to be a subject of debate in the round so that I can evaluate the arguments presented. This is fair because it gives the debaters more control over the outcome of the round. To establish a burden in the round, you must 1) define the burden 2) describe the burden's function and 3) justify the existence of the burden. In the absence of burden analysis, I default neg if and only if the resolution is worded in the positive and states the existence of an obligation. If the resolution is worded in the positive and advocates permissibility, then I default aff. If the resolution is worded in the negative, my default burdens reverse. In all cases, the side advocating the existence of an obligation is the one that has the default burden of proof and the right to define.
+Rate of Speaking 
+ I listen well and take good notes. I have judged at Greenhill, St. Marks, Crestian, Grapevine, and others. In all probability, I have judged rounds with debaters much faster than you will ever be. If I can't understand you, it is almost certainly because you are speaking poorly, not because you are too fast. I do not yell "clear" because doing so encourages debaters to walk that line between completely incomprehensible and unclear gibberish. I will not call for a card if I didn't understand it as it was read the first time.
+
+If a debater speaks at zero words per minute, I will not understand anything because nothing will be said. If a debater speaks fast enough, I will not understand anything because my human brain is not capable of comprehending speech at sufficiently high speed. This implies that my understanding as a function of a speaker's rate of speech is concave and thus has a maximum within the interior. This maximum represents your optimal rate of speech. You can move your optimal speed to the right by increasing the clarity of your articulation, increasing word economy, and signposting.
+I do not artificially reward or penalize debaters for speaking quickly, but I do not vote for any argument unless I understand it as it was originally articulated. Voting on arguments I don't understand until the end of the round would allow debaters to make de facto new arguments in rebuttals. An argument is not made until it is complete. I disregard new constructive arguments in rebuttals.
+If excessively rapid speaking were good, professional public speakers -who are also often constrained by time limits- would speak rapidly; and they don’t. This is evidence that rapid speaking decreases the clarity of a message. Furthermore, strategies that include rapid speaking generally involve making as many arguments as possible in hopes that some of them are dropped. Then, debaters extend arguments without having to answer refutation. Rewarding this behavior decreases the frequency that debaters must answer refutation and, therefore, hinders them from learning this critical skill.
+Topicality 
+ I automatically assume that an argument must be topical in order to be considered in my decision. Given that the affirmative advocates a positive statement (i.e. the resolution is not worded in the negative), I give the affirmative the right to interpret and define the terms of the resolution until the negative challenges those definitions. That being said, if a debater argues that his or her opponent is misinterpreting a resolution (definition), he or she must identify a concern, define a violation, show that the affirmative's interpretation (definition) commits the violation, propose an alternate interpretation (definition), and comparatively justify that interpretation (definition). A rejection of a debater's interpretation of the resolution (definition of a term) is often enough to exclude a good portion of that debater’s constructive arguments. I strongly discourage debaters to run obvious misinterpretations of resolutions (definitions) for this reason.
+Kritiks 
+ Discourse Kritiks:
+All arguments must affirm (negate) the resolution in order to be topical. If you win the argument that your opponent’s advocacy is racist/sexist/idiotic/etc. and your opponent wins an argument that concludes the resolution is true (false), then your opponent, whose advocacy we have determined is racist/sexist/idiotic, will win the debate round.
+All Other Kritiks:
+If an argument is labeled a “kritik,” and it affirms (negates) the resolution, prestandards or not, then I consider it like I would any other argument.
+Presentation Skills 
+ Presentation is very important. Debaters should speak as clearly as possible, maintain maximum eye contact, vary tone appropriately, etc so that I understand the arguments as much as possible. I do not decide win/loss based on presentation skills because the advantage of giving a good presentation should be inherent in my enhanced understanding of the arguments. I do factor presentation (sometimes heavily) into speaker points.
+Importance of Value/Criteria 
+ More often than not, the value/criterion framework is more cumbersome than useful. This is one reason why we don’t see professionals writing arguments using values and criteria. The use of a value and criteria is one way to establish the major premise of one’s case. If this is how you use your value and criterion, this is the way I will evaluate it. Theoretically, if a debater wins that his or her value and criteria should be accepted as the standards in the round, he or she has a significant advantage. Arguments on both sides, which are not prestandards, must then “impact” to the criteria in order to be relevant at the end of the round.
+Conditional Advocacy
+ Conditional cases essentially affirm/negate resolutions given a set of conditions. As such, each condition must be justified. To conditionally affirm/negate, a debater must 1) specify a set of conditions for evaluating the resolution, 2) justify why each condition should be assumed and 3) show how the resolution is true/false given that set of conditions. The negative can attack any of these three parts in order to defeat the conditional advocacy.
+Style-specific Comments 
+ The type of debate is determined by the topic, not by the name of the event. If the topic wording committee chooses -as they have often done in the past- to assign a policy topic to LD or a value topic to PFD or a fact topic to Student Congress, then the style of debate should conform to the topic, not the name of the activity.
+A policy topic proposes the existence of an obligation. Policy topics typically contain the word "should" or "ought." As such, it is sufficient to affirm a positively worded policy topic by specifying and justifying an implementation (plan). It is sufficient to negate by giving reason to reject the affirmative implementation. Because we assume obligations do not exist until proven that one does, I presume a negative ballot.
+A value topic proposes that an action is permissible or that X is a necessary requirement for Y. Value topics usually follow the form "X is just" or "X is moral." To negate a value topic, one must prove a negative obligation. That is, to show that "X us not just" is equivalent to "An obligation exists to not X." As such , it is sufficient to negate a positively worded value topic by specifying and justifying a rule (standard) that X violates. It is sufficient to affirm by establishing a sufficient standard for permissibility, which precludes any rule that the negative may specify. Because we assume actions are permissible until shown that a negative obligation exists, I presume an affirmative ballot.
+Public Forum Debate – The greatest challenge of public forum is to conform to the highly constricting time limits. This makes issue-selection key. I ask PFD debaters to both win arguments and weigh arguments (tell me why the ones you’re winning are more important than the ones you’re losing) just as LD and Policy debaters do.
+Student Congress – I implore you to have research relevant to topics and to respond to your opponents’ arguments.
+Biases 
+ I don’t think that my ballot is influenced by the following, but certain things make me happy and certain things irritate me. For my own personal benefit, I will list my likes and dislikes and hope that debaters will make an effort to appeal to them. These are in no particular order.
+
+Things I love:
+Humor
+Really nerdy positions that involve higher-level math and science
+Statistics
+Replacing the arbitrary value, criterion, and contention structure with some other more original case structure (that still forms a cohesive case)
+Multiple criteria
+Explaining how standards function logically in the round
+Grouping arguments
+Negatives who attack one specific characteristic of the resolution that makes it untrue (like moral skepticism cases)
+Turning arguments
+Exposing contradictions
+Giving voters in the 1AR
+Blocks in rebuttals
+
+Things I hate:
+Bad theory arguments
+Telling me what LD/CX/PF/SC Debate is supposed to be (bad theory arguments)
+Telling me that something is "against the rules" (bad theory arguments)
+Debaters who do the "things I love" badly
+Balanced negatives
+Speeches I can’t understand
+Strategies that rely on the opponent missing something
+Unimportant constructive arguments that are then blown up in rebuttals
+Jargon
+Misunderstanding economic theory
+  

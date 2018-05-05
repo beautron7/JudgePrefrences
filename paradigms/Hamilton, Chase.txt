@@ -1,0 +1,110 @@
+
+  Up-to-date as of February 2017
+
+Flower Mound High School ’12; University of Texas ’16
+
+Table of ContentsBELIEF AND ARGUMENT
+MY GENERIC BELIEF SET/PARADIGM
+PRESUMPTION
+UNIQUE FEATURES OF DEBATE ROUNDS
+ROLE OF THE BALLOT
+ROLE OF THE RESOLUTION
+MISCELLANEOUS
+SPEED
+THEORY
+TOPICALITY
+PHILOSOPHY/ETHICS
+KRITIKS
+EXTENSIONS
+NEW ARGUMENTS
+SPEAKER POINTS
+
+I debated on the national and local Texas circuits for 4 years, debating at TFA state, UIL state, NFL nationals, and the TOC. As a private coach since 2012 I've stayed involved in debate, mostly on the national circuit.
+
+I've designed this page to be both a useful representation of my judging views/practices as well as an educational document that may help frame questions about debate. If I am about to judge your round, you should only read the bolded sentences. The rest is there to peruse at your leisure.
+
+In summary, I am a fan of substantive and philosophical argumentation. I am not inclined to reward tricks and arguments that avoid clash. I am not a tab judge; I give slightly more credence to arguments I think are obviously true.
+
+BELIEF AND ARGUMENT
+ 
+The role of belief is important for debate because the debaters are attempting to make the judge believe certain propositions. For example, under "truth testing", they are trying to make the judge believe that the resolution is either true or false. Under "comparative worlds", they are trying to make the judge believe that the world they defend is preferable to their opponent's. In order to achieve either of these goals, debaters must almost always make the judge believe very many facts along the way, usually (but not always) including facts about morality and the expected effectiveness of a policy. So knowing some about belief will benefit you. (For more on what philosophers think about belief, check out the SEP.)
+
+One salient feature of beliefs is that they seem to admit of degrees. Thus, I can believe with a very high degree of confidence that the sky is blue, and believe with a somewhat lower degree of confidence that I will get the job I applied for. In a debate, better and more well-warranted arguments justify beliefs with higher degrees of confidence. The higher my confidence is in a belief, the more it takes to convince me that the belief is false. The takeaway so far is that I evaluate arguments in terms of reasons (of varying degrees) for beliefs in propositions.
+
+When evaluating arguments, I tend to think in terms of "offense" and "defense". An argument is offensive if it is a reason to believe a proposition. An argument is defensive if it is a reason to believe an offensive argument is not as strong as initially claimed.
+
+One notable suspicion I hold is that defense alone never completely mitigates offense. This is another way of saying I doubt the existence of "terminal defense". My reasoning is as follows: once I'm given a reason to believe some proposition, my confidence in that proposition's truth is now higher than my confidence that it is false. When I'm shown that my original reasoning for this proposition was faulty (in other words, when I'm given a defensive argument), then my confidence in this belief falls back toward equilibrium between truth and falsity. In order to return to perfect equilibrium, I'd have to believe with 100% confidence that my original reason failed (in other words, that the defensive argument is certainly true). The problem is, I tend to believe that it is extraordinarily difficult, and probably impossible, to hold a belief with 100% certainty. So I will always have at least a very low, but non-zero, confidence that my original reason for the belief works. Absent any other reasons for or against belief, this will be the only reason for belief left standing, and I'll believe (albeit quite modestly) in the proposition's truth. The only way to bring me over to the side that the belief is false is to give me a reason for believing that it is false (in other words, an offensive argument) that outweighs this very small confidence. The takeaway is that you're always better off making at least one offensive argument on an issue you hope to win than you are making only defensive arguments. However, this is only a suspicion, and if you think you can persuade me that it is false, you're welcome to try! (One possible exception to this rule is when an argument is demonstrably invalid. Invalid arguments might provide no reason whatsoever to believe their conclusions. Check out the difference between soundness and validity here.)
+
+MY GENERIC BELIEF SET/PARADIGM
+ 
+Many judges insist that they adhere to what is called a "tabula rasa" paradigm, under which they treat themselves as devoid of any beliefs whatsoever and evaluate the round based only on what debaters say/do. I would not say I am this sort of judge. I do think I need to assume the truth of arguments' premises at some point. Since I have to pick some beliefs to hold by default, I've chosen those that I generally think are a) most likely true, b) predictably so, and c) the least likely to become controversial. For example, I believe suffering and injustice are among the things that are bad; debate is a good, educational activity in which fairness also matters; the topic matters, etc. Unless you argue that these beliefs should be rejected, I will utilize them in making my decision. To be clear: these beliefs can be overcome (at least for the sake of the round) by giving me reasons to reject them. These are simply my starting points.
+
+PRESUMPTION
+ 
+Debaters sometimes make the argument that the judge should vote on "presumption". This could mean many things, including at least the following:
+
+1. Generic Epistemic Presumption: absent any other reasons for a belief in some proposition, we should believe that it is true/false.
+2. Epistemic Resolutional Presumption (under truth testing): absent any other reasons for belief for the truth/falsity of the resolution, the judge should believe that the resolution is true/false.
+3. Epistemic Resolutional Presumption (under comparative worlds): absent any other reasons for belief about which world is preferable, the judge should believe that the aff's/neg's world is preferable to the neg's/aff's world.
+4. Practical Procedural Presumption: absent any reason to vote for either debater (or in the case of a perfect tie), the judge should vote for the aff/neg.
+5. Moral Presumption: absent any other reason to believe anything about the moral status of some action, we should believe that this action is permitted/prohibited/obligatory.
+6. Policy Presumption: if a policy proposal is not better than the status quo, we ought to maintain the status quo.
+
+These distinctions are important because they are all invoked in different scenarios, and will all be supported by different arguments. But one thing they all have in common is that they speak to what should be done or believed when we lack any reason whatsoever for belief in some proposition. To this end, I can safely say the following: given my views about the (non-)existence of terminal defense, whenever you consider making an argument based on presumption, you are almost always better off providing offensive arguments for your proposition instead. As I mentioned earlier, these arguments will almost always give me some reason to prefer your proposition, and that reason will always count in favor of your belief at least a little bit, permanently removing presumption from the realm of possibility. If you do opt to make a presumption argument in front of me, please do your best to specify exactly what you mean, under what precise circumstances I should utilize presumption, and (ideally) why I shouldn't care about a risk of offense.
+
+UNIQUE FEATURES OF DEBATE ROUNDS
+ 
+LD debate and philosophy/political science/policymaking have many characteristics in common. Researching those academic fields will therefore benefit you. But there are also some important differences, and uniquely debate-related issues enjoy much less attention than academic ones. I'll give some thoughts on them here.
+
+ROLE OF THE BALLOT
+ 
+One important feature of debate rounds is the presence of a judge with a ballot. What is the judge supposed to do with this ballot? One might imagine a lot of possible answers--perhaps the judge is supposed to throw the ballot away, or draw beautiful art on it. But only a couple of answers strike most of us as highly plausible. The most popular view is that the judge is to vote (by circling the proper name on the ballot and then giving it to the proper tournament staff) for the debater who she determines is the victor of the debate round. On this view, the debate is a competition between the two debaters. As such, general features of competitions apply to debate rounds--rules aimed at making the activity fair for the competitors, punishments for violations of those rules, etc. On an opposing view that has been gaining momentum recently, the judge is to use the ballot as a tool for doing something good or right. Perhaps she is to vote for the debater whose speeches made the most positive impact in the round (or promise to make the most positive impact in future rounds). Or perhaps she is to do something attention-getting, like vote for no one, as a display of protest against some harmful practice. Perhaps she has a duty as an educator to keep from endorsing (with her vote) harmful practices.
+
+I don't know which of these views is better. By default, I evaluate the round as a competition, but you are welcome to make arguments about another role of the ballot.
+
+One thing that is important to note about your role of the ballot is the importance of the resolution under it. For example, if you believe the judge is to vote for the debater who is the victor, you might also justifiably believe that the victor is the one who best upholds their side of the resolution (whatever that ends up meaning, as I discuss in the next section). But if you believe in another view, you might think the resolution has no role to play in determining who the judge should vote for. This is an issue I see ignored too often. For example, in debates where one debater asserts that the role of the ballot is to fight structural oppression, I don't see any obvious reason the resolution would be relevant to determining who the judge votes for. There are many things I can do with my ballot that could help fight oppression that have nothing to do with the debate topic. Nevertheless, almost every debater I have judged who runs this or a similar role of the ballot still argues under the scope of the resolution. I tend to think these debaters are confused or at least haven't fully thought through their position, but I am open to being persuaded otherwise (and hopeful that I will be proven wrong!). The takeaway here is that if you run a role of the ballot that differs from my default view then you should think critically about whether (and why) we should care about the resolution under your role of the ballot, and explain to me what you conclude. For what it's worth, I tend to suffer the bias that the topic is a relatively important part of debate, but I may be argued out of this position.
+
+ROLE OF THE RESOLUTION
+ 
+Presume for this section that the resolution is an important consideration under your role of the ballot. There emerges a second question: how are we to interpret the role of the resolution? Two traditional answers divide up most (but not all) of the territory. According to the paradigm known as "truth testing", the resolution is a truth-apt proposition and the aff wins the debate if they provide more reason to believe that the resolution is true than the negative does that it is false, and the negative wins the debate if they provide more reason to believe the resolution is false than the affirmative does that it is true. The rival paradigm known as "comparative worlds" is characterized in many different ways, including the following: the resolution describes a possible world, and the aff wins the debate if this world is better (according to whatever metric is given by the normative term used in the resolution--usually "ought") than a world defended by the negative; the neg wins if their world is better. (In resolutions lacking "ought", the functionality of comparative worlds is less straightforward. Some have proposed that in these cases, we should evaluate the desirability of a world where people believe or act on the maxim contained in the resolution, but I suspect this view isn't tenable. I'm open to being persuaded otherwise.)
+
+I don't know which of these views is better, although lately I suspect it is truth testing. Arguments for either side, or other paradigms not described here, or arguments about whether these paradigms are even important for my adjudication of the round, are welcome. By default, I evaluate the resolution as a truth tester; after that, I evaluate the round in whatever way both debaters' arguments seem to function best. It very well may be that clash on one issue functions best under one framework but another issue works best under another framework. I will go case-by-case, unless there is explicit debate about the framework. If there is an issue that is irresolvable without deciding on one of these frameworks, and neither debater has made any arguments for or against either framework, I will evaluate the issue from the point of view of the aff's framework, simply because I need some way to decide and the aff had to choose their framework before the negative did. But you will be much better off if I am not put in this position.
+
+MISCELLANEOUS
+ 
+This section concerns my views on some debate practices. It will be particularly useful in answering specific questions for those whom I am about to judge.
+
+SPEED
+ 
+I have no objection to speed so long as I can understand what you’re saying. If I can’t understand, then I will try my best, but if my flow is incomplete, I will hold you responsible for it. I’m about an 8 of 10. I will yell “clear” or “louder” when I need to.
+
+THEORY
+ 
+Like most judges, I appreciate good theory debates and dislike frivolous ones. In general, I am much more likely to reward you for demonstrating actual abuse. The following is my list of default presumptions:
+I prefer it to be run in the form of an off-case shell with explicit parts.I default to reasonability on theory read against the 1AC and competing interps on theory read in any other speech.I believe by default that education and fairness matter.I default to rejecting the offending argument.I am firmly convinced that counter-interpretations are never voting issues, except when combined with an RVI.I am amenable to arguments that permit new responses to theory when the function of the original argument (e.g. whether the opponent violates) is unclear.By default theory is not an RVI but I am amenable to arguments that it is.
+TOPICALITY
+ 
+I believe topicality is distinct from theory. By default, the best interpretation of the resolution is the one that best captures the semantic meaning of the resolution. Thus, I evaluate pragmatic justifications (fairness/education) for topicality interpretations as lexically inferior to semantic ones.
+
+PHILOSOPHY/ETHICS
+ 
+I consider the resolution to be a normative question - that is, a question about the way things ought to be. Arguing for a particular normative ethical framework will be to your advantage in front of me. Absent any justification, I am a broad ethical pluralist - I assume that consequences matter, but they're not all that matter, and I think that suffering and injustice are bad. I will hold you accountable for explaining things in a way that is accessible to everyone in the round.
+
+KRITIKS
+ 
+What makes a kritik distinct from a disadvantage or turn is that it does not ask the judge to vote based on support for/against the resolution, but instead asks the judge to vote based on support for/against a particular debater and their behaviors. Thus, "kritik framing" argues that the judge should care about the debaters' assumptions, representations, scholarship, discourse, etc. more than the resolution itself. By default, I vote based on the debater who best supports their side of the resolution, except if one debater has used assumptions, representations, etc. that are unreasonably harmful. The notion of "unreasonably harmful" is analogous to the notion used by reasonability in theory debate.
+
+Typically, another feature that makes kritiks distinct from other philosophical arguments is that they rely largely on continental philosophy rather than analytic philosophy. I am comfortable evaluating both bodies of literature and don't think either is necessarily superior to the other, though I have substantially more experience in the analytic method. Independently of my own background, I will hold you accountable for making a reasonable effort to explain your argument in a way your opponent can understand.
+
+EXTENSIONS
+ 
+I expect more involved extensions on arguments which are more highly contested. This means if the claim is contested, you need to rehash the specific warrants you are pitting against your opponent’s objections. I consider the warrants of dropped arguments to be incontestably true, so you don’t need to re-explain their warrants, but that doesn’t extend to the application/impact of the argument, so you’ll still need to explain the interaction of this truth with other claims in the round.
+
+NEW ARGUMENTS
+ 
+By default I will reject arguments that are made later than the earliest speech in which they could have reasonably been made. For example, I will accept 2AR responses to theory read in the 2N, since it would be unreasonable to force the aff to anticipate the theory argument. As for what counts as 'reasonable' here, I am happy to be generous--I almost never think debaters are reasonably required to preempt offensive arguments, even when it would be strategically advantageous for them to do so.
+
+SPEAKER POINTS
+ 
+I average them based on the tournament; they generally fall between 27 and 29. Speaks tend to reflect my satisfaction with your performance. Ways to get high speaks include giving efficient rebuttals, making good extensions, making strong arguments, properly explaining arguments, explaining philosophy/debate in a way that I agree with, and being a good sport. I punish rudeness. I am unlikely to reward you for tricks.
+  

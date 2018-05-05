@@ -1,0 +1,50 @@
+
+  Hi!
+
+I debated for Fairview High in CO from 2007 to 2011. I did LD for 3 years and CX for 1.
+
+I reserve the right to intervene on debates that involve Ks, performances, theory, and certain framework arguments. I also disagree with the common view that LD should be evaluated basically exactly like policy -- see below for how I evaluate it.
+
+My default
+Policy: We all pretend to be policymakers (that is, we have imaginary control over the decisions of every policymaker who would be involved in making the decision in real life.) Aff proposes a topical plan, and the debate proceeds within the frame of fiat, and the impacts of passing the plan are evaluated with utilitarianism. How impacts should be weighed within util is completely open to debate.
+
+LD: We pretend through fiat to be everybody in the world all at once. Aff defends a world where everybody generally agrees that the Aff criterion is the only proper way to evaluate the Aff value. Then, Aff has two necessary conditions for winning -- first, they must successfully argue that if their framework is generally agreed upon, then the resolution will also be generally agreed upon. This is what it means to win the contention-level impact debate. Second, Aff must convince me, the judge, that I would prefer to live in a world where everybody agrees with their framework than live in the status quo. This is what it means to win the framework debate. The Neg defaults to the status quo, but if they read a framework, then they are essentially offering a "counter-framework" that functions like a counterplan. So, the Neg framework should be competitive i.e. mutually exclusive with the Aff framework. My judgement of which framework I prefer is aesthetic and philosophical (that is, you should convince me that the Aff world is a particularly rational, beautiful, and humane world to live in). So, my ideal framework debate involves a dimension of the poetic, and is in this sense shamelessly subjective. However, most framework debates are so awful that usually if you put up any sort of reasonable fight for your criterion, I'll prefer your framework. If nobody offers a framework, I default to util.
+
+Anything else (including truth-testing and specific aff plans) requires theoretical justification with clear pre-fiat impacts.
+
+My way of looking at LD has a couple strange practical implications. First, I don't accept arguments from the Aff that are like: "the extinction impact out of contention 1 also impacts to the neg framework so the framework debate doesn't matter." I know these arguments are standard but I think disallowing them helps bring the focus in LD back to the philosophy. Second, if Aff's framework is something like "individuals ought never intentionally kill other people" and Neg's framework is something like "a just government should treat all its citizens as equals in the eyes of the law," then Neg's framework doesn't matter at all, since it's non-competitive. This helps avoid those bizarre "morality comes before justice" debates.
+
+If you're not sure by now what framework to run in front of me, run whatever case you have that would make the most sense to a lay judge. It will probably be just fine for me.
+
+If you want to do something else:
+Awesome, but... I might not evaluate it the way you expect.
+
+What you do when you read a K or a theory shell or your slam poetry or whatever is you're saying: "Something is bad about this debate (or traditional debate in general) -- and actually is so bad that I am choosing to derail the whole debate to talk about my thing now."
+
+An analogy is: suppose traditional debate is like a game of Monopoly. Running theory is like saying "Hey! You can't trade properties!" or starting an argument about whether you get money when you land on Free Parking. Running a K is like saying "Hey! Instead of playing Monopoly, we should reflect on how messed up it is that Monopoly reinforces capitalist ideology!" or "Hey! Stop screwing me over just because I'm black!" Running framework is like saying: "Instead of letting the last person standing win, let's say whoever has the most properties after an hour of playing is the winner." A performance is like breaking out in song instead of rolling the dice.
+
+Sometimes these arguments are really important. I think a heartfelt K or performance in particular can be an extremely powerful move. But a lot of the time they just make you the annoying narcissistic guy who just totally ruined a good game of Monopoly.
+
+And if you're the annoying guy -- that is, if you run a pre-fiat argument that I consider to be frivolous, or worse, that appears to me as a move that you expect will win you the round by virtue of confusing your opponents, then I will intervene and vote you down without your opponent saying anything at all.
+
+General ways to win me over on pre-fiat arguments:
+- be patient with your opponents and do your best to make sure they fully understand the argument you're making
+- be sure you fully understand the argument
+- genuinely believe in the argument
+
+With theory and framework, if your opponents have done something that's not standard and you make a coherent argument against it that your opponents can't answer, I'll vote for your argument. I default to reasonability and am open to RVIs.
+
+With Ks and performances, if you make your opponents look at each other like "oh wow I never thought of that before," then that's almost certainly a successful argument.
+
+I guess my big disclaimer is this: if you run any argument with pre-fiat impacts, be aware that I might vote you down even though you thought you won based on the flow.
+
+Speed
+- Please slow way down for taglines and authors. If I don't understand the tagline, it won't get flowed.
+- I'll say 'slow' or 'clear' if I can't keep up
+
+Weighing
+- Weigh arguments explicitly and mathematically in all rebuttals.
+
+Extensions
+- Are essential in all rebuttals. Claim, warrant + impact all need to be clearly restated for any argument you want me to vote on. This includes defense. Should take at least 10 seconds per independent argument. This is just good practice for keeping the debate clear.
+  
