@@ -1,6 +1,6 @@
 
-  Strath Haven High School ’16 – three years of policy debate
-University of Pennsylvania ’20 – first year of non-policy college debate
+  <cxexp3>Strath Haven High School ’16 – three years of policy debate
+University of Pennsylvania ’20 – first year of non-policy college debate</cxexp3>
 *If there is something I haven’t covered in my paradigm, or you don’t have time to read it fully, ask me before the round.
 *Yes, I’d like to be on the email chain if there is one. My email is alexander.b138@gmail.com.
 
@@ -16,7 +16,7 @@ Be respectful and courteous of the other debaters in the room – do not be over
 Quick answers:
 · Open CX is fine
 · I don’t take prep time for flashing
-· Go as fast as you can without sacrificing clarity – I will yell “clear” if I can’t understand you.
+· <s3>Go as fast as you can without sacrificing clarity – I will yell “clear” if I can’t understand you.</s3>
 
 Specific Arguments
 Topicality: typically undervalued in high school debate. My threshold for voting on T will likely be lower than most judges, providing you can flush out a compelling reason to vote. Don’t throw voters like “education” at me without articulating the reasons why education or fairness are important to the activity, and why I should be voting for them. Also, make sure you understand exactly what the affirmative does if you go for T, and create a nuanced violation by the negative block.

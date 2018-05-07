@@ -13,9 +13,8 @@ For the most part, this is up for you to determine. I try to enter the round as 
 
 3. Tell me what to vote on and why. During your rebuttals, write the RFD for me. Be explicit: what do you have to do to win, and how have you achieved that? What did your opponents fail to do that should cost them the round? If nobody tells me how to vote, I default policy maker
 
-4. As far as speed, you need to know your own limits. For me it's not an issue of speed but one of clarity; I don't care how fast you go as long as you're still actually saying words. The only time I've had trouble keeping up is when people speed through analytical blocks that pack 10 distinct arguments in a span of 15 seconds.
+4. As far as speed, you need to know your own limits. <S2> For me it's not an issue of speed but one of clarity; I don't care how fast you go as long as you're still actually saying words. The only time I've had trouble keeping up is when people speed through analytical blocks that pack 10 distinct arguments in a span of 15 seconds.</S2>
 
-5. If you are going to run a K, please understand it. I believe that K debates can be extraordinarily educational, but just spewing things you don't understand won't win you a round. I also tend to dislike "reject the Aff" alternatives, in my mind the aff can weigh their case against the K unless the negative specifically convinces me otherwise/
+5. <slowk>If you are going to run a K, please understand it.</slowk> I believe that K debates can be extraordinarily educational, but just spewing things you don't understand won't win you a round. I also tend to dislike "reject the Aff" alternatives, in my mind the aff can weigh their case against the K unless the negative specifically convinces me otherwise/
 
-6. I tend to weigh systemic impacts more heavily than low-risk high-magnitude impacts, but feel free to convince me otherwise.
-  
+<?>6. I tend to weigh systemic impacts more heavily than low-risk high-magnitude impacts, but feel free to convince me otherwise.</?>
