@@ -1,6 +1,6 @@
 
   Affiliation: Brookings HS, Fairview HS
-Debate Experience: Four years of high school policy for Brookings HS in South Dakota, currently the CX coach for Fairview.
+Debate Experience: <exp4>Four years of high school policy for Brookings HS in South Dakota, currently the CX coach</exp4> for Fairview.
 
 I've judged around 25 rounds on the ocean topic.
 
@@ -9,7 +9,7 @@ For the most part, this is up for you to determine. I try to enter the round as 
 
 1. Clash, warrant, and weigh.
 
-2. Have a coherent story. Unless you set up a framework telling me otherwise, I'll default to weighing probability more than the average policy judge.
+2. <tru>Have a coherent story. Unless you set up a framework telling me otherwise, I'll default to weighing probability more than the average policy judge</tru>.
 
 3. Tell me what to vote on and why. During your rebuttals, write the RFD for me. Be explicit: what do you have to do to win, and how have you achieved that? What did your opponents fail to do that should cost them the round? If nobody tells me how to vote, I default policy maker
 
