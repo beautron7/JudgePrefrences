@@ -1,11 +1,11 @@
 
-  I am a parent judge for Harrison High School in New York, and am a practicing attorney.
+  <Exp1>I am a parent judge</Exp1> for Harrison High School in New York, and am a practicing attorney.
  
  
   I have limited experience in judging debate.
  
 
-I will flow what I can, but you will need to speak slowly. 
+<s1>I will flow what I can,</s1> <s0>but you will need to speak slowly.</s0>
   
  Please signpost.
  

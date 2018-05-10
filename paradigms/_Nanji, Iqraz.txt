@@ -3,9 +3,9 @@
 School: The Barstow School
 
 
-I debated for four years at Barstow and now am a second-year student at Columbia University. My partner and I made it to the TOC our senior year.
+<exp3>I debated for four years at Barstow and now am a second-year student at Columbia University. My partner and I made it to the TOC our senior year.</exp3>
 
-To say that I have no argument preference is a lie. Nearing the end of my debate career, my negative strategies were heavily reliant on ontology critiques and our aff was full on hegemonic propaganda. That being said, I am willing to listen to anything in the spectrum (or outside of it). Here are some argument specifics:
+<klit3>To say that I have no argument preference is a lie. Nearing the end of my debate career, my negative strategies were heavily reliant on ontology critiques and our aff was full on hegemonic propaganda.</klit3> That being said, I am willing to listen to anything in the spectrum (or outside of it). Here are some argument specifics:
 
 The aff-- Do what you want as long as you can explain it. If you're not reading a run of the mill argument, I will hold you at a higher threshold mostly because I'm not all too aware of the intricacies of this topic.
 
@@ -13,11 +13,11 @@ Topicality -- if you think about it, T debates are--and should be--about limits.
 
 Theory -- In most cases I will lean towards rejecting the argument and not the team, though I can be persuaded otherwise. Don't read your generic blocks--be innovative with arguments.
 
-Counter-plans -- CPs are precious resources! If you have a specific CP, it can and will get you far in the debate--mostly because aff teams don't know how to engage them. I've read and gone for a wide set range of PICs, Process CPs, and shoddy internal net benefits, so I am willing to vote on "tricks" as long as they are executed well with warrants and all. That being said, don't base your strategy off of cheap shots, for quality of argumentation is optimal.
+Counter-plans -- CPs are precious resources! If you have a specific CP, it can and will get you far in the debate--mostly because aff teams don't know how to engage them. <proccp2>I've read and gone for a wide set range of PICs, Process CPs, and shoddy internal net benefits, so I am willing to vote on "tricks" as long as they are executed well with warrants and all.</proccp2> That being said, don't base your strategy off of cheap shots, for quality of argumentation is optimal.
 
 Disadvantages/Case Turns -- DAs are good. My DA background is heavily politics oriented. Case turns are available for practically any argument--an easy go to when you don't have much to say against the aff.
 
-Critiques -- When it comes to critique literature, I am most familiar with ontology critiques. This includes: Heidegger, Environment/Neolib, Security, Irigaray, and OOO. That being said, you can definitely read any K you want... Given that K lit is always lacking somewhere, don't be scared to get innovative! Use K tricks (be upfront), mix-and-match relevant literature (be ethical), spin your arguments into more than they are (be smart). I love it when people transform vague critique evidence into something a lot more than there is in the evidence--this will definitely get you better speaks (again, if executed well). Nevertheless, don't think that you can totally get away without specifics -- warrants matter and usually allow for tactically better debates.
+Critiques -- <Klit3>When it comes to critique literature, I am most familiar with ontology critiques. This includes: Heidegger, Environment/Neolib, Security, Irigaray, and OOO.</Klit3> That being said, you can definitely read any K you want... Given that K lit is always lacking somewhere, don't be scared to get innovative! Use K tricks (be upfront), mix-and-match relevant literature (be ethical), spin your arguments into more than they are (be smart). I love it when people transform vague critique evidence into something a lot more than there is in the evidence--this will definitely get you better speaks (again, if executed well). Nevertheless, don't think that you can totally get away without specifics -- warrants matter and usually allow for tactically better debates.
 
 Framework (vs. K) -- Framework debates usually get bogged down in rejection discourse... I usually will not vote to reject all critiques from debate. An infinitely better way to engage with this argument is accessing offense through the frame the critique uses. Tell me why your aff is ontologically, epistemologically, or pedagogically (etc.) better than the neg.
 
