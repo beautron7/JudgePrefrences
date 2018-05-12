@@ -1,0 +1,148 @@
+  body {
+    font-family: sans-serif
+  }
+
+  $prepd-orange:#b60;
+  $sidebar-width: 400px;
+  $pill-margin: 10px;
+  $rank-button-margin:0;
+
+
+  menu {
+    display:block;
+    position:fixed;
+    left:0px;
+    right:0px;
+    top:0px;
+    height:50px;
+    margin:0;
+    padding:0;
+    
+    background:$prepd-orange;
+    text-align:center;
+  }
+
+
+  menu tournament {
+    display:inline;
+    float: left;
+    padding-left:10px;
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+    line-height:50px;
+
+    &::before {
+      content:"*"
+    }
+  }
+
+
+  sidebar {
+    position:fixed;
+    top: 50px;
+    left: 0px;
+    bottom:0px;
+    width: $sidebar-width;
+    background:lightgray;
+      
+
+    item {
+      overflow:hidden;
+      display:block;
+      height:50px;
+      margin:$pill-margin;
+
+      box-shadow: 0 0 10px black;
+      background:gray;
+
+      &:before{
+        content:attr(rating);
+        position:absolute;
+        display:inline-block;
+        line-height:40px;
+        height:40px;
+        width:40px;
+        margin:5px;
+        border-radius:50%;
+
+        text-align:center;
+        background:red;
+      }
+      viewParadigm {
+        position: absolute;
+        right: 10px;
+        width:40px;
+        height: 40px;
+        margin:5px;
+        border-radius: 5px;
+        text-align: center;
+        
+        background: darkgray;
+        line-height: 40px;
+        font-size: 30px;
+        box-shadow: 0 0 5px black;
+        &:active {
+          box-shadow: 0 0 10px black inset;
+        }
+      }
+      
+
+      &:hover {
+        clickPref {
+          display:inline
+        }
+        name {
+          display: none;
+        }
+      }
+    }
+  }
+
+
+  sidebar item name {
+    line-height:50px;
+    font-size:20px;
+    position: relative; 
+    left:50px;
+  }
+
+  content {
+    position: fixed;
+    left: $sidebar-width;
+    top: 50px;
+    padding: 16px;
+  }
+
+  sidebar item clickPref{
+    position:absolute;
+    left:60px;
+    display:none;
+    
+    // &:hover button{
+    //   background-color: peru;
+    // }
+
+    button {
+      display:inline;
+      width:40px;
+      height:40px;
+      padding:0px;
+      margin:5px 0px;
+      border:none;
+      border-radius:50%;
+
+      background:peru;
+      &:hover {
+        background:orangered
+      }
+
+      &:hover ~ button{
+        background:white;
+      }
+      box-shadow: 0 0 5px black;
+      &:active {
+        box-shadow: 0 0 10px inset black;
+      }
+    }
+  }
